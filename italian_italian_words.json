@@ -1,0 +1,1202 @@
+[
+    {
+        "italian": "ciao",
+        "english": "hello"
+    },
+    {
+        "italian": "amore",
+        "english": "love"
+    },
+    {
+        "italian": "gatto",
+        "english": "cat"
+    },
+    {
+        "italian": "cane",
+        "english": "dog"
+    },
+    {
+        "italian": "libro",
+        "english": "book"
+    },
+    {
+        "italian": "casa",
+        "english": "house"
+    },
+    {
+        "italian": "scuola",
+        "english": "school"
+    },
+    {
+        "italian": "amico",
+        "english": "friend"
+    },
+    {
+        "italian": "famiglia",
+        "english": "family"
+    },
+    {
+        "italian": "acqua",
+        "english": "water"
+    },
+    {
+        "italian": "mangiare",
+        "english": "to eat"
+    },
+    {
+        "italian": "bere",
+        "english": "to drink"
+    },
+    {
+        "italian": "camminare",
+        "english": "to walk"
+    },
+    {
+        "italian": "correre",
+        "english": "to run"
+    },
+    {
+        "italian": "dormire",
+        "english": "to sleep"
+    },
+    {
+        "italian": "sognare",
+        "english": "to dream"
+    },
+    {
+        "italian": "lavorare",
+        "english": "to work"
+    },
+    {
+        "italian": "giocare",
+        "english": "to play"
+    },
+    {
+        "italian": "scrivere",
+        "english": "to write"
+    },
+    {
+        "italian": "leggere",
+        "english": "to read"
+    },
+    {
+        "italian": "vedere",
+        "english": "to see"
+    },
+    {
+        "italian": "ascoltare",
+        "english": "to listen"
+    },
+    {
+        "italian": "parlare",
+        "english": "to talk"
+    },
+    {
+        "italian": "capire",
+        "english": "to understand"
+    },
+    {
+        "italian": "sentire",
+        "english": "to hear"
+    },
+    {
+        "italian": "volere",
+        "english": "to want"
+    },
+    {
+        "italian": "potere",
+        "english": "can / to be able to"
+    },
+    {
+        "italian": "dovere",
+        "english": "must / to have to"
+    },
+    {
+        "italian": "sapere",
+        "english": "to know"
+    },
+    {
+        "italian": "pensare",
+        "english": "to think"
+    },
+    {
+        "italian": "credere",
+        "english": "to believe"
+    },
+    {
+        "italian": "aprire",
+        "english": "to open"
+    },
+    {
+        "italian": "chiudere",
+        "english": "to close"
+    },
+    {
+        "italian": "buono",
+        "english": "good"
+    },
+    {
+        "italian": "cattivo",
+        "english": "bad"
+    },
+    {
+        "italian": "grande",
+        "english": "big"
+    },
+    {
+        "italian": "piccolo",
+        "english": "small"
+    },
+    {
+        "italian": "vecchio",
+        "english": "old"
+    },
+    {
+        "italian": "giovane",
+        "english": "young"
+    },
+    {
+        "italian": "bello",
+        "english": "beautiful"
+    },
+    {
+        "italian": "brutto",
+        "english": "ugly"
+    },
+    {
+        "italian": "nuovo",
+        "english": "new"
+    },
+    {
+        "italian": "felice",
+        "english": "happy"
+    },
+    {
+        "italian": "triste",
+        "english": "sad"
+    },
+    {
+        "italian": "facile",
+        "english": "easy"
+    },
+    {
+        "italian": "difficile",
+        "english": "difficult"
+    },
+    {
+        "italian": "caldo",
+        "english": "hot"
+    },
+    {
+        "italian": "freddo",
+        "english": "cold"
+    },
+    {
+        "italian": "giorno",
+        "english": "day"
+    },
+    {
+        "italian": "notte",
+        "english": "night"
+    },
+    {
+        "italian": "mattina",
+        "english": "morning"
+    },
+    {
+        "italian": "sera",
+        "english": "evening"
+    },
+    {
+        "italian": "rosso",
+        "english": "red"
+    },
+    {
+        "italian": "blu",
+        "english": "blue"
+    },
+    {
+        "italian": "verde",
+        "english": "green"
+    },
+    {
+        "italian": "giallo",
+        "english": "yellow"
+    },
+    {
+        "italian": "nero",
+        "english": "black"
+    },
+    {
+        "italian": "bianco",
+        "english": "white"
+    },
+    {
+        "italian": "grigio",
+        "english": "gray"
+    },
+    {
+        "italian": "arancione",
+        "english": "orange"
+    },
+    {
+        "italian": "viola",
+        "english": "purple"
+    },
+    {
+        "italian": "rosa",
+        "english": "pink"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    },
+    {
+        "italian": "mare",
+        "english": "sea"
+    },
+    {
+        "italian": "montagna",
+        "english": "mountain"
+    },
+    {
+        "italian": "fiume",
+        "english": "river"
+    },
+    {
+        "italian": "lago",
+        "english": "lake"
+    },
+    {
+        "italian": "sole",
+        "english": "sun"
+    },
+    {
+        "italian": "luna",
+        "english": "moon"
+    },
+    {
+        "italian": "stella",
+        "english": "star"
+    },
+    {
+        "italian": "vento",
+        "english": "wind"
+    },
+    {
+        "italian": "pioggia",
+        "english": "rain"
+    },
+    {
+        "italian": "neve",
+        "english": "snow"
+    },
+    {
+        "italian": "pesce",
+        "english": "fish"
+    },
+    {
+        "italian": "uccello",
+        "english": "bird"
+    },
+    {
+        "italian": "elefante",
+        "english": "elephant"
+    },
+    {
+        "italian": "cavallo",
+        "english": "horse"
+    },
+    {
+        "italian": "scimmia",
+        "english": "monkey"
+    },
+    {
+        "italian": "serpente",
+        "english": "snake"
+    },
+    {
+        "italian": "formaggio",
+        "english": "cheese"
+    },
+    {
+        "italian": "pane",
+        "english": "bread"
+    },
+    {
+        "italian": "latte",
+        "english": "milk"
+    },
+    {
+        "italian": "riso",
+        "english": "rice"
+    }
+]
