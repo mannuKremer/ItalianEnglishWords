@@ -1,0 +1,6 @@
+{
+  "updateInterval": 30000,
+  "wordsFile": "italian_words.json",
+  "tempDir": "/tmp",
+  "audioFormat": ".mp3"
+}
