@@ -7,7 +7,12 @@ let words = [];
 
 app.whenReady().then(() => {
     app.dock.hide();
+    const contextMenu = Menu.buildFromTemplate([
+        { label: 'Quit', click: () => app.quit() } // אפשרות לסגור
+    ]);
+
     tray = new Tray(path.join(__dirname, 'icon.png'));
+    tray.setContextMenu(contextMenu);
 
     fs.readFile(path.join(__dirname, 'italian_italian_words.json'), 'utf8', (err, data) => {
         if (err) {

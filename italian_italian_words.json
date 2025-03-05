@@ -1,1202 +1,5774 @@
 [
-    {
-        "italian": "ciao",
-        "english": "hello"
-    },
-    {
-        "italian": "amore",
-        "english": "love"
-    },
-    {
-        "italian": "gatto",
-        "english": "cat"
-    },
-    {
-        "italian": "cane",
-        "english": "dog"
-    },
-    {
-        "italian": "libro",
-        "english": "book"
-    },
-    {
-        "italian": "casa",
-        "english": "house"
-    },
-    {
-        "italian": "scuola",
-        "english": "school"
-    },
-    {
-        "italian": "amico",
-        "english": "friend"
-    },
-    {
-        "italian": "famiglia",
-        "english": "family"
-    },
-    {
-        "italian": "acqua",
-        "english": "water"
-    },
-    {
-        "italian": "mangiare",
-        "english": "to eat"
-    },
-    {
-        "italian": "bere",
-        "english": "to drink"
-    },
-    {
-        "italian": "camminare",
-        "english": "to walk"
-    },
-    {
-        "italian": "correre",
-        "english": "to run"
-    },
-    {
-        "italian": "dormire",
-        "english": "to sleep"
-    },
-    {
-        "italian": "sognare",
-        "english": "to dream"
-    },
-    {
-        "italian": "lavorare",
-        "english": "to work"
-    },
-    {
-        "italian": "giocare",
-        "english": "to play"
-    },
-    {
-        "italian": "scrivere",
-        "english": "to write"
-    },
-    {
-        "italian": "leggere",
-        "english": "to read"
-    },
-    {
-        "italian": "vedere",
-        "english": "to see"
-    },
-    {
-        "italian": "ascoltare",
-        "english": "to listen"
-    },
-    {
-        "italian": "parlare",
-        "english": "to talk"
-    },
-    {
-        "italian": "capire",
-        "english": "to understand"
-    },
-    {
-        "italian": "sentire",
-        "english": "to hear"
-    },
-    {
-        "italian": "volere",
-        "english": "to want"
-    },
-    {
-        "italian": "potere",
-        "english": "can / to be able to"
-    },
-    {
-        "italian": "dovere",
-        "english": "must / to have to"
-    },
-    {
-        "italian": "sapere",
-        "english": "to know"
-    },
-    {
-        "italian": "pensare",
-        "english": "to think"
-    },
-    {
-        "italian": "credere",
-        "english": "to believe"
-    },
-    {
-        "italian": "aprire",
-        "english": "to open"
-    },
-    {
-        "italian": "chiudere",
-        "english": "to close"
-    },
-    {
-        "italian": "buono",
-        "english": "good"
-    },
-    {
-        "italian": "cattivo",
-        "english": "bad"
-    },
-    {
-        "italian": "grande",
-        "english": "big"
-    },
-    {
-        "italian": "piccolo",
-        "english": "small"
-    },
-    {
-        "italian": "vecchio",
-        "english": "old"
-    },
-    {
-        "italian": "giovane",
-        "english": "young"
-    },
-    {
-        "italian": "bello",
-        "english": "beautiful"
-    },
-    {
-        "italian": "brutto",
-        "english": "ugly"
-    },
-    {
-        "italian": "nuovo",
-        "english": "new"
-    },
-    {
-        "italian": "felice",
-        "english": "happy"
-    },
-    {
-        "italian": "triste",
-        "english": "sad"
-    },
-    {
-        "italian": "facile",
-        "english": "easy"
-    },
-    {
-        "italian": "difficile",
-        "english": "difficult"
-    },
-    {
-        "italian": "caldo",
-        "english": "hot"
-    },
-    {
-        "italian": "freddo",
-        "english": "cold"
-    },
-    {
-        "italian": "giorno",
-        "english": "day"
-    },
-    {
-        "italian": "notte",
-        "english": "night"
-    },
-    {
-        "italian": "mattina",
-        "english": "morning"
-    },
-    {
-        "italian": "sera",
-        "english": "evening"
-    },
-    {
-        "italian": "rosso",
-        "english": "red"
-    },
-    {
-        "italian": "blu",
-        "english": "blue"
-    },
-    {
-        "italian": "verde",
-        "english": "green"
-    },
-    {
-        "italian": "giallo",
-        "english": "yellow"
-    },
-    {
-        "italian": "nero",
-        "english": "black"
-    },
-    {
-        "italian": "bianco",
-        "english": "white"
-    },
-    {
-        "italian": "grigio",
-        "english": "gray"
-    },
-    {
-        "italian": "arancione",
-        "english": "orange"
-    },
-    {
-        "italian": "viola",
-        "english": "purple"
-    },
-    {
-        "italian": "rosa",
-        "english": "pink"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    },
-    {
-        "italian": "mare",
-        "english": "sea"
-    },
-    {
-        "italian": "montagna",
-        "english": "mountain"
-    },
-    {
-        "italian": "fiume",
-        "english": "river"
-    },
-    {
-        "italian": "lago",
-        "english": "lake"
-    },
-    {
-        "italian": "sole",
-        "english": "sun"
-    },
-    {
-        "italian": "luna",
-        "english": "moon"
-    },
-    {
-        "italian": "stella",
-        "english": "star"
-    },
-    {
-        "italian": "vento",
-        "english": "wind"
-    },
-    {
-        "italian": "pioggia",
-        "english": "rain"
-    },
-    {
-        "italian": "neve",
-        "english": "snow"
-    },
-    {
-        "italian": "pesce",
-        "english": "fish"
-    },
-    {
-        "italian": "uccello",
-        "english": "bird"
-    },
-    {
-        "italian": "elefante",
-        "english": "elephant"
-    },
-    {
-        "italian": "cavallo",
-        "english": "horse"
-    },
-    {
-        "italian": "scimmia",
-        "english": "monkey"
-    },
-    {
-        "italian": "serpente",
-        "english": "snake"
-    },
-    {
-        "italian": "formaggio",
-        "english": "cheese"
-    },
-    {
-        "italian": "pane",
-        "english": "bread"
-    },
-    {
-        "italian": "latte",
-        "english": "milk"
-    },
-    {
-        "italian": "riso",
-        "english": "rice"
-    }
+  {
+    "italian": "ciao",
+    "english": "hello"
+  },
+  {
+    "italian": "amore",
+    "english": "love"
+  },
+  {
+    "italian": "felicità",
+    "english": "happiness"
+  },
+  {
+    "italian": "grazie",
+    "english": "thank you"
+  },
+  {
+    "italian": "arrivederci",
+    "english": "goodbye"
+  },
+  {
+    "italian": "bella",
+    "english": "beautiful"
+  },
+  {
+    "italian": "amico",
+    "english": "friend"
+  },
+  {
+    "italian": "famiglia",
+    "english": "family"
+  },
+  {
+    "italian": "tempo",
+    "english": "time"
+  },
+  {
+    "italian": "mangiare",
+    "english": "to eat"
+  },
+  {
+    "italian": "bere",
+    "english": "to drink"
+  },
+  {
+    "italian": "sole",
+    "english": "sun"
+  },
+  {
+    "italian": "luna",
+    "english": "moon"
+  },
+  {
+    "italian": "casa",
+    "english": "house"
+  },
+  {
+    "italian": "strada",
+    "english": "street"
+  },
+  {
+    "italian": "musica",
+    "english": "music"
+  },
+  {
+    "italian": "viaggio",
+    "english": "travel"
+  },
+  {
+    "italian": "sogno",
+    "english": "dream"
+  },
+  {
+    "italian": "vita",
+    "english": "life"
+  },
+  {
+    "italian": "buongiorno",
+    "english": "good morning"
+  },
+  {
+    "italian": "buonasera",
+    "english": "good evening"
+  },
+  {
+    "italian": "notte",
+    "english": "night"
+  },
+  {
+    "italian": "giorno",
+    "english": "day"
+  },
+  {
+    "italian": "acqua",
+    "english": "water"
+  },
+  {
+    "italian": "fuoco",
+    "english": "fire"
+  },
+  {
+    "italian": "terra",
+    "english": "earth"
+  },
+  {
+    "italian": "cielo",
+    "english": "sky"
+  },
+  {
+    "italian": "montagna",
+    "english": "mountain"
+  },
+  {
+    "italian": "mare",
+    "english": "sea"
+  },
+  {
+    "italian": "fiume",
+    "english": "river"
+  },
+  {
+    "italian": "foresta",
+    "english": "forest"
+  },
+  {
+    "italian": "albero",
+    "english": "tree"
+  },
+  {
+    "italian": "fiore",
+    "english": "flower"
+  },
+  {
+    "italian": "vento",
+    "english": "wind"
+  },
+  {
+    "italian": "pioggia",
+    "english": "rain"
+  },
+  {
+    "italian": "neve",
+    "english": "snow"
+  },
+  {
+    "italian": "caldo",
+    "english": "hot"
+  },
+  {
+    "italian": "freddo",
+    "english": "cold"
+  },
+  {
+    "italian": "luce",
+    "english": "light"
+  },
+  {
+    "italian": "ombra",
+    "english": "shadow"
+  },
+  {
+    "italian": "colore",
+    "english": "color"
+  },
+  {
+    "italian": "rosso",
+    "english": "red"
+  },
+  {
+    "italian": "blu",
+    "english": "blue"
+  },
+  {
+    "italian": "verde",
+    "english": "green"
+  },
+  {
+    "italian": "giallo",
+    "english": "yellow"
+  },
+  {
+    "italian": "bianco",
+    "english": "white"
+  },
+  {
+    "italian": "nero",
+    "english": "black"
+  },
+  {
+    "italian": "parlare",
+    "english": "to speak"
+  },
+  {
+    "italian": "ascoltare",
+    "english": "to listen"
+  },
+  {
+    "italian": "capire",
+    "english": "to understand"
+  },
+  {
+    "italian": "vedere",
+    "english": "to see"
+  },
+  {
+    "italian": "scrivere",
+    "english": "to write"
+  },
+  {
+    "italian": "leggere",
+    "english": "to read"
+  },
+  {
+    "italian": "camminare",
+    "english": "to walk"
+  },
+  {
+    "italian": "correre",
+    "english": "to run"
+  },
+  {
+    "italian": "dormire",
+    "english": "to sleep"
+  },
+  {
+    "italian": "svegliare",
+    "english": "to wake up"
+  },
+  {
+    "italian": "lavorare",
+    "english": "to work"
+  },
+  {
+    "italian": "studiare",
+    "english": "to study"
+  },
+  {
+    "italian": "giocare",
+    "english": "to play"
+  },
+  {
+    "italian": "cantare",
+    "english": "to sing"
+  },
+  {
+    "italian": "ballare",
+    "english": "to dance"
+  },
+  {
+    "italian": "ridere",
+    "english": "to laugh"
+  },
+  {
+    "italian": "piangere",
+    "english": "to cry"
+  },
+  {
+    "italian": "pensare",
+    "english": "to think"
+  },
+  {
+    "italian": "sapere",
+    "english": "to know"
+  },
+  {
+    "italian": "volere",
+    "english": "to want"
+  },
+  {
+    "italian": "potere",
+    "english": "to be able"
+  },
+  {
+    "italian": "dovere",
+    "english": "to have to"
+  },
+  {
+    "italian": "andare",
+    "english": "to go"
+  },
+  {
+    "italian": "venire",
+    "english": "to come"
+  },
+  {
+    "italian": "partire",
+    "english": "to leave"
+  },
+  {
+    "italian": "tornare",
+    "english": "to return"
+  },
+  {
+    "italian": "vivere",
+    "english": "to live"
+  },
+  {
+    "italian": "morire",
+    "english": "to die"
+  },
+  {
+    "italian": "nascere",
+    "english": "to be born"
+  },
+  {
+    "italian": "grande",
+    "english": "big"
+  },
+  {
+    "italian": "piccolo",
+    "english": "small"
+  },
+  {
+    "italian": "alto",
+    "english": "tall"
+  },
+  {
+    "italian": "basso",
+    "english": "short"
+  },
+  {
+    "italian": "lungo",
+    "english": "long"
+  },
+  {
+    "italian": "corto",
+    "english": "short"
+  },
+  {
+    "italian": "nuovo",
+    "english": "new"
+  },
+  {
+    "italian": "vecchio",
+    "english": "old"
+  },
+  {
+    "italian": "buono",
+    "english": "good"
+  },
+  {
+    "italian": "cattivo",
+    "english": "bad"
+  },
+  {
+    "italian": "facile",
+    "english": "easy"
+  },
+  {
+    "italian": "difficile",
+    "english": "difficult"
+  },
+  {
+    "italian": "felice",
+    "english": "happy"
+  },
+  {
+    "italian": "triste",
+    "english": "sad"
+  },
+  {
+    "italian": "stanco",
+    "english": "tired"
+  },
+  {
+    "italian": "forte",
+    "english": "strong"
+  },
+  {
+    "italian": "debole",
+    "english": "weak"
+  },
+  {
+    "italian": "veloce",
+    "english": "fast"
+  },
+  {
+    "italian": "lento",
+    "english": "slow"
+  },
+  {
+    "italian": "scuola",
+    "english": "school"
+  },
+  {
+    "italian": "libro",
+    "english": "book"
+  },
+  {
+    "italian": "penna",
+    "english": "pen"
+  },
+  {
+    "italian": "tavolo",
+    "english": "table"
+  },
+  {
+    "italian": "salute",
+    "english": "health"
+  },
+  {
+    "italian": "pace",
+    "english": "peace"
+  },
+  {
+    "italian": "guerra",
+    "english": "war"
+  },
+  {
+    "italian": "libertà",
+    "english": "freedom"
+  },
+  {
+    "italian": "speranza",
+    "english": "hope"
+  },
+  {
+    "italian": "paura",
+    "english": "fear"
+  },
+  {
+    "italian": "gioia",
+    "english": "joy"
+  },
+  {
+    "italian": "dolore",
+    "english": "pain"
+  },
+  {
+    "italian": "forza",
+    "english": "strength"
+  },
+  {
+    "italian": "energia",
+    "english": "energy"
+  },
+  {
+    "italian": "mattina",
+    "english": "morning"
+  },
+  {
+    "italian": "pomeriggio",
+    "english": "afternoon"
+  },
+  {
+    "italian": "sera",
+    "english": "evening"
+  },
+  {
+    "italian": "anno",
+    "english": "year"
+  },
+  {
+    "italian": "mese",
+    "english": "month"
+  },
+  {
+    "italian": "settimana",
+    "english": "week"
+  },
+  {
+    "italian": "ieri",
+    "english": "yesterday"
+  },
+  {
+    "italian": "oggi",
+    "english": "today"
+  },
+  {
+    "italian": "domani",
+    "english": "tomorrow"
+  },
+  {
+    "italian": "ora",
+    "english": "now"
+  },
+  {
+    "italian": "presto",
+    "english": "soon"
+  },
+  {
+    "italian": "tardi",
+    "english": "late"
+  },
+  {
+    "italian": "sempre",
+    "english": "always"
+  },
+  {
+    "italian": "mai",
+    "english": "never"
+  },
+  {
+    "italian": "spesso",
+    "english": "often"
+  },
+  {
+    "italian": "pane",
+    "english": "bread"
+  },
+  {
+    "italian": "latte",
+    "english": "milk"
+  },
+  {
+    "italian": "vino",
+    "english": "wine"
+  },
+  {
+    "italian": "carne",
+    "english": "meat"
+  },
+  {
+    "italian": "pesce",
+    "english": "fish"
+  },
+  {
+    "italian": "frutta",
+    "english": "fruit"
+  },
+  {
+    "italian": "verdura",
+    "english": "vegetable"
+  },
+  {
+    "italian": "zucchero",
+    "english": "sugar"
+  },
+  {
+    "italian": "sale",
+    "english": "salt"
+  },
+  {
+    "italian": "olio",
+    "english": "oil"
+  },
+  {
+    "italian": "pizza",
+    "english": "pizza"
+  },
+  {
+    "italian": "pasta",
+    "english": "pasta"
+  },
+  {
+    "italian": "formaggio",
+    "english": "cheese"
+  },
+  {
+    "italian": "uovo",
+    "english": "egg"
+  },
+  {
+    "italian": "caffè",
+    "english": "coffee"
+  },
+  {
+    "italian": "tè",
+    "english": "tea"
+  },
+  {
+    "italian": "colazione",
+    "english": "breakfast"
+  },
+  {
+    "italian": "pranzo",
+    "english": "lunch"
+  },
+  {
+    "italian": "cena",
+    "english": "dinner"
+  },
+  {
+    "italian": "ristorante",
+    "english": "restaurant"
+  },
+  {
+    "italian": "mercato",
+    "english": "market"
+  },
+  {
+    "italian": "negozio",
+    "english": "shop"
+  },
+  {
+    "italian": "soldi",
+    "english": "money"
+  },
+  {
+    "italian": "prezzo",
+    "english": "price"
+  },
+  {
+    "italian": "comprare",
+    "english": "to buy"
+  },
+  {
+    "italian": "vendere",
+    "english": "to sell"
+  },
+  {
+    "italian": "lavoro",
+    "english": "work"
+  },
+  {
+    "italian": "ufficio",
+    "english": "office"
+  },
+  {
+    "italian": "macchina",
+    "english": "car"
+  },
+  {
+    "italian": "treno",
+    "english": "train"
+  },
+  {
+    "italian": "autobus",
+    "english": "bus"
+  },
+  {
+    "italian": "aereo",
+    "english": "airplane"
+  },
+  {
+    "italian": "bici",
+    "english": "bicycle"
+  },
+  {
+    "italian": "strada",
+    "english": "road"
+  },
+  {
+    "italian": "ponte",
+    "english": "bridge"
+  },
+  {
+    "italian": "stazione",
+    "english": "station"
+  },
+  {
+    "italian": "aeroporto",
+    "english": "airport"
+  },
+  {
+    "italian": "viaggiare",
+    "english": "to travel"
+  },
+  {
+    "italian": "mappa",
+    "english": "map"
+  },
+  {
+    "italian": "città",
+    "english": "city"
+  },
+  {
+    "italian": "paese",
+    "english": "country"
+  },
+  {
+    "italian": "villaggio",
+    "english": "village"
+  },
+  {
+    "italian": "spiaggia",
+    "english": "beach"
+  },
+  {
+    "italian": "isola",
+    "english": "island"
+  },
+  {
+    "italian": "lago",
+    "english": "lake"
+  },
+  {
+    "italian": "parco",
+    "english": "park"
+  },
+  {
+    "italian": "giardino",
+    "english": "garden"
+  },
+  {
+    "italian": "finestra",
+    "english": "window"
+  },
+  {
+    "italian": "porta",
+    "english": "door"
+  },
+  {
+    "italian": "stanza",
+    "english": "room"
+  },
+  {
+    "italian": "letto",
+    "english": "bed"
+  },
+  {
+    "italian": "sedia",
+    "english": "chair"
+  },
+  {
+    "italian": "specchio",
+    "english": "mirror"
+  },
+  {
+    "italian": "orologio",
+    "english": "clock"
+  },
+  {
+    "italian": "telefono",
+    "english": "phone"
+  },
+  {
+    "italian": "computer",
+    "english": "computer"
+  },
+  {
+    "italian": "televisione",
+    "english": "television"
+  },
+  {
+    "italian": "radio",
+    "english": "radio"
+  },
+  {
+    "italian": "internet",
+    "english": "internet"
+  },
+  {
+    "italian": "foto",
+    "english": "photo"
+  },
+  {
+    "italian": "film",
+    "english": "movie"
+  },
+  {
+    "italian": "teatro",
+    "english": "theater"
+  },
+  {
+    "italian": "sport",
+    "english": "sport"
+  },
+  {
+    "italian": "calcio",
+    "english": "soccer"
+  },
+  {
+    "italian": "pallone",
+    "english": "ball"
+  },
+  {
+    "italian": "nuotare",
+    "english": "to swim"
+  },
+  {
+    "italian": "sciare",
+    "english": "to ski"
+  },
+  {
+    "italian": "cucinare",
+    "english": "to cook"
+  },
+  {
+    "italian": "pulire",
+    "english": "to clean"
+  },
+  {
+    "italian": "aspettare",
+    "english": "to wait"
+  },
+  {
+    "italian": "aiutare",
+    "english": "to help"
+  },
+  {
+    "italian": "imparare",
+    "english": "to learn"
+  },
+  {
+    "italian": "insegnare",
+    "english": "to teach"
+  },
+  {
+    "italian": "ricordare",
+    "english": "to remember"
+  },
+  {
+    "italian": "domanda",
+    "english": "question"
+  },
+  {
+    "italian": "risposta",
+    "english": "answer"
+  },
+  {
+    "italian": "idea",
+    "english": "idea"
+  },
+  {
+    "italian": "problema",
+    "english": "problem"
+  },
+  {
+    "italian": "soluzione",
+    "english": "solution"
+  },
+  {
+    "italian": "errore",
+    "english": "mistake"
+  },
+  {
+    "italian": "successo",
+    "english": "success"
+  },
+  {
+    "italian": "fallimento",
+    "english": "failure"
+  },
+  {
+    "italian": "inizio",
+    "english": "beginning"
+  },
+  {
+    "italian": "fine",
+    "english": "end"
+  },
+  {
+    "italian": "storia",
+    "english": "story"
+  },
+  {
+    "italian": "parola",
+    "english": "word"
+  },
+  {
+    "italian": "lingua",
+    "english": "language"
+  },
+  {
+    "italian": "silenzio",
+    "english": "silence"
+  },
+  {
+    "italian": "rumore",
+    "english": "noise"
+  },
+  {
+    "italian": "voce",
+    "english": "voice"
+  },
+  {
+    "italian": "suono",
+    "english": "sound"
+  },
+  {
+    "italian": "odore",
+    "english": "smell"
+  },
+  {
+    "italian": "sapore",
+    "english": "taste"
+  },
+  {
+    "italian": "tocco",
+    "english": "touch"
+  },
+  {
+    "italian": "vista",
+    "english": "sight"
+  },
+  {
+    "italian": "mano",
+    "english": "hand"
+  },
+  {
+    "italian": "piede",
+    "english": "foot"
+  },
+  {
+    "italian": "testa",
+    "english": "head"
+  },
+  {
+    "italian": "cuore",
+    "english": "heart"
+  },
+  {
+    "italian": "occhio",
+    "english": "eye"
+  },
+  {
+    "italian": "orecchio",
+    "english": "ear"
+  },
+  {
+    "italian": "bocca",
+    "english": "mouth"
+  },
+  {
+    "italian": "naso",
+    "english": "nose"
+  },
+  {
+    "italian": "braccio",
+    "english": "arm"
+  },
+  {
+    "italian": "gamba",
+    "english": "leg"
+  },
+  {
+    "italian": "corpo",
+    "english": "body"
+  },
+  {
+    "italian": "persona",
+    "english": "person"
+  },
+  {
+    "italian": "uomo",
+    "english": "man"
+  },
+  {
+    "italian": "donna",
+    "english": "woman"
+  },
+  {
+    "italian": "bambino",
+    "english": "child"
+  },
+  {
+    "italian": "ragazzo",
+    "english": "boy"
+  },
+  {
+    "italian": "ragazza",
+    "english": "girl"
+  },
+  {
+    "italian": "madre",
+    "english": "mother"
+  },
+  {
+    "italian": "padre",
+    "english": "father"
+  },
+  {
+    "italian": "fratello",
+    "english": "brother"
+  },
+  {
+    "italian": "sorella",
+    "english": "sister"
+  },
+  {
+    "italian": "nonno",
+    "english": "grandfather"
+  },
+  {
+    "italian": "nonna",
+    "english": "grandmother"
+  },
+  {
+    "italian": "zio",
+    "english": "uncle"
+  },
+  {
+    "italian": "zia",
+    "english": "aunt"
+  },
+  {
+    "italian": "cugino",
+    "english": "cousin"
+  },
+  {
+    "italian": "animale",
+    "english": "animal"
+  },
+  {
+    "italian": "cane",
+    "english": "dog"
+  },
+  {
+    "italian": "gatto",
+    "english": "cat"
+  },
+  {
+    "italian": "uccello",
+    "english": "bird"
+  },
+  {
+    "italian": "cavallo",
+    "english": "horse"
+  },
+  {
+    "italian": "pesce",
+    "english": "fish"
+  },
+  {
+    "italian": "insetto",
+    "english": "insect"
+  },
+  {
+    "italian": "natura",
+    "english": "nature"
+  },
+  {
+    "italian": "pietra",
+    "english": "stone"
+  },
+  {
+    "italian": "sabbia",
+    "english": "sand"
+  },
+  {
+    "italian": "erba",
+    "english": "grass"
+  },
+  {
+    "italian": "foglia",
+    "english": "leaf"
+  },
+  {
+    "italian": "ramo",
+    "english": "branch"
+  },
+  {
+    "italian": "fronte",
+    "english": "front"
+  },
+  {
+    "italian": "dietro",
+    "english": "behind"
+  },
+  {
+    "italian": "sopra",
+    "english": "above"
+  },
+  {
+    "italian": "sotto",
+    "english": "below"
+  },
+  {
+    "italian": "destra",
+    "english": "right"
+  },
+  {
+    "italian": "sinistra",
+    "english": "left"
+  },
+  {
+    "italian": "dentro",
+    "english": "inside"
+  },
+  {
+    "italian": "fuori",
+    "english": "outside"
+  },
+  {
+    "italian": "vicino",
+    "english": "near"
+  },
+  {
+    "italian": "lontano",
+    "english": "far"
+  },
+  {
+    "italian": "insieme",
+    "english": "together"
+  },
+  {
+    "italian": "solo",
+    "english": "alone"
+  },
+  {
+    "italian": "tutto",
+    "english": "all"
+  },
+  {
+    "italian": "niente",
+    "english": "nothing"
+  },
+  {
+    "italian": "qualcosa",
+    "english": "something"
+  },
+  {
+    "italian": "qualcuno",
+    "english": "someone"
+  },
+  {
+    "italian": "nessuno",
+    "english": "nobody"
+  },
+  {
+    "italian": "ogni",
+    "english": "every"
+  },
+  {
+    "italian": "molto",
+    "english": "very"
+  },
+  {
+    "italian": "poco",
+    "english": "little"
+  },
+  {
+    "italian": "abbastanza",
+    "english": "enough"
+  },
+  {
+    "italian": "troppo",
+    "english": "too much"
+  },
+  {
+    "italian": "primo",
+    "english": "first"
+  },
+  {
+    "italian": "ultimo",
+    "english": "last"
+  },
+  {
+    "italian": "prossimo",
+    "english": "next"
+  },
+  {
+    "italian": "passato",
+    "english": "past"
+  },
+  {
+    "italian": "futuro",
+    "english": "future"
+  },
+  {
+    "italian": "presente",
+    "english": "present"
+  },
+  {
+    "italian": "calma",
+    "english": "calm"
+  },
+  {
+    "italian": "confusione",
+    "english": "confusion"
+  },
+  {
+    "italian": "pericolo",
+    "english": "danger"
+  },
+  {
+    "italian": "sicurezza",
+    "english": "safety"
+  },
+  {
+    "italian": "rischio",
+    "english": "risk"
+  },
+  {
+    "italian": "segreto",
+    "english": "secret"
+  },
+  {
+    "italian": "verità",
+    "english": "truth"
+  },
+  {
+    "italian": "bugia",
+    "english": "lie"
+  },
+  {
+    "italian": "giusto",
+    "english": "right"
+  },
+  {
+    "italian": "sbagliato",
+    "english": "wrong"
+  },
+  {
+    "italian": "amicizia",
+    "english": "friendship"
+  },
+  {
+    "italian": "rispetto",
+    "english": "respect"
+  },
+  {
+    "italian": "onestà",
+    "english": "honesty"
+  },
+  {
+    "italian": "gentilezza",
+    "english": "kindness"
+  },
+  {
+    "italian": "pazienza",
+    "english": "patience"
+  },
+  {
+    "italian": "coraggio",
+    "english": "courage"
+  },
+  {
+    "italian": "fiducia",
+    "english": "trust"
+  },
+  {
+    "italian": "gelosia",
+    "english": "jealousy"
+  },
+  {
+    "italian": "colpa",
+    "english": "guilt"
+  },
+  {
+    "italian": "orgoglio",
+    "english": "pride"
+  },
+  {
+    "italian": "estate",
+    "english": "summer"
+  },
+  {
+    "italian": "inverno",
+    "english": "winter"
+  },
+  {
+    "italian": "primavera",
+    "english": "spring"
+  },
+  {
+    "italian": "autunno",
+    "english": "autumn"
+  },
+  {
+    "italian": "nuvola",
+    "english": "cloud"
+  },
+  {
+    "italian": "tuono",
+    "english": "thunder"
+  },
+  {
+    "italian": "fulmine",
+    "english": "lightning"
+  },
+  {
+    "italian": "arcobaleno",
+    "english": "rainbow"
+  },
+  {
+    "italian": "nebbia",
+    "english": "fog"
+  },
+  {
+    "italian": "ghiaccio",
+    "english": "ice"
+  },
+  {
+    "italian": "mattino",
+    "english": "morning"
+  },
+  {
+    "italian": "mezzogiorno",
+    "english": "noon"
+  },
+  {
+    "italian": "mezzanotte",
+    "english": "midnight"
+  },
+  {
+    "italian": "secondo",
+    "english": "second"
+  },
+  {
+    "italian": "minuto",
+    "english": "minute"
+  },
+  {
+    "italian": "ora",
+    "english": "hour"
+  },
+  {
+    "italian": "età",
+    "english": "age"
+  },
+  {
+    "italian": "giovane",
+    "english": "young"
+  },
+  {
+    "italian": "adulto",
+    "english": "adult"
+  },
+  {
+    "italian": "anziano",
+    "english": "elderly"
+  },
+  {
+    "italian": "zaino",
+    "english": "backpack"
+  },
+  {
+    "italian": "borsa",
+    "english": "bag"
+  },
+  {
+    "italian": "valigia",
+    "english": "suitcase"
+  },
+  {
+    "italian": "ombrello",
+    "english": "umbrella"
+  },
+  {
+    "italian": "scarpa",
+    "english": "shoe"
+  },
+  {
+    "italian": "calzino",
+    "english": "sock"
+  },
+  {
+    "italian": "cappello",
+    "english": "hat"
+  },
+  {
+    "italian": "giacca",
+    "english": "jacket"
+  },
+  {
+    "italian": "camicia",
+    "english": "shirt"
+  },
+  {
+    "italian": "pantaloni",
+    "english": "pants"
+  },
+  {
+    "italian": "vestito",
+    "english": "dress"
+  },
+  {
+    "italian": "gonna",
+    "english": "skirt"
+  },
+  {
+    "italian": "anello",
+    "english": "ring"
+  },
+  {
+    "italian": "collana",
+    "english": "necklace"
+  },
+  {
+    "italian": "orologio",
+    "english": "watch"
+  },
+  {
+    "italian": "occhiali",
+    "english": "glasses"
+  },
+  {
+    "italian": "chiave",
+    "english": "key"
+  },
+  {
+    "italian": "lucchetto",
+    "english": "lock"
+  },
+  {
+    "italian": "lampada",
+    "english": "lamp"
+  },
+  {
+    "italian": "candela",
+    "english": "candle"
+  },
+  {
+    "italian": "accendere",
+    "english": "to turn on"
+  },
+  {
+    "italian": "spegnere",
+    "english": "to turn off"
+  },
+  {
+    "italian": "aprire",
+    "english": "to open"
+  },
+  {
+    "italian": "chiudere",
+    "english": "to close"
+  },
+  {
+    "italian": "entrare",
+    "english": "to enter"
+  },
+  {
+    "italian": "uscire",
+    "english": "to exit"
+  },
+  {
+    "italian": "salire",
+    "english": "to go up"
+  },
+  {
+    "italian": "scendere",
+    "english": "to go down"
+  },
+  {
+    "italian": "cercare",
+    "english": "to look for"
+  },
+  {
+    "italian": "trovare",
+    "english": "to find"
+  },
+  {
+    "italian": "perdere",
+    "english": "to lose"
+  },
+  {
+    "italian": "aspettarsi",
+    "english": "to expect"
+  },
+  {
+    "italian": "sorprendere",
+    "english": "to surprise"
+  },
+  {
+    "italian": "promettere",
+    "english": "to promise"
+  },
+  {
+    "italian": "mantenere",
+    "english": "to keep"
+  },
+  {
+    "italian": "rompere",
+    "english": "to break"
+  },
+  {
+    "italian": "riparare",
+    "english": "to fix"
+  },
+  {
+    "italian": "costruire",
+    "english": "to build"
+  },
+  {
+    "italian": "distruggere",
+    "english": "to destroy"
+  },
+  {
+    "italian": "tagliare",
+    "english": "to cut"
+  },
+  {
+    "italian": "cucire",
+    "english": "to sew"
+  },
+  {
+    "italian": "disegnare",
+    "english": "to draw"
+  },
+  {
+    "italian": "dipinger",
+    "english": "to paint"
+  },
+  {
+    "italian": "creare",
+    "english": "to create"
+  },
+  {
+    "italian": "immaginare",
+    "english": "to imagine"
+  },
+  {
+    "italian": "credere",
+    "english": "to believe"
+  },
+  {
+    "italian": "dubitare",
+    "english": "to doubt"
+  },
+  {
+    "italian": "decidere",
+    "english": "to decide"
+  },
+  {
+    "italian": "cambiare",
+    "english": "to change"
+  },
+  {
+    "italian": "rimanere",
+    "english": "to stay"
+  },
+  {
+    "italian": "muovere",
+    "english": "to move"
+  },
+  {
+    "italian": "fermare",
+    "english": "to stop"
+  },
+  {
+    "italian": "continuare",
+    "english": "to continue"
+  },
+  {
+    "italian": "finire",
+    "english": "to finish"
+  },
+  {
+    "italian": "cominciare",
+    "english": "to start"
+  },
+  {
+    "italian": "portare",
+    "english": "to bring"
+  },
+  {
+    "italian": "prendere",
+    "english": "to take"
+  },
+  {
+    "italian": "dare",
+    "english": "to give"
+  },
+  {
+    "italian": "ricevere",
+    "english": "to receive"
+  },
+  {
+    "italian": "chiedere",
+    "english": "to ask"
+  },
+  {
+    "italian": "rispondere",
+    "english": "to answer"
+  },
+  {
+    "italian": "spiegare",
+    "english": "to explain"
+  },
+  {
+    "italian": "scherzare",
+    "english": "to joke"
+  },
+  {
+    "italian": "litigare",
+    "english": "to argue"
+  },
+  {
+    "italian": "amare",
+    "english": "to love"
+  },
+  {
+    "italian": "odiare",
+    "english": "to hate"
+  },
+  {
+    "italian": "preferire",
+    "english": "to prefer"
+  },
+  {
+    "italian": "scegliere",
+    "english": "to choose"
+  },
+  {
+    "italian": "conoscere",
+    "english": "to know (a person)"
+  },
+  {
+    "italian": "incontrare",
+    "english": "to meet"
+  },
+  {
+    "italian": "salutare",
+    "english": "to greet"
+  },
+  {
+    "italian": "presentare",
+    "english": "to introduce"
+  },
+  {
+    "italian": "invitare",
+    "english": "to invite"
+  },
+  {
+    "italian": "accettare",
+    "english": "to accept"
+  },
+  {
+    "italian": "rifiutare",
+    "english": "to refuse"
+  },
+  {
+    "italian": "ringraziare",
+    "english": "to thank"
+  },
+  {
+    "italian": "scusarsi",
+    "english": "to apologize"
+  },
+  {
+    "italian": "perdonare",
+    "english": "to forgive"
+  },
+  {
+    "italian": "felice",
+    "english": "happy"
+  },
+  {
+    "italian": "arrabbiato",
+    "english": "angry"
+  },
+  {
+    "italian": "nervoso",
+    "english": "nervous"
+  },
+  {
+    "italian": "preoccupato",
+    "english": "worried"
+  },
+  {
+    "italian": "sorpreso",
+    "english": "surprised"
+  },
+  {
+    "italian": "annoiare",
+    "english": "to bore"
+  },
+  {
+    "italian": "divertirsi",
+    "english": "to have fun"
+  },
+  {
+    "italian": "sorridere",
+    "english": "to smile"
+  },
+  {
+    "italian": "abbracciare",
+    "english": "to hug"
+  },
+  {
+    "italian": "baciare",
+    "english": "to kiss"
+  },
+  {
+    "italian": "matrimonio",
+    "english": "marriage"
+  },
+  {
+    "italian": "amore",
+    "english": "love"
+  },
+  {
+    "italian": "separazione",
+    "english": "separation"
+  },
+  {
+    "italian": "divorzio",
+    "english": "divorce"
+  },
+  {
+    "italian": "nascita",
+    "english": "birth"
+  },
+  {
+    "italian": "morte",
+    "english": "death"
+  },
+  {
+    "italian": "malattia",
+    "english": "illness"
+  },
+  {
+    "italian": "medicina",
+    "english": "medicine"
+  },
+  {
+    "italian": "dottore",
+    "english": "doctor"
+  },
+  {
+    "italian": "ospedale",
+    "english": "hospital"
+  },
+  {
+    "italian": "farmacia",
+    "english": "pharmacy"
+  },
+  {
+    "italian": "dolore",
+    "english": "pain"
+  },
+  {
+    "italian": "febbre",
+    "english": "fever"
+  },
+  {
+    "italian": "tosse",
+    "english": "cough"
+  },
+  {
+    "italian": "sangue",
+    "english": "blood"
+  },
+  {
+    "italian": "sonno",
+    "english": "sleep"
+  },
+  {
+    "italian": "sognare",
+    "english": "to dream"
+  },
+  {
+    "italian": "risveglio",
+    "english": "awakening"
+  },
+  {
+    "italian": "energia",
+    "english": "energy"
+  },
+  {
+    "italian": "riposo",
+    "english": "rest"
+  },
+  {
+    "italian": "esercizio",
+    "english": "exercise"
+  },
+  {
+    "italian": "corsa",
+    "english": "race"
+  },
+  {
+    "italian": "palestra",
+    "english": "gym"
+  },
+  {
+    "italian": "salire",
+    "english": "to climb"
+  },
+  {
+    "italian": "nuoto",
+    "english": "swimming"
+  },
+  {
+    "italian": "piscina",
+    "english": "pool"
+  },
+  {
+    "italian": "spiaggia",
+    "english": "beach"
+  },
+  {
+    "italian": "vacanza",
+    "english": "vacation"
+  },
+  {
+    "italian": "hotel",
+    "english": "hotel"
+  },
+  {
+    "italian": "prenotare",
+    "english": "to book"
+  },
+  {
+    "italian": "biglietto",
+    "english": "ticket"
+  },
+  {
+    "italian": "passaporto",
+    "english": "passport"
+  },
+  {
+    "italian": "dogana",
+    "english": "customs"
+  },
+  {
+    "italian": "turista",
+    "english": "tourist"
+  },
+  {
+    "italian": "guida",
+    "english": "guide"
+  },
+  {
+    "italian": "museo",
+    "english": "museum"
+  },
+  {
+    "italian": "arte",
+    "english": "art"
+  },
+  {
+    "italian": "pittura",
+    "english": "painting"
+  },
+  {
+    "italian": "scultura",
+    "english": "sculpture"
+  },
+  {
+    "italian": "architettura",
+    "english": "architecture"
+  },
+  {
+    "italian": "edificio",
+    "english": "building"
+  },
+  {
+    "italian": "castello",
+    "english": "castle"
+  },
+  {
+    "italian": "chiesa",
+    "english": "church"
+  },
+  {
+    "italian": "piazza",
+    "english": "square"
+  },
+  {
+    "italian": "fontana",
+    "english": "fountain"
+  },
+  {
+    "italian": "statua",
+    "english": "statue"
+  },
+  {
+    "italian": "monumento",
+    "english": "monument"
+  },
+  {
+    "italian": "stadio",
+    "english": "stadium"
+  },
+  {
+    "italian": "partita",
+    "english": "match"
+  },
+  {
+    "italian": "giocatore",
+    "english": "player"
+  },
+  {
+    "italian": "arbitro",
+    "english": "referee"
+  },
+  {
+    "italian": "vittoria",
+    "english": "victory"
+  },
+  {
+    "italian": "sconfitta",
+    "english": "defeat"
+  },
+  {
+    "italian": "premio",
+    "english": "prize"
+  },
+  {
+    "italian": "competizione",
+    "english": "competition"
+  },
+  {
+    "italian": "allenamento",
+    "english": "training"
+  },
+  {
+    "italian": "squadra",
+    "english": "team"
+  },
+  {
+    "italian": "regola",
+    "english": "rule"
+  },
+  {
+    "italian": "gioco",
+    "english": "game"
+  },
+  {
+    "italian": "bambola",
+    "english": "doll"
+  },
+  {
+    "italian": "giocattolo",
+    "english": "toy"
+  },
+  {
+    "italian": "divertimento",
+    "english": "fun"
+  },
+  {
+    "italian": "parco giochi",
+    "english": "playground"
+  },
+  {
+    "italian": "scivolo",
+    "english": "slide"
+  },
+  {
+    "italian": "altalena",
+    "english": "swing"
+  },
+  {
+    "italian": "circo",
+    "english": "circus"
+  },
+  {
+    "italian": "clown",
+    "english": "clown"
+  },
+  {
+    "italian": "magia",
+    "english": "magic"
+  },
+  {
+    "italian": "spettacolo",
+    "english": "show"
+  },
+  {
+    "italian": "biglietto",
+    "english": "ticket"
+  },
+  {
+    "italian": "pubblico",
+    "english": "audience"
+  },
+  {
+    "italian": "applauso",
+    "english": "applause"
+  },
+  {
+    "italian": "silenzio",
+    "english": "silence"
+  },
+  {
+    "italian": "rumore",
+    "english": "noise"
+  },
+  {
+    "italian": "festa",
+    "english": "party"
+  },
+  {
+    "italian": "compleanno",
+    "english": "birthday"
+  },
+  {
+    "italian": "regalo",
+    "english": "gift"
+  },
+  {
+    "italian": "torta",
+    "english": "cake"
+  },
+  {
+    "italian": "candeline",
+    "english": "candles"
+  },
+  {
+    "italian": "allegria",
+    "english": "cheerfulness"
+  },
+  {
+    "italian": "simpatia",
+    "english": "sympathy"
+  },
+  {
+    "italian": "antipatia",
+    "english": "antipathy"
+  },
+  {
+    "italian": "curiosità",
+    "english": "curiosity"
+  },
+  {
+    "italian": "soddisfazione",
+    "english": "satisfaction"
+  },
+  {
+    "italian": "delusione",
+    "english": "disappointment"
+  },
+  {
+    "italian": "imbarazzo",
+    "english": "embarrassment"
+  },
+  {
+    "italian": "timidezza",
+    "english": "shyness"
+  },
+  {
+    "italian": "sicuro",
+    "english": "sure"
+  },
+  {
+    "italian": "insicuro",
+    "english": "unsure"
+  },
+  {
+    "italian": "mattina",
+    "english": "morning"
+  },
+  {
+    "italian": "tramonto",
+    "english": "sunset"
+  },
+  {
+    "italian": "alba",
+    "english": "sunrise"
+  },
+  {
+    "italian": "stelle",
+    "english": "stars"
+  },
+  {
+    "italian": "pianeta",
+    "english": "planet"
+  },
+  {
+    "italian": "universo",
+    "english": "universe"
+  },
+  {
+    "italian": "spazio",
+    "english": "space"
+  },
+  {
+    "italian": "tempo",
+    "english": "weather"
+  },
+  {
+    "italian": "umidità",
+    "english": "humidity"
+  },
+  {
+    "italian": "ombra",
+    "english": "shade"
+  },
+  {
+    "italian": "polvere",
+    "english": "dust"
+  },
+  {
+    "italian": "fumo",
+    "english": "smoke"
+  },
+  {
+    "italian": "vapore",
+    "english": "steam"
+  },
+  {
+    "italian": "metallo",
+    "english": "metal"
+  },
+  {
+    "italian": "legno",
+    "english": "wood"
+  },
+  {
+    "italian": "vetro",
+    "english": "glass"
+  },
+  {
+    "italian": "plastica",
+    "english": "plastic"
+  },
+  {
+    "italian": "carta",
+    "english": "paper"
+  },
+  {
+    "italian": "stoffa",
+    "english": "fabric"
+  },
+  {
+    "italian": "cotone",
+    "english": "cotton"
+  },
+  {
+    "italian": "lana",
+    "english": "wool"
+  },
+  {
+    "italian": "seta",
+    "english": "silk"
+  },
+  {
+    "italian": "corda",
+    "english": "rope"
+  },
+  {
+    "italian": "filo",
+    "english": "thread"
+  },
+  {
+    "italian": "ago",
+    "english": "needle"
+  },
+  {
+    "italian": "forbici",
+    "english": "scissors"
+  },
+  {
+    "italian": "coltello",
+    "english": "knife"
+  },
+  {
+    "italian": "cucchiaio",
+    "english": "spoon"
+  },
+  {
+    "italian": "forchetta",
+    "english": "fork"
+  },
+  {
+    "italian": "piatto",
+    "english": "plate"
+  },
+  {
+    "italian": "tazza",
+    "english": "cup"
+  },
+  {
+    "italian": "bicchiere",
+    "english": "glass"
+  },
+  {
+    "italian": "bottiglia",
+    "english": "bottle"
+  },
+  {
+    "italian": "barattolo",
+    "english": "jar"
+  },
+  {
+    "italian": "scatola",
+    "english": "box"
+  },
+  {
+    "italian": "sacco",
+    "english": "sack"
+  },
+  {
+    "italian": "pacchetto",
+    "english": "package"
+  },
+  {
+    "italian": "spedire",
+    "english": "to send"
+  },
+  {
+    "italian": "consegnare",
+    "english": "to deliver"
+  },
+  {
+    "italian": "aspettativa",
+    "english": "expectation"
+  },
+  {
+    "italian": "pacco",
+    "english": "parcel"
+  },
+  {
+    "italian": "posta",
+    "english": "mail"
+  },
+  {
+    "italian": "lettera",
+    "english": "letter"
+  },
+  {
+    "italian": "busta",
+    "english": "envelope"
+  },
+  {
+    "italian": "francobollo",
+    "english": "stamp"
+  },
+  {
+    "italian": "scrivania",
+    "english": "desk"
+  },
+  {
+    "italian": "scaffale",
+    "english": "shelf"
+  },
+  {
+    "italian": "armadio",
+    "english": "wardrobe"
+  },
+  {
+    "italian": "cassetto",
+    "english": "drawer"
+  },
+  {
+    "italian": "divano",
+    "english": "sofa"
+  },
+  {
+    "italian": "poltrona",
+    "english": "armchair"
+  },
+  {
+    "italian": "cuscino",
+    "english": "pillow"
+  },
+  {
+    "italian": "coperta",
+    "english": "blanket"
+  },
+  {
+    "italian": "lenzuolo",
+    "english": "sheet"
+  },
+  {
+    "italian": "asciugamano",
+    "english": "towel"
+  },
+  {
+    "italian": "sapone",
+    "english": "soap"
+  },
+  {
+    "italian": "spazzolino",
+    "english": "toothbrush"
+  },
+  {
+    "italian": "dentifricio",
+    "english": "toothpaste"
+  },
+  {
+    "italian": "shampoo",
+    "english": "shampoo"
+  },
+  {
+    "italian": "doccia",
+    "english": "shower"
+  },
+  {
+    "italian": "vasca",
+    "english": "bathtub"
+  },
+  {
+    "italian": "lavandino",
+    "english": "sink"
+  },
+  {
+    "italian": "rubinetto",
+    "english": "tap"
+  },
+  {
+    "italian": "specchio",
+    "english": "mirror"
+  },
+  {
+    "italian": "pettine",
+    "english": "comb"
+  },
+  {
+    "italian": "spazzola",
+    "english": "brush"
+  },
+  {
+    "italian": "capelli",
+    "english": "hair"
+  },
+  {
+    "italian": "barba",
+    "english": "beard"
+  },
+  {
+    "italian": "rasoio",
+    "english": "razor"
+  },
+  {
+    "italian": "trucco",
+    "english": "makeup"
+  },
+  {
+    "italian": "profumo",
+    "english": "perfume"
+  },
+  {
+    "italian": "crema",
+    "english": "cream"
+  },
+  {
+    "italian": "lavare",
+    "english": "to wash"
+  },
+  {
+    "italian": "asciugare",
+    "english": "to dry"
+  },
+  {
+    "italian": "stirare",
+    "english": "to iron"
+  },
+  {
+    "italian": "spazzare",
+    "english": "to sweep"
+  },
+  {
+    "italian": "polvere",
+    "english": "dust"
+  },
+  {
+    "italian": "sporcizia",
+    "english": "dirt"
+  },
+  {
+    "italian": "pulito",
+    "english": "clean"
+  },
+  {
+    "italian": "sporco",
+    "english": "dirty"
+  },
+  {
+    "italian": "ordine",
+    "english": "order"
+  },
+  {
+    "italian": "disordine",
+    "english": "disorder"
+  },
+  {
+    "italian": "cucina",
+    "english": "kitchen"
+  },
+  {
+    "italian": "frigorifero",
+    "english": "refrigerator"
+  },
+  {
+    "italian": "forno",
+    "english": "oven"
+  },
+  {
+    "italian": "pentola",
+    "english": "pot"
+  },
+  {
+    "italian": "padella",
+    "english": "pan"
+  },
+  {
+    "italian": "bollire",
+    "english": "to boil"
+  },
+  {
+    "italian": "friggere",
+    "english": "to fry"
+  },
+  {
+    "italian": "arrostire",
+    "english": "to roast"
+  },
+  {
+    "italian": "mescolare",
+    "english": "to mix"
+  },
+  {
+    "italian": "cuocere",
+    "english": "to cook"
+  },
+  {
+    "italian": "assaggiare",
+    "english": "to taste"
+  },
+  {
+    "italian": "condire",
+    "english": "to season"
+  },
+  {
+    "italian": "pepe",
+    "english": "pepper"
+  },
+  {
+    "italian": "spezie",
+    "english": "spices"
+  },
+  {
+    "italian": "aglio",
+    "english": "garlic"
+  },
+  {
+    "italian": "cipolla",
+    "english": "onion"
+  },
+  {
+    "italian": "pomodoro",
+    "english": "tomato"
+  },
+  {
+    "italian": "carota",
+    "english": "carrot"
+  },
+  {
+    "italian": "patata",
+    "english": "potato"
+  },
+  {
+    "italian": "insalata",
+    "english": "salad"
+  },
+  {
+    "italian": "mela",
+    "english": "apple"
+  },
+  {
+    "italian": "pera",
+    "english": "pear"
+  },
+  {
+    "italian": "banana",
+    "english": "banana"
+  },
+  {
+    "italian": "arancia",
+    "english": "orange"
+  },
+  {
+    "italian": "limone",
+    "english": "lemon"
+  },
+  {
+    "italian": "uva",
+    "english": "grape"
+  },
+  {
+    "italian": "fragola",
+    "english": "strawberry"
+  },
+  {
+    "italian": "ciliegia",
+    "english": "cherry"
+  },
+  {
+    "italian": "pesca",
+    "english": "peach"
+  },
+  {
+    "italian": "albicocca",
+    "english": "apricot"
+  },
+  {
+    "italian": "melone",
+    "english": "melon"
+  },
+  {
+    "italian": "anguria",
+    "english": "watermelon"
+  },
+  {
+    "italian": "fruttivendolo",
+    "english": "greengrocer"
+  },
+  {
+    "italian": "macellaio",
+    "english": "butcher"
+  },
+  {
+    "italian": "panettiere",
+    "english": "baker"
+  },
+  {
+    "italian": "pescatore",
+    "english": "fisherman"
+  },
+  {
+    "italian": "cuoco",
+    "english": "chef"
+  },
+  {
+    "italian": "cameriere",
+    "english": "waiter"
+  },
+  {
+    "italian": "tovaglia",
+    "english": "tablecloth"
+  },
+  {
+    "italian": "tovagliolo",
+    "english": "napkin"
+  },
+  {
+    "italian": "menu",
+    "english": "menu"
+  },
+  {
+    "italian": "conto",
+    "english": "bill"
+  },
+  {
+    "italian": "mancia",
+    "english": "tip"
+  },
+  {
+    "italian": "prenotazione",
+    "english": "reservation"
+  },
+  {
+    "italian": "tavolo",
+    "english": "table"
+  },
+  {
+    "italian": "sala",
+    "english": "room"
+  },
+  {
+    "italian": "terrazza",
+    "english": "terrace"
+  },
+  {
+    "italian": "giardinetto",
+    "english": "small garden"
+  },
+  {
+    "italian": "vicino",
+    "english": "neighbor"
+  },
+  {
+    "italian": "quartiere",
+    "english": "neighborhood"
+  },
+  {
+    "italian": "stradina",
+    "english": "lane"
+  },
+  {
+    "italian": "incrocio",
+    "english": "crossroad"
+  },
+  {
+    "italian": "semaforo",
+    "english": "traffic light"
+  },
+  {
+    "italian": "parcheggio",
+    "english": "parking"
+  },
+  {
+    "italian": "benzina",
+    "english": "gasoline"
+  },
+  {
+    "italian": "meccanico",
+    "english": "mechanic"
+  },
+  {
+    "italian": "ruota",
+    "english": "wheel"
+  },
+  {
+    "italian": "motore",
+    "english": "engine"
+  },
+  {
+    "italian": "volante",
+    "english": "steering wheel"
+  },
+  {
+    "italian": "clacson",
+    "english": "horn"
+  },
+  {
+    "italian": "finestrino",
+    "english": "window (car)"
+  },
+  {
+    "italian": "specchietto",
+    "english": "mirror (car)"
+  },
+  {
+    "italian": "guidare",
+    "english": "to drive"
+  },
+  {
+    "italian": "accelerare",
+    "english": "to accelerate"
+  },
+  {
+    "italian": "frenare",
+    "english": "to brake"
+  },
+  {
+    "italian": "sorpassare",
+    "english": "to overtake"
+  },
+  {
+    "italian": "incidente",
+    "english": "accident"
+  },
+  {
+    "italian": "polizia",
+    "english": "police"
+  },
+  {
+    "italian": "ambulanza",
+    "english": "ambulance"
+  },
+  {
+    "italian": "pompieri",
+    "english": "firefighters"
+  },
+  {
+    "italian": "emergenza",
+    "english": "emergency"
+  },
+  {
+    "italian": "sirena",
+    "english": "siren"
+  },
+  {
+    "italian": "legge",
+    "english": "law"
+  },
+  {
+    "italian": "avvocato",
+    "english": "lawyer"
+  },
+  {
+    "italian": "giudice",
+    "english": "judge"
+  },
+  {
+    "italian": "tribunale",
+    "english": "court"
+  },
+  {
+    "italian": "prigione",
+    "english": "prison"
+  },
+  {
+    "italian": "crimine",
+    "english": "crime"
+  },
+  {
+    "italian": "ladro",
+    "english": "thief"
+  },
+  {
+    "italian": "furto",
+    "english": "theft"
+  },
+  {
+    "italian": "sicurezza",
+    "english": "security"
+  },
+  {
+    "italian": "allarme",
+    "english": "alarm"
+  },
+  {
+    "italian": "telecamera",
+    "english": "camera"
+  },
+  {
+    "italian": "sorveglianza",
+    "english": "surveillance"
+  },
+  {
+    "italian": "documento",
+    "english": "document"
+  },
+  {
+    "italian": "firma",
+    "english": "signature"
+  },
+  {
+    "italian": "contratto",
+    "english": "contract"
+  },
+  {
+    "italian": "accordo",
+    "english": "agreement"
+  },
+  {
+    "italian": "disaccordo",
+    "english": "disagreement"
+  },
+  {
+    "italian": "negoziazione",
+    "english": "negotiation"
+  },
+  {
+    "italian": "affare",
+    "english": "deal"
+  },
+  {
+    "italian": "azienda",
+    "english": "company"
+  },
+  {
+    "italian": "impiegato",
+    "english": "employee"
+  },
+  {
+    "italian": "capo",
+    "english": "boss"
+  },
+  {
+    "italian": "collega",
+    "english": "colleague"
+  },
+  {
+    "italian": "stipendio",
+    "english": "salary"
+  },
+  {
+    "italian": "riunione",
+    "english": "meeting"
+  },
+  {
+    "italian": "progetto",
+    "english": "project"
+  },
+  {
+    "italian": "scadenza",
+    "english": "deadline"
+  },
+  {
+    "italian": "successo",
+    "english": "success"
+  },
+  {
+    "italian": "fallimento",
+    "english": "failure"
+  },
+  {
+    "italian": "promozione",
+    "english": "promotion"
+  },
+  {
+    "italian": "licenziamento",
+    "english": "dismissal"
+  },
+  {
+    "italian": "pensione",
+    "english": "retirement"
+  },
+  {
+    "italian": "ferie",
+    "english": "holidays"
+  },
+  {
+    "italian": "studente",
+    "english": "student"
+  },
+  {
+    "italian": "insegnante",
+    "english": "teacher"
+  },
+  {
+    "italian": "lezione",
+    "english": "lesson"
+  },
+  {
+    "italian": "esame",
+    "english": "exam"
+  },
+  {
+    "italian": "compito",
+    "english": "homework"
+  },
+  {
+    "italian": "quaderno",
+    "english": "notebook"
+  },
+  {
+    "italian": "matita",
+    "english": "pencil"
+  },
+  {
+    "italian": "gomma",
+    "english": "eraser"
+  },
+  {
+    "italian": "righello",
+    "english": "ruler"
+  },
+  {
+    "italian": "zaino",
+    "english": "backpack"
+  },
+  {
+    "italian": "lavagna",
+    "english": "blackboard"
+  },
+  {
+    "italian": "gesso",
+    "english": "chalk"
+  },
+  {
+    "italian": "cattedra",
+    "english": "desk (teacher's)"
+  },
+  {
+    "italian": "classe",
+    "english": "class"
+  },
+  {
+    "italian": "università",
+    "english": "university"
+  },
+  {
+    "italian": "laurea",
+    "english": "degree"
+  },
+  {
+    "italian": "ricerca",
+    "english": "research"
+  },
+  {
+    "italian": "scienza",
+    "english": "science"
+  },
+  {
+    "italian": "matematica",
+    "english": "mathematics"
+  },
+  {
+    "italian": "storia",
+    "english": "history"
+  },
+  {
+    "italian": "geografia",
+    "english": "geography"
+  },
+  {
+    "italian": "letteratura",
+    "english": "literature"
+  },
+  {
+    "italian": "poesia",
+    "english": "poetry"
+  },
+  {
+    "italian": "romanzo",
+    "english": "novel"
+  },
+  {
+    "italian": "autore",
+    "english": "author"
+  },
+  {
+    "italian": "lettore",
+    "english": "reader"
+  },
+  {
+    "italian": "biblioteca",
+    "english": "library"
+  },
+  {
+    "italian": "prestiti",
+    "english": "loans (books)"
+  },
+  {
+    "italian": "silenzio",
+    "english": "quiet"
+  },
+  {
+    "italian": "conoscenza",
+    "english": "knowledge"
+  },
+  {
+    "italian": "intelligenza",
+    "english": "intelligence"
+  },
+  {
+    "italian": "memoria",
+    "english": "memory"
+  },
+  {
+    "italian": "dimenticare",
+    "english": "to forget"
+  },
+  {
+    "italian": "ripetere",
+    "english": "to repeat"
+  },
+  {
+    "italian": "spiegazione",
+    "english": "explanation"
+  },
+  {
+    "italian": "esempio",
+    "english": "example"
+  },
+  {
+    "italian": "domandare",
+    "english": "to ask (question)"
+  },
+  {
+    "italian": "risponditore",
+    "english": "responder"
+  },
+  {
+    "italian": "corretto",
+    "english": "correct"
+  },
+  {
+    "italian": "sbagliato",
+    "english": "wrong"
+  },
+  {
+    "italian": "voto",
+    "english": "grade"
+  },
+  {
+    "italian": "promosso",
+    "english": "passed"
+  },
+  {
+    "italian": "bocciato",
+    "english": "failed"
+  },
+  {
+    "italian": "diploma",
+    "english": "diploma"
+  },
+  {
+    "italian": "certificato",
+    "english": "certificate"
+  },
+  {
+    "italian": "corso",
+    "english": "course"
+  },
+  {
+    "italian": "allenatore",
+    "english": "coach"
+  },
+  {
+    "italian": "abilità",
+    "english": "skill"
+  },
+  {
+    "italian": "talento",
+    "english": "talent"
+  },
+  {
+    "italian": "sforzo",
+    "english": "effort"
+  },
+  {
+    "italian": "pratica",
+    "english": "practice"
+  },
+  {
+    "italian": "progresso",
+    "english": "progress"
+  },
+  {
+    "italian": "migliorare",
+    "english": "to improve"
+  },
+  {
+    "italian": "peggiorare",
+    "english": "to worsen"
+  },
+  {
+    "italian": "competenza",
+    "english": "competence"
+  },
+  {
+    "italian": "esperienza",
+    "english": "experience"
+  },
+  {
+    "italian": "principiante",
+    "english": "beginner"
+  },
+  {
+    "italian": "esperto",
+    "english": "expert"
+  },
+  {
+    "italian": "lezione privata",
+    "english": "private lesson"
+  },
+  {
+    "italian": "gruppo",
+    "english": "group"
+  },
+  {
+    "italian": "discussione",
+    "english": "discussion"
+  },
+  {
+    "italian": "dibattito",
+    "english": "debate"
+  },
+  {
+    "italian": "opinione",
+    "english": "opinion"
+  },
+  {
+    "italian": "accordo",
+    "english": "agreement"
+  },
+  {
+    "italian": "disputa",
+    "english": "dispute"
+  },
+  {
+    "italian": "confronto",
+    "english": "comparison"
+  },
+  {
+    "italian": "simile",
+    "english": "similar"
+  },
+  {
+    "italian": "diverso",
+    "english": "different"
+  },
+  {
+    "italian": "uguale",
+    "english": "equal"
+  },
+  {
+    "italian": "unico",
+    "english": "unique"
+  },
+  {
+    "italian": "originale",
+    "english": "original"
+  },
+  {
+    "italian": "copia",
+    "english": "copy"
+  },
+  {
+    "italian": "falso",
+    "english": "fake"
+  },
+  {
+    "italian": "vero",
+    "english": "true"
+  },
+  {
+    "italian": "reale",
+    "english": "real"
+  },
+  {
+    "italian": "immaginario",
+    "english": "imaginary"
+  },
+  {
+    "italian": "fantasia",
+    "english": "fantasy"
+  },
+  {
+    "italian": "realtà",
+    "english": "reality"
+  },
+  {
+    "italian": "sogno",
+    "english": "dream"
+  },
+  {
+    "italian": "incubo",
+    "english": "nightmare"
+  },
+  {
+    "italian": "pensiero",
+    "english": "thought"
+  },
+  {
+    "italian": "ragione",
+    "english": "reason"
+  },
+  {
+    "italian": "logica",
+    "english": "logic"
+  },
+  {
+    "italian": "confusione",
+    "english": "confusion"
+  },
+  {
+    "italian": "dubbio",
+    "english": "doubt"
+  },
+  {
+    "italian": "certezza",
+    "english": "certainty"
+  },
+  {
+    "italian": "ipotesi",
+    "english": "hypothesis"
+  },
+  {
+    "italian": "teoria",
+    "english": "theory"
+  },
+  {
+    "italian": "prova",
+    "english": "proof"
+  },
+  {
+    "italian": "esperimento",
+    "english": "experiment"
+  },
+  {
+    "italian": "risultato",
+    "english": "result"
+  },
+  {
+    "italian": "analisi",
+    "english": "analysis"
+  },
+  {
+    "italian": "osservazione",
+    "english": "observation"
+  },
+  {
+    "italian": "scoperta",
+    "english": "discovery"
+  },
+  {
+    "italian": "invenzione",
+    "english": "invention"
+  },
+  {
+    "italian": "creatività",
+    "english": "creativity"
+  },
+  {
+    "italian": "ispirazione",
+    "english": "inspiration"
+  },
+  {
+    "italian": "motivazione",
+    "english": "motivation"
+  },
+  {
+    "italian": "energia",
+    "english": "energy"
+  },
+  {
+    "italian": "movimento",
+    "english": "movement"
+  },
+  {
+    "italian": "velocità",
+    "english": "speed"
+  },
+  {
+    "italian": "distanza",
+    "english": "distance"
+  },
+  {
+    "italian": "direzione",
+    "english": "direction"
+  },
+  {
+    "italian": "nord",
+    "english": "north"
+  },
+  {
+    "italian": "sud",
+    "english": "south"
+  },
+  {
+    "italian": "est",
+    "english": "east"
+  },
+  {
+    "italian": "ovest",
+    "english": "west"
+  },
+  {
+    "italian": "posizione",
+    "english": "position"
+  },
+  {
+    "italian": "altezza",
+    "english": "height"
+  },
+  {
+    "italian": "lunghezza",
+    "english": "length"
+  },
+  {
+    "italian": "larghezza",
+    "english": "width"
+  },
+  {
+    "italian": "profondità",
+    "english": "depth"
+  },
+  {
+    "italian": "superficie",
+    "english": "surface"
+  },
+  {
+    "italian": "volume",
+    "english": "volume"
+  },
+  {
+    "italian": "peso",
+    "english": "weight"
+  },
+  {
+    "italian": "misura",
+    "english": "measure"
+  },
+  {
+    "italian": "metro",
+    "english": "meter"
+  },
+  {
+    "italian": "centimetro",
+    "english": "centimeter"
+  },
+  {
+    "italian": "chilometro",
+    "english": "kilometer"
+  },
+  {
+    "italian": "litro",
+    "english": "liter"
+  },
+  {
+    "italian": "grammo",
+    "english": "gram"
+  },
+  {
+    "italian": "chilogrammo",
+    "english": "kilogram"
+  },
+  {
+    "italian": "temperatura",
+    "english": "temperature"
+  },
+  {
+    "italian": "grado",
+    "english": "degree"
+  },
+  {
+    "italian": "calore",
+    "english": "heat"
+  },
+  {
+    "italian": "freddezza",
+    "english": "coldness"
+  },
+  {
+    "italian": "ghiaccio",
+    "english": "ice"
+  },
+  {
+    "italian": "vapore",
+    "english": "vapor"
+  },
+  {
+    "italian": "liquido",
+    "english": "liquid"
+  },
+  {
+    "italian": "solido",
+    "english": "solid"
+  },
+  {
+    "italian": "materia",
+    "english": "matter"
+  },
+  {
+    "italian": "atomo",
+    "english": "atom"
+  },
+  {
+    "italian": "molecola",
+    "english": "molecule"
+  },
+  {
+    "italian": "chimica",
+    "english": "chemistry"
+  },
+  {
+    "italian": "fisica",
+    "english": "physics"
+  },
+  {
+    "italian": "biologia",
+    "english": "biology"
+  },
+  {
+    "italian": "natura",
+    "english": "nature"
+  },
+  {
+    "italian": "ambiente",
+    "english": "environment"
+  },
+  {
+    "italian": "ecologia",
+    "english": "ecology"
+  },
+  {
+    "italian": "inquinamento",
+    "english": "pollution"
+  },
+  {
+    "italian": "riciclaggio",
+    "english": "recycling"
+  },
+  {
+    "italian": "rifiuti",
+    "english": "waste"
+  },
+  {
+    "italian": "pulizia",
+    "english": "cleaning"
+  },
+  {
+    "italian": "protezione",
+    "english": "protection"
+  },
+  {
+    "italian": "clima",
+    "english": "climate"
+  },
+  {
+    "italian": "stagione",
+    "english": "season"
+  },
+  {
+    "italian": "fenomeno",
+    "english": "phenomenon"
+  },
+  {
+    "italian": "terremoto",
+    "english": "earthquake"
+  },
+  {
+    "italian": "vulcano",
+    "english": "volcano"
+  },
+  {
+    "italian": "alluvione",
+    "english": "flood"
+  },
+  {
+    "italian": "tempesta",
+    "english": "storm"
+  },
+  {
+    "italian": "uragano",
+    "english": "hurricane"
+  },
+  {
+    "italian": "tornado",
+    "english": "tornado"
+  },
+  {
+    "italian": "siccità",
+    "english": "drought"
+  },
+  {
+    "italian": "deserto",
+    "english": "desert"
+  },
+  {
+    "italian": "oasi",
+    "english": "oasis"
+  },
+  {
+    "italian": "prato",
+    "english": "meadow"
+  },
+  {
+    "italian": "collina",
+    "english": "hill"
+  },
+  {
+    "italian": "valle",
+    "english": "valley"
+  },
+  {
+    "italian": "pianura",
+    "english": "plain"
+  },
+  {
+    "italian": "altopiano",
+    "english": "plateau"
+  },
+  {
+    "italian": "ghiacciaio",
+    "english": "glacier"
+  },
+  {
+    "italian": "caverna",
+    "english": "cave"
+  },
+  {
+    "italian": "miniera",
+    "english": "mine"
+  },
+  {
+    "italian": "oro",
+    "english": "gold"
+  },
+  {
+    "italian": "argento",
+    "english": "silver"
+  },
+  {
+    "italian": "rame",
+    "english": "copper"
+  },
+  {
+    "italian": "ferro",
+    "english": "iron"
+  },
+  {
+    "italian": "acciaio",
+    "english": "steel"
+  },
+  {
+    "italian": "carbone",
+    "english": "coal"
+  },
+  {
+    "italian": "petrolio",
+    "english": "oil"
+  },
+  {
+    "italian": "gas",
+    "english": "gas"
+  },
+  {
+    "italian": "elettricità",
+    "english": "electricity"
+  },
+  {
+    "italian": "corrente",
+    "english": "current"
+  },
+  {
+    "italian": "batteria",
+    "english": "battery"
+  },
+  {
+    "italian": "carica",
+    "english": "charge"
+  },
+  {
+    "italian": "luce",
+    "english": "light"
+  },
+  {
+    "italian": "ombra",
+    "english": "shadow"
+  },
+  {
+    "italian": "riflesso",
+    "english": "reflection"
+  },
+  {
+    "italian": "specchio",
+    "english": "mirror"
+  },
+  {
+    "italian": "lente",
+    "english": "lens"
+  },
+  {
+    "italian": "microscopio",
+    "english": "microscope"
+  },
+  {
+    "italian": "telescopio",
+    "english": "telescope"
+  },
+  {
+    "italian": "macchina",
+    "english": "machine"
+  },
+  {
+    "italian": "tecnologia",
+    "english": "technology"
+  },
+  {
+    "italian": "robot",
+    "english": "robot"
+  },
+  {
+    "italian": "programma",
+    "english": "program"
+  },
+  {
+    "italian": "software",
+    "english": "software"
+  },
+  {
+    "italian": "hardware",
+    "english": "hardware"
+  },
+  {
+    "italian": "schermo",
+    "english": "screen"
+  },
+  {
+    "italian": "tastiera",
+    "english": "keyboard"
+  },
+  {
+    "italian": "mouse",
+    "english": "mouse"
+  },
+  {
+    "italian": "stampante",
+    "english": "printer"
+  },
+  {
+    "italian": "connessione",
+    "english": "connection"
+  },
+  {
+    "italian": "rete",
+    "english": "network"
+  },
+  {
+    "italian": "server",
+    "english": "server"
+  },
+  {
+    "italian": "password",
+    "english": "password"
+  },
+  {
+    "italian": "utente",
+    "english": "user"
+  },
+  {
+    "italian": "account",
+    "english": "account"
+  },
+  {
+    "italian": "accesso",
+    "english": "access"
+  },
+  {
+    "italian": "sicurezza",
+    "english": "safety"
+  },
+  {
+    "italian": "file",
+    "english": "file"
+  },
+  {
+    "italian": "cartella",
+    "english": "folder"
+  },
+  {
+    "italian": "download",
+    "english": "download"
+  },
+  {
+    "italian": "upload",
+    "english": "upload"
+  },
+  {
+    "italian": "cloud",
+    "english": "cloud"
+  },
+  {
+    "italian": "memoria",
+    "english": "storage"
+  },
+  {
+    "italian": "backup",
+    "english": "backup"
+  },
+  {
+    "italian": "errore",
+    "english": "error"
+  },
+  {
+    "italian": "virus",
+    "english": "virus"
+  },
+  {
+    "italian": "antivirus",
+    "english": "antivirus"
+  },
+  {
+    "italian": "aggiornamento",
+    "english": "update"
+  },
+  {
+    "italian": "installare",
+    "english": "to install"
+  },
+  {
+    "italian": "disinstallare",
+    "english": "to uninstall"
+  },
+  {
+    "italian": "riavviare",
+    "english": "to restart"
+  },
+  {
+    "italian": "spegnimento",
+    "english": "shutdown"
+  },
+  {
+    "italian": "sistema",
+    "english": "system"
+  },
+  {
+    "italian": "applicazione",
+    "english": "application"
+  },
+  {
+    "italian": "icona",
+    "english": "icon"
+  },
+  {
+    "italian": "cliccare",
+    "english": "to click"
+  },
+  {
+    "italian": "tasto",
+    "english": "button"
+  },
+  {
+    "italian": "finestra",
+    "english": "window (screen)"
+  },
+  {
+    "italian": "barra",
+    "english": "bar"
+  },
+  {
+    "italian": "menu",
+    "english": "menu"
+  },
+  {
+    "italian": "opzione",
+    "english": "option"
+  },
+  {
+    "italian": "impostazioni",
+    "english": "settings"
+  },
+  {
+    "italian": "salvare",
+    "english": "to save"
+  },
+  {
+    "italian": "cancellare",
+    "english": "to delete"
+  },
+  {
+    "italian": "modificare",
+    "english": "to edit"
+  },
+  {
+    "italian": "testo",
+    "english": "text"
+  },
+  {
+    "italian": "carattere",
+    "english": "font"
+  },
+  {
+    "italian": "dimensione",
+    "english": "size"
+  },
+  {
+    "italian": "grassetto",
+    "english": "bold"
+  },
+  {
+    "italian": "corsivo",
+    "english": "italic"
+  },
+  {
+    "italian": "sottolineato",
+    "english": "underlined"
+  },
+  {
+    "italian": "allineamento",
+    "english": "alignment"
+  },
+  {
+    "italian": "paragrafo",
+    "english": "paragraph"
+  },
+  {
+    "italian": "pagina",
+    "english": "page"
+  },
+  {
+    "italian": "stampa",
+    "english": "print"
+  },
+  {
+    "italian": "copia",
+    "english": "copy"
+  },
+  {
+    "italian": "incolla",
+    "english": "paste"
+  },
+  {
+    "italian": "taglia",
+    "english": "cut"
+  },
+  {
+    "italian": "annulla",
+    "english": "undo"
+  },
+  {
+    "italian": "ripristina",
+    "english": "redo"
+  },
+  {
+    "italian": "zoom",
+    "english": "zoom"
+  },
+  {
+    "italian": "immagine",
+    "english": "image"
+  },
+  {
+    "italian": "video",
+    "english": "video"
+  },
+  {
+    "italian": "audio",
+    "english": "audio"
+  },
+  {
+    "italian": "registrazione",
+    "english": "recording"
+  },
+  {
+    "italian": "microfono",
+    "english": "microphone"
+  },
+  {
+    "italian": "altoparlante",
+    "english": "speaker"
+  },
+  {
+    "italian": "volume",
+    "english": "volume"
+  },
+  {
+    "italian": "muto",
+    "english": "mute"
+  },
+  {
+    "italian": "riproduzione",
+    "english": "playback"
+  },
+  {
+    "italian": "pausa",
+    "english": "pause"
+  },
+  {
+    "italian": "avanti",
+    "english": "forward"
+  },
+  {
+    "italian": "indietro",
+    "english": "backward"
+  },
+  {
+    "italian": "traccia",
+    "english": "track"
+  },
+  {
+    "italian": "playlist",
+    "english": "playlist"
+  },
+  {
+    "italian": "formato",
+    "english": "format"
+  },
+  {
+    "italian": "qualità",
+    "english": "quality"
+  },
+  {
+    "italian": "risoluzione",
+    "english": "resolution"
+  },
+  {
+    "italian": "pixel",
+    "english": "pixel"
+  },
+  {
+    "italian": "schermo intero",
+    "english": "full screen"
+  },
+  {
+    "italian": "fotografia",
+    "english": "photography"
+  },
+  {
+    "italian": "obiettivo",
+    "english": "lens"
+  },
+  {
+    "italian": "flash",
+    "english": "flash"
+  },
+  {
+    "italian": "scatto",
+    "english": "shot"
+  },
+  {
+    "italian": "album",
+    "english": "album"
+  },
+  {
+    "italian": "galleria",
+    "english": "gallery"
+  },
+  {
+    "italian": "modifica",
+    "english": "edit"
+  },
+  {
+    "italian": "filtro",
+    "english": "filter"
+  },
+  {
+    "italian": "luminosità",
+    "english": "brightness"
+  },
+  {
+    "italian": "contrasto",
+    "english": "contrast"
+  },
+  {
+    "italian": "saturazione",
+    "english": "saturation"
+  },
+  {
+    "italian": "ritaglio",
+    "english": "crop"
+  },
+  {
+    "italian": "rotazione",
+    "english": "rotation"
+  },
+  {
+    "italian": "salvataggio",
+    "english": "saving"
+  },
+  {
+    "italian": "condivisione",
+    "english": "sharing"
+  },
+  {
+    "italian": "social",
+    "english": "social"
+  },
+  {
+    "italian": "profilo",
+    "english": "profile"
+  },
+  {
+    "italian": "amico",
+    "english": "friend (online)"
+  },
+  {
+    "italian": "seguire",
+    "english": "to follow"
+  },
+  {
+    "italian": "seguace",
+    "english": "follower"
+  },
+  {
+    "italian": "messaggio",
+    "english": "message"
+  },
+  {
+    "italian": "chat",
+    "english": "chat"
+  },
+  {
+    "italian": "email",
+    "english": "email"
+  },
+  {
+    "italian": "allegato",
+    "english": "attachment"
+  },
+  {
+    "italian": "inbox",
+    "english": "inbox"
+  },
+  {
+    "italian": "spam",
+    "english": "spam"
+  },
+  {
+    "italian": "inviare",
+    "english": "to send"
+  },
+  {
+    "italian": "ricezione",
+    "english": "reception"
+  },
+  {
+    "italian": "notifica",
+    "english": "notification"
+  },
+  {
+    "italian": "commento",
+    "english": "comment"
+  },
+  {
+    "italian": "mi piace",
+    "english": "like"
+  },
+  {
+    "italian": "condividere",
+    "english": "to share"
+  },
+  {
+    "italian": "post",
+    "english": "post"
+  },
+  {
+    "italian": "pubblicare",
+    "english": "to publish"
+  },
+  {
+    "italian": "privato",
+    "english": "private"
+  },
+  {
+    "italian": "pubblico",
+    "english": "public"
+  },
+  {
+    "italian": "gruppo",
+    "english": "group (online)"
+  },
+  {
+    "italian": "evento",
+    "english": "event"
+  },
+  {
+    "italian": "invito",
+    "english": "invitation"
+  },
+  {
+    "italian": "calendario",
+    "english": "calendar"
+  },
+  {
+    "italian": "data",
+    "english": "date"
+  },
+  {
+    "italian": "orario",
+    "english": "time"
+  },
+  {
+    "italian": "promemoria",
+    "english": "reminder"
+  },
+  {
+    "italian": "pianificare",
+    "english": "to plan"
+  },
+  {
+    "italian": "appuntamento",
+    "english": "appointment"
+  },
+  {
+    "italian": "ritardo",
+    "english": "delay"
+  },
+  {
+    "italian": "puntuale",
+    "english": "on time"
+  },
+  {
+    "italian": "anniversario",
+    "english": "anniversary"
+  },
+  {
+    "italian": "celebrazione",
+    "english": "celebration"
+  },
+  {
+    "italian": "tradizione",
+    "english": "tradition"
+  },
+  {
+    "italian": "cultura",
+    "english": "culture"
+  },
+  {
+    "italian": "costume",
+    "english": "costume"
+  },
+  {
+    "italian": "maschera",
+    "english": "mask"
+  },
+  {
+    "italian": "carnevale",
+    "english": "carnival"
+  },
+  {
+    "italian": "parata",
+    "english": "parade"
+  },
+  {
+    "italian": "fuochi",
+    "english": "fireworks"
+  },
+  {
+    "italian": "bandiera",
+    "english": "flag"
+  },
+  {
+    "italian": "inno",
+    "english": "anthem"
+  },
+  {
+    "italian": "patria",
+    "english": "homeland"
+  },
+  {
+    "italian": "nazione",
+    "english": "nation"
+  },
+  {
+    "italian": "governo",
+    "english": "government"
+  },
+  {
+    "italian": "presidente",
+    "english": "president"
+  },
+  {
+    "italian": "parlamento",
+    "english": "parliament"
+  },
+  {
+    "italian": "elezione",
+    "english": "election"
+  },
+  {
+    "italian": "voto",
+    "english": "vote"
+  },
+  {
+    "italian": "candidato",
+    "english": "candidate"
+  },
+  {
+    "italian": "politica",
+    "english": "politics"
+  },
+  {
+    "italian": "partito",
+    "english": "party (political)"
+  },
+  {
+    "italian": "campagna",
+    "english": "campaign"
+  },
+  {
+    "italian": "manifesto",
+    "english": "poster"
+  },
+  {
+    "italian": "discorso",
+    "english": "speech"
+  },
+  {
+    "italian": "promessa",
+    "english": "promise"
+  },
+  {
+    "italian": "riforma",
+    "english": "reform"
+  },
+  {
+    "italian": "legislatura",
+    "english": "legislature"
+  },
+  {
+    "italian": "decreto",
+    "english": "decree"
+  },
+  {
+    "italian": "tassa",
+    "english": "tax"
+  },
+  {
+    "italian": "bilancio",
+    "english": "budget"
+  },
+  {
+    "italian": "economia",
+    "english": "economy"
+  },
+  {
+    "italian": "finanza",
+    "english": "finance"
+  },
+  {
+    "italian": "mercato",
+    "english": "market"
+  },
+  {
+    "italian": "commercio",
+    "english": "trade"
+  },
+  {
+    "italian": "vendita",
+    "english": "sale"
+  },
+  {
+    "italian": "acquisto",
+    "english": "purchase"
+  },
+  {
+    "italian": "cliente",
+    "english": "customer"
+  },
+  {
+    "italian": "fornitore",
+    "english": "supplier"
+  },
+  {
+    "italian": "prodotto",
+    "english": "product"
+  },
+  {
+    "italian": "servizio",
+    "english": "service"
+  },
+  {
+    "italian": "qualità",
+    "english": "quality"
+  },
+  {
+    "italian": "quantità",
+    "english": "quantity"
+  },
+  {
+    "italian": "offerta",
+    "english": "offer"
+  },
+  {
+    "italian": "domanda",
+    "english": "demand"
+  },
+  {
+    "italian": "prezzo",
+    "english": "price"
+  },
+  {
+    "italian": "sconto",
+    "english": "discount"
+  },
+  {
+    "italian": "fattura",
+    "english": "invoice"
+  },
+  {
+    "italian": "pagamento",
+    "english": "payment"
+  },
+  {
+    "italian": "contanti",
+    "english": "cash"
+  },
+  {
+    "italian": "carta",
+    "english": "card"
+  },
+  {
+    "italian": "banca",
+    "english": "bank"
+  },
+  {
+    "italian": "conto",
+    "english": "account (bank)"
+  },
+  {
+    "italian": "deposito",
+    "english": "deposit"
+  },
+  {
+    "italian": "prelievo",
+    "english": "withdrawal"
+  },
+  {
+    "italian": "interessi",
+    "english": "interest"
+  },
+  {
+    "italian": "prestito",
+    "english": "loan"
+  },
+  {
+    "italian": "mutuo",
+    "english": "mortgage"
+  },
+  {
+    "italian": "investimento",
+    "english": "investment"
+  },
+  {
+    "italian": "profitto",
+    "english": "profit"
+  },
+  {
+    "italian": "perdita",
+    "english": "loss"
+  },
+  {
+    "italian": "risparmio",
+    "english": "savings"
+  },
+  {
+    "italian": "spesa",
+    "english": "expense"
+  },
+  {
+    "italian": "ricavo",
+    "english": "revenue"
+  },
+  {
+    "italian": "azienda",
+    "english": "business"
+  },
+  {
+    "italian": "fabbrica",
+    "english": "factory"
+  },
+  {
+    "italian": "produzione",
+    "english": "production"
+  },
+  {
+    "italian": "macchinario",
+    "english": "machinery"
+  },
+  {
+    "italian": "materia prima",
+    "english": "raw material"
+  },
+  {
+    "italian": "lavoratore",
+    "english": "worker"
+  },
+  {
+    "italian": "contratto",
+    "english": "contract"
+  },
+  {
+    "italian": "turno",
+    "english": "shift"
+  },
+  {
+    "italian": "straordinario",
+    "english": "overtime"
+  },
+  {
+    "italian": "ferie",
+    "english": "vacation (work)"
+  },
+  {
+    "italian": "sciopero",
+    "english": "strike"
+  },
+  {
+    "italian": "sindacato",
+    "english": "union"
+  },
+  {
+    "italian": "disoccupazione",
+    "english": "unemployment"
+  },
+  {
+    "italian": "occupazione",
+    "english": "employment"
+  },
+  {
+    "italian": "carriera",
+    "english": "career"
+  },
+  {
+    "italian": " curriculum",
+    "english": "resume"
+  },
+  {
+    "italian": "colloquio",
+    "english": "interview"
+  },
+  {
+    "italian": "assunzione",
+    "english": "hiring"
+  },
+  {
+    "italian": "licenziamento",
+    "english": "firing"
+  },
+  {
+    "italian": "ufficio",
+    "english": "office"
+  },
+  {
+    "italian": "scrivania",
+    "english": "desk"
+  },
+  {
+    "italian": "computer",
+    "english": "computer"
+  },
+  {
+    "italian": "stampante",
+    "english": "printer"
+  },
+  {
+    "italian": "fax",
+    "english": "fax"
+  },
+  {
+    "italian": "telefono",
+    "english": "telephone"
+  },
+  {
+    "italian": "riunione",
+    "english": "meeting"
+  },
+  {
+    "italian": "agenda",
+    "english": "agenda"
+  },
+  {
+    "italian": "presentazione",
+    "english": "presentation"
+  },
+  {
+    "italian": "proiezione",
+    "english": "projection"
+  },
+  {
+    "italian": "schermo",
+    "english": "screen"
+  },
+  {
+    "italian": "grafico",
+    "english": "chart"
+  },
+  {
+    "italian": "dati",
+    "english": "data"
+  },
+  {
+    "italian": "statistica",
+    "english": "statistics"
+  },
+  {
+    "italian": "analisi",
+    "english": "analysis"
+  },
+  {
+    "italian": "rapporto",
+    "english": "report"
+  },
+  {
+    "italian": "strategia",
+    "english": "strategy"
+  },
+  {
+    "italian": "obiettivo",
+    "english": "goal"
+  },
+  {
+    "italian": "piano",
+    "english": "plan"
+  },
+  {
+    "italian": "scadenza",
+    "english": "deadline"
+  },
+  {
+    "italian": "risultato",
+    "english": "result"
+  },
+  {
+    "italian": "successo",
+    "english": "success"
+  },
+  {
+    "italian": "fallimento",
+    "english": "failure"
+  },
+  {
+    "italian": "concorrenza",
+    "english": "competition"
+  },
+  {
+    "italian": "collaborazione",
+    "english": "collaboration"
+  },
+  {
+    "italian": "partner",
+    "english": "partner"
+  },
+  {
+    "italian": "cliente",
+    "english": "client"
+  },
+  {
+    "italian": "pubblicità",
+    "english": "advertising"
+  },
+  {
+    "italian": "campagna",
+    "english": "campaign"
+  },
+  {
+    "italian": "marchio",
+    "english": "brand"
+  },
+  {
+    "italian": "logo",
+    "english": "logo"
+  },
+  {
+    "italian": "slogan",
+    "english": "slogan"
+  },
+  {
+    "italian": "media",
+    "english": "media"
+  },
+  {
+    "italian": "televisione",
+    "english": "television"
+  },
+  {
+    "italian": "radio",
+    "english": "radio"
+  },
+  {
+    "italian": "giornale",
+    "english": "newspaper"
+  },
+  {
+    "italian": "rivista",
+    "english": "magazine"
+  },
+  {
+    "italian": "annuncio",
+    "english": "advertisement"
+  },
+  {
+    "italian": "notizia",
+    "english": "news"
+  },
+  {
+    "italian": "articolo",
+    "english": "article"
+  },
+  {
+    "italian": "titolo",
+    "english": "headline"
+  },
+  {
+    "italian": "redattore",
+    "english": "editor"
+  },
+  {
+    "italian": "giornalista",
+    "english": "journalist"
+  },
+  {
+    "italian": "intervista",
+    "english": "interview"
+  },
+  {
+    "italian": "fonte",
+    "english": "source"
+  },
+  {
+    "italian": "informazione",
+    "english": "information"
+  },
+  {
+    "italian": "verità",
+    "english": "truth"
+  },
+  {
+    "italian": "rumore",
+    "english": "rumor"
+  },
+  {
+    "italian": "scoop",
+    "english": "scoop"
+  },
+  {
+    "italian": "edizione",
+    "english": "edition"
+  },
+  {
+    "italian": "pubblicazione",
+    "english": "publication"
+  },
+  {
+    "italian": "lettura",
+    "english": "reading"
+  },
+  {
+    "italian": "abbonamento",
+    "english": "subscription"
+  },
+  {
+    "italian": "distribuzione",
+    "english": "distribution"
+  },
+  {
+    "italian": "tiratura",
+    "english": "circulation"
+  },
+  {
+    "italian": "stampa",
+    "english": "press"
+  },
+  {
+    "italian": "fotografia",
+    "english": "photograph"
+  },
+  {
+    "italian": "immagine",
+    "english": "picture"
+  },
+  {
+    "italian": "video",
+    "english": "video"
+  },
+  {
+    "italian": "registrazione",
+    "english": "recording"
+  },
+  {
+    "italian": "trasmissione",
+    "english": "broadcast"
+  },
+  {
+    "italian": "canale",
+    "english": "channel"
+  },
+  {
+    "italian": "programma",
+    "english": "program"
+  },
+  {
+    "italian": "serie",
+    "english": "series"
+  },
+  {
+    "italian": "episodio",
+    "english": "episode"
+  },
+  {
+    "italian": "film",
+    "english": "film"
+  },
+  {
+    "italian": "regista",
+    "english": "director"
+  },
+  {
+    "italian": "attore",
+    "english": "actor"
+  },
+  {
+    "italian": "attrice",
+    "english": "actress"
+  },
+  {
+    "italian": "scena",
+    "english": "scene"
+  },
+  {
+    "italian": "riprese",
+    "english": "filming"
+  },
+  {
+    "italian": "montaggio",
+    "english": "editing"
+  },
+  {
+    "italian": "colonna sonora",
+    "english": "soundtrack"
+  },
+  {
+    "italian": "effetti",
+    "english": "effects"
+  },
+  {
+    "italian": "premio",
+    "english": "award"
+  },
+  {
+    "italian": "festival",
+    "english": "festival"
+  },
+  {
+    "italian": "cinema",
+    "english": "cinema"
+  },
+  {
+    "italian": "biglietteria",
+    "english": "ticket office"
+  },
+  {
+    "italian": "posto",
+    "english": "seat"
+  },
+  {
+    "italian": "schermo",
+    "english": "screen"
+  },
+  {
+    "italian": "proiettore",
+    "english": "projector"
+  },
+  {
+    "italian": "popcorn",
+    "english": "popcorn"
+  },
+  {
+    "italian": "spettatore",
+    "english": "spectator"
+  },
+  {
+    "italian": "applausi",
+    "english": "applause"
+  },
+  {
+    "italian": "critica",
+    "english": "criticism"
+  },
+  {
+    "italian": "recensione",
+    "english": "review"
+  },
+  {
+    "italian": "successo",
+    "english": "hit"
+  },
+  {
+    "italian": "flop",
+    "english": "flop"
+  },
+  {
+    "italian": "genere",
+    "english": "genre"
+  },
+  {
+    "italian": "commedia",
+    "english": "comedy"
+  },
+  {
+    "italian": "dramma",
+    "english": "drama"
+  },
+  {
+    "italian": "azione",
+    "english": "action"
+  },
+  {
+    "italian": "avventura",
+    "english": "adventure"
+  },
+  {
+    "italian": "fantascienza",
+    "english": "science fiction"
+  },
+  {
+    "italian": "horror",
+    "english": "horror"
+  },
+  {
+    "italian": "romantico",
+    "english": "romantic"
+  },
+  {
+    "italian": "storico",
+    "english": "historical"
+  },
+  {
+    "italian": "documentario",
+    "english": "documentary"
+  },
+  {
+    "italian": "animazione",
+    "english": "animation"
+  },
+  {
+    "italian": "cartone",
+    "english": "cartoon"
+  },
+  {
+    "italian": "personaggio",
+    "english": "character"
+  },
+  {
+    "italian": "trama",
+    "english": "plot"
+  },
+  {
+    "italian": "finale",
+    "english": "ending"
+  },
+  {
+    "italian": "inizio",
+    "english": "start"
+  },
+  {
+    "italian": "durata",
+    "english": "duration"
+  },
+  {
+    "italian": "minuto",
+    "english": "minute"
+  },
+  {
+    "italian": "ora",
+    "english": "hour"
+  },
+  {
+    "italian": "temporada",
+    "english": "season (series)"
+  },
+  {
+    "italian": "spettacolo",
+    "english": "show"
+  },
+  {
+    "italian": "teatro",
+    "english": "theater"
+  },
+  {
+    "italian": "palcoscenico",
+    "english": "stage"
+  },
+  {
+    "italian": "sipario",
+    "english": "curtain"
+  },
+  {
+    "italian": "costume",
+    "english": "costume"
+  },
+  {
+    "italian": "trucco",
+    "english": "makeup"
+  },
+  {
+    "italian": "prove",
+    "english": "rehearsal"
+  },
+  {
+    "italian": "pubblico",
+    "english": "audience"
+  },
+  {
+    "italian": "biglietto",
+    "english": "ticket"
+  },
+  {
+    "italian": "fila",
+    "english": "row"
+  },
+  {
+    "italian": "platea",
+    "english": "orchestra (seats)"
+  },
+  {
+    "italian": "balcone",
+    "english": "balcony"
+  },
+  {
+    "italian": "galleria",
+    "english": "gallery (seats)"
+  },
+  {
+    "italian": "applauso",
+    "english": "applause"
+  },
+  {
+    "italian": "bis",
+    "english": "encore"
+  },
+  {
+    "italian": "esibizione",
+    "english": "performance"
+  },
+  {
+    "italian": "artista",
+    "english": "artist"
+  },
+  {
+    "italian": "cantante",
+    "english": "singer"
+  },
+  {
+    "italian": "musicista",
+    "english": "musician"
+  },
+  {
+    "italian": "chitarrista",
+    "english": "guitarist"
+  },
+  {
+    "italian": "batterista",
+    "english": "drummer"
+  },
+  {
+    "italian": "pianista",
+    "english": "pianist"
+  },
+  {
+    "italian": "orchestra",
+    "english": "orchestra"
+  },
+  {
+    "italian": "direttore",
+    "english": "conductor"
+  },
+  {
+    "italian": "concerto",
+    "english": "concert"
+  },
+  {
+    "italian": "melodia",
+    "english": "melody"
+  },
+  {
+    "italian": "ritmo",
+    "english": "rhythm"
+  },
+  {
+    "italian": "strumento",
+    "english": "instrument"
+  },
+  {
+    "italian": "chitarra",
+    "english": "guitar"
+  },
+  {
+    "italian": "pianoforte",
+    "english": "piano"
+  },
+  {
+    "italian": "batteria",
+    "english": "drums"
+  },
+  {
+    "italian": "violino",
+    "english": "violin"
+  },
+  {
+    "italian": "flauto",
+    "english": "flute"
+  },
+  {
+    "italian": "sassofono",
+    "english": "saxophone"
+  },
+  {
+    "italian": "tromba",
+    "english": "trumpet"
+  },
+  {
+    "italian": "arpa",
+    "english": "harp"
+  },
+  {
+    "italian": "tamburo",
+    "english": "drum"
+  },
+  {
+    "italian": "armonica",
+    "english": "harmonica"
+  },
+  {
+    "italian": "composizione",
+    "english": "composition"
+  },
+  {
+    "italian": "spartito",
+    "english": "sheet music"
+  },
+  {
+    "italian": "nota",
+    "english": "note"
+  },
+  {
+    "italian": "accordo",
+    "english": "chord"
+  },
+  {
+    "italian": "tonalità",
+    "english": "key"
+  },
+  {
+    "italian": "volume",
+    "english": "volume (sound)"
+  },
+  {
+    "italian": "silenzio",
+    "english": "silence"
+  },
+  {
+    "italian": "registrazione",
+    "english": "recording"
+  },
+  {
+    "italian": "studio",
+    "english": "studio"
+  },
+  {
+    "italian": "produttore",
+    "english": "producer"
+  },
+  {
+    "italian": "album",
+    "english": "album"
+  },
+  {
+    "italian": "singolo",
+    "english": "single"
+  },
+  {
+    "italian": "etichetta",
+    "english": "label"
+  },
+  {
+    "italian": "tour",
+    "english": "tour"
+  },
+  {
+    "italian": "fan",
+    "english": "fan"
+  },
+  {
+    "italian": "autografo",
+    "english": "autograph"
+  },
+  {
+    "italian": "fama",
+    "english": "fame"
+  },
+  {
+    "italian": "celebrità",
+    "english": "celebrity"
+  },
+  {
+    "italian": "talento",
+    "english": "talent"
+  },
+  {
+    "italian": "audizione",
+    "english": "audition"
+  },
+  {
+    "italian": "casting",
+    "english": "casting"
+  },
+  {
+    "italian": "contratto",
+    "english": "contract"
+  },
+  {
+    "italian": "manager",
+    "english": "manager"
+  },
+  {
+    "italian": "agente",
+    "english": "agent"
+  },
+  {
+    "italian": "carriera",
+    "english": "career"
+  },
+  {
+    "italian": "successo",
+    "english": "success"
+  },
+  {
+    "italian": "declino",
+    "english": "decline"
+  },
+  {
+    "italian": "ritiro",
+    "english": "retirement"
+  },
+  {
+    "italian": "passione",
+    "english": "passion"
+  },
+  {
+    "italian": "hobby",
+    "english": "hobby"
+  },
+  {
+    "italian": "collezione",
+    "english": "collection"
+  },
+  {
+    "italian": "francobollo",
+    "english": "stamp"
+  },
+  {
+    "italian": "moneta",
+    "english": "coin"
+  },
+  {
+    "italian": "antichità",
+    "english": "antique"
+  },
+  {
+    "italian": "modello",
+    "english": "model"
+  },
+  {
+    "italian": "giardinaggio",
+    "english": "gardening"
+  },
+  {
+    "italian": "pianta",
+    "english": "plant"
+  },
+  {
+    "italian": "seme",
+    "english": "seed"
+  },
+  {
+    "italian": "terreno",
+    "english": "soil"
+  },
+  {
+    "italian": "irrigazione",
+    "english": "irrigation"
+  },
+  {
+    "italian": "rastrello",
+    "english": "rake"
+  },
+  {
+    "italian": "pala",
+    "english": "shovel"
+  },
+  {
+    "italian": "vaso",
+    "english": "pot"
+  },
+  {
+    "italian": "fiore",
+    "english": "flower"
+  },
+  {
+    "italian": "rosa",
+    "english": "rose"
+  },
+  {
+    "italian": "tulipano",
+    "english": "tulip"
+  },
+  {
+    "italian": "margherita",
+    "english": "daisy"
+  },
+  {
+    "italian": "orchidea",
+    "english": "orchid"
+  },
+  {
+    "italian": "prato",
+    "english": "lawn"
+  },
+  {
+    "italian": "erba",
+    "english": "grass"
+  },
+  {
+    "italian": "tagliaerba",
+    "english": "lawnmower"
+  },
+  {
+    "italian": "cespuglio",
+    "english": "bush"
+  },
+  {
+    "italian": "siepe",
+    "english": "hedge"
+  },
+  {
+    "italian": "potatura",
+    "english": "pruning"
+  },
+  {
+    "italian": "innaffiare",
+    "english": "to water"
+  },
+  {
+    "italian": "concime",
+    "english": "fertilizer"
+  },
+  {
+    "italian": "raccolto",
+    "english": "harvest"
+  },
+  {
+    "italian": "agricoltura",
+    "english": "agriculture"
+  },
+  {
+    "italian": "contadino",
+    "english": "farmer"
+  },
+  {
+    "italian": "campo",
+    "english": "field"
+  },
+  {
+    "italian": "grano",
+    "english": "wheat"
+  },
+  {
+    "italian": "mais",
+    "english": "corn"
+  },
+  {
+    "italian": "riso",
+    "english": "rice"
+  },
+  {
+    "italian": "vite",
+    "english": "vine"
+  },
+  {
+    "italian": "uva",
+    "english": "grapes"
+  },
+  {
+    "italian": "vino",
+    "english": "wine"
+  },
+  {
+    "italian": "cantina",
+    "english": "winery"
+  },
+  {
+    "italian": "barile",
+    "english": "barrel"
+  },
+  {
+    "italian": "bottiglia",
+    "english": "bottle"
+  },
+  {
+    "italian": "etichetta",
+    "english": "label"
+  },
+  {
+    "italian": "degustazione",
+    "english": "tasting"
+  },
+  {
+    "italian": "birra",
+    "english": "beer"
+  },
+  {
+    "italian": "birreria",
+    "english": "brewery"
+  },
+  {
+    "italian": "lievito",
+    "english": "yeast"
+  },
+  {
+    "italian": "fermentazione",
+    "english": "fermentation"
+  },
+  {
+    "italian": "alcool",
+    "english": "alcohol"
+  },
+  {
+    "italian": "cocktail",
+    "english": "cocktail"
+  },
+  {
+    "italian": "bar",
+    "english": "bar"
+  },
+  {
+    "italian": "barista",
+    "english": "bartender"
+  },
+  {
+    "italian": "bicchiere",
+    "english": "glass"
+  },
+  {
+    "italian": "ghiaccio",
+    "english": "ice"
+  },
+  {
+    "italian": "shaker",
+    "english": "shaker"
+  },
+  {
+    "italian": "bevanda",
+    "english": "drink"
+  },
+  {
+    "italian": "succo",
+    "english": "juice"
+  },
+  {
+    "italian": "acqua",
+    "english": "water"
+  },
+  {
+    "italian": "gassata",
+    "english": "sparkling"
+  },
+  {
+    "italian": "naturale",
+    "english": "still"
+  },
+  {
+    "italian": "tazza",
+    "english": "mug"
+  },
+  {
+    "italian": "piattino",
+    "english": "saucer"
+  },
+  {
+    "italian": "zucchero",
+    "english": "sugar"
+  },
+  {
+    "italian": "miele",
+    "english": "honey"
+  },
+  {
+    "italian": "marmellata",
+    "english": "jam"
+  },
+  {
+    "italian": "burro",
+    "english": "butter"
+  },
+  {
+    "italian": "pane",
+    "english": "bread"
+  },
+  {
+    "italian": "croissant",
+    "english": "croissant"
+  },
+  {
+    "italian": "biscotto",
+    "english": "cookie"
+  },
+  {
+    "italian": "torta",
+    "english": "cake"
+  },
+  {
+    "italian": "dolce",
+    "english": "dessert"
+  },
+  {
+    "italian": "gelato",
+    "english": "ice cream"
+  },
+  {
+    "italian": "cioccolato",
+    "english": "chocolate"
+  },
+  {
+    "italian": "caramella",
+    "english": "candy"
+  },
+  {
+    "italian": "pasticceria",
+    "english": "pastry shop"
+  },
+  {
+    "italian": "forno",
+    "english": "oven"
+  },
+  {
+    "italian": "ricetta",
+    "english": "recipe"
+  },
+  {
+    "italian": "ingrediente",
+    "english": "ingredient"
+  },
+  {
+    "italian": "dose",
+    "english": "dose"
+  },
+  {
+    "italian": "mescolare",
+    "english": "to stir"
+  },
+  {
+    "italian": "impasto",
+    "english": "dough"
+  },
+  {
+    "italian": "farina",
+    "english": "flour"
+  },
+  {
+    "italian": "lievito",
+    "english": "baking powder"
+  },
+  {
+    "italian": "cuocere",
+    "english": "to bake"
+  },
+  {
+    "italian": "sapore",
+    "english": "flavor"
+  },
+  {
+    "italian": "salato",
+    "english": "salty"
+  },
+  {
+    "italian": "dolce",
+    "english": "sweet"
+  },
+  {
+    "italian": "amaro",
+    "english": "bitter"
+  },
+  {
+    "italian": "acido",
+    "english": "sour"
+  },
+  {
+    "italian": "speziato",
+    "english": "spicy"
+  },
+  {
+    "italian": "fresco",
+    "english": "fresh"
+  },
+  {
+    "italian": "congelato",
+    "english": "frozen"
+  },
+  {
+    "italian": "scaduto",
+    "english": "expired"
+  },
+  {
+    "italian": "conserva",
+    "english": "preserve"
+  },
+  {
+    "italian": "lattina",
+    "english": "can"
+  },
+  {
+    "italian": "pacchetto",
+    "english": "package"
+  },
+  {
+    "italian": "supermercato",
+    "english": "supermarket"
+  },
+  {
+    "italian": "carrello",
+    "english": "cart"
+  },
+  {
+    "italian": "cassa",
+    "english": "checkout"
+  },
+  {
+    "italian": "cassiere",
+    "english": "cashier"
+  },
+  {
+    "italian": "scontrino",
+    "english": "receipt"
+  },
+  {
+    "italian": "borsa",
+    "english": "bag"
+  },
+  {
+    "italian": "lista",
+    "english": "list"
+  },
+  {
+    "italian": "spesa",
+    "english": "shopping"
+  },
+  {
+    "italian": "negozio",
+    "english": "store"
+  },
+  {
+    "italian": "vetrina",
+    "english": "shop window"
+  },
+  {
+    "italian": "commesso",
+    "english": "clerk"
+  },
+  {
+    "italian": "prova",
+    "english": "try (e.g., clothes)"
+  },
+  {
+    "italian": " camerino",
+    "english": "fitting room"
+  },
+  {
+    "italian": "taglia",
+    "english": "size"
+  },
+  {
+    "italian": " piccolo",
+    "english": "small (size)"
+  },
+  {
+    "italian": "medio",
+    "english": "medium"
+  },
+  {
+    "italian": "grande",
+    "english": "large"
+  },
+  {
+    "italian": "colore",
+    "english": "color"
+  },
+  {
+    "italian": "modello",
+    "english": "style"
+  },
+  {
+    "italian": "moda",
+    "english": "fashion"
+  },
+  {
+    "italian": "stilista",
+    "english": "designer"
+  },
+  {
+    "italian": "sfilata",
+    "english": "fashion show"
+  },
+  {
+    "italian": "passerella",
+    "english": "runway"
+  },
+  {
+    "italian": "manichino",
+    "english": "mannequin"
+  },
+  {
+    "italian": "stoffa",
+    "english": "cloth"
+  },
+  {
+    "italian": "cotone",
+    "english": "cotton"
+  },
+  {
+    "italian": "lana",
+    "english": "wool"
+  },
+  {
+    "italian": "seta",
+    "english": "silk"
+  },
+  {
+    "italian": "pelle",
+    "english": "leather"
+  },
+  {
+    "italian": "cintura",
+    "english": "belt"
+  },
+  {
+    "italian": "cravatta",
+    "english": "tie"
+  },
+  {
+    "italian": "sciarpa",
+    "english": "scarf"
+  },
+  {
+    "italian": "guanti",
+    "english": "gloves"
+  },
+  {
+    "italian": "borsetta",
+    "english": "purse"
+  },
+  {
+    "italian": "zaino",
+    "english": "backpack"
+  },
+  {
+    "italian": "valigia",
+    "english": "suitcase"
+  },
+  {
+    "italian": "accessorio",
+    "english": "accessory"
+  },
+  {
+    "italian": "gioiello",
+    "english": "jewel"
+  },
+  {
+    "italian": "anello",
+    "english": "ring"
+  },
+  {
+    "italian": "braccialetto",
+    "english": "bracelet"
+  },
+  {
+    "italian": "collana",
+    "english": "necklace"
+  },
+  {
+    "italian": "orecchino",
+    "english": "earring"
+  },
+  {
+    "italian": "orologio",
+    "english": "watch"
+  },
+  {
+    "italian": "occhiali",
+    "english": "glasses"
+  },
+  {
+    "italian": "lenti",
+    "english": "lenses"
+  },
+  {
+    "italian": "sole",
+    "english": "sun (glasses)"
+  },
+  {
+    "italian": "montatura",
+    "english": "frame"
+  },
+  {
+    "italian": "ottico",
+    "english": "optician"
+  },
+  {
+    "italian": "vista",
+    "english": "vision"
+  },
+  {
+    "italian": "cecità",
+    "english": "blindness"
+  },
+  {
+    "italian": "udito",
+    "english": "hearing"
+  },
+  {
+    "italian": "sordità",
+    "english": "deafness"
+  },
+  {
+    "italian": "apparecchio",
+    "english": "hearing aid"
+  },
+  {
+    "italian": "dentista",
+    "english": "dentist"
+  },
+  {
+    "italian": "dente",
+    "english": "tooth"
+  },
+  {
+    "italian": "carie",
+    "english": "cavity"
+  },
+  {
+    "italian": "otturazione",
+    "english": "filling"
+  },
+  {
+    "italian": "apparecchio",
+    "english": "braces"
+  },
+  {
+    "italian": "gengiva",
+    "english": "gum"
+  },
+  {
+    "italian": "spazzolino",
+    "english": "toothbrush"
+  },
+  {
+    "italian": "filo",
+    "english": "floss"
+  },
+  {
+    "italian": "igiene",
+    "english": "hygiene"
+  },
+  {
+    "italian": "salute",
+    "english": "health"
+  },
+  {
+    "italian": "medico",
+    "english": "doctor"
+  },
+  {
+    "italian": "visita",
+    "english": "visit"
+  },
+  {
+    "italian": "diagnosi",
+    "english": "diagnosis"
+  },
+  {
+    "italian": "terapia",
+    "english": "therapy"
+  },
+  {
+    "italian": "farmaco",
+    "english": "drug"
+  },
+  {
+    "italian": "ricetta",
+    "english": "prescription"
+  },
+  {
+    "italian": "pillola",
+    "english": "pill"
+  },
+  {
+    "italian": "sciroppo",
+    "english": "syrup"
+  },
+  {
+    "italian": "iniezione",
+    "english": "injection"
+  },
+  {
+    "italian": "siringa",
+    "english": "syringe"
+  },
+  {
+    "italian": "bendaggio",
+    "english": "bandage"
+  },
+  {
+    "italian": "cerotto",
+    "english": "plaster"
+  },
+  {
+    "italian": "febbre",
+    "english": "fever"
+  },
+  {
+    "italian": "termometro",
+    "english": "thermometer"
+  },
+  {
+    "italian": "tosse",
+    "english": "cough"
+  },
+  {
+    "italian": "raffreddore",
+    "english": "cold"
+  },
+  {
+    "italian": "influenza",
+    "english": "flu"
+  },
+  {
+    "italian": "allergia",
+    "english": "allergy"
+  },
+  {
+    "italian": "starnuto",
+    "english": "sneeze"
+  },
+  {
+    "italian": "nausea",
+    "english": "nausea"
+  },
+  {
+    "italian": "vomito",
+    "english": "vomit"
+  },
+  {
+    "italian": "diarrea",
+    "english": "diarrhea"
+  },
+  {
+    "italian": "stomaco",
+    "english": "stomach"
+  },
+  {
+    "italian": "fegato",
+    "english": "liver"
+  },
+  {
+    "italian": "reni",
+    "english": "kidneys"
+  },
+  {
+    "italian": "polmoni",
+    "english": "lungs"
+  },
+  {
+    "italian": "respiro",
+    "english": "breath"
+  },
+  {
+    "italian": "ossigeno",
+    "english": "oxygen"
+  }
 ]
