@@ -1,0 +1,7212 @@
+[
+  {
+    "italian": "ciao",
+    "english": "hello",
+    "hebrew": "שלום"
+  },
+  {
+    "italian": "amore",
+    "english": "love",
+    "hebrew": "אהבה"
+  },
+  {
+    "italian": "felicità",
+    "english": "happiness",
+    "hebrew": "אושר"
+  },
+  {
+    "italian": "grazie",
+    "english": "thank you",
+    "hebrew": "תודה"
+  },
+  {
+    "italian": "arrivederci",
+    "english": "goodbye",
+    "hebrew": "להתראות"
+  },
+  {
+    "italian": "bella",
+    "english": "beautiful",
+    "hebrew": "יפה"
+  },
+  {
+    "italian": "amico",
+    "english": "friend",
+    "hebrew": "חבר"
+  },
+  {
+    "italian": "famiglia",
+    "english": "family",
+    "hebrew": "משפחה"
+  },
+  {
+    "italian": "tempo",
+    "english": "time",
+    "hebrew": "זמן"
+  },
+  {
+    "italian": "mangiare",
+    "english": "to eat",
+    "hebrew": "לאכול"
+  },
+  {
+    "italian": "bere",
+    "english": "to drink",
+    "hebrew": "לשתות"
+  },
+  {
+    "italian": "sole",
+    "english": "sun",
+    "hebrew": "שמש"
+  },
+  {
+    "italian": "luna",
+    "english": "moon",
+    "hebrew": "ירח"
+  },
+  {
+    "italian": "casa",
+    "english": "house",
+    "hebrew": "בית"
+  },
+  {
+    "italian": "strada",
+    "english": "street",
+    "hebrew": "רחוב"
+  },
+  {
+    "italian": "musica",
+    "english": "music",
+    "hebrew": "מוזיקה"
+  },
+  {
+    "italian": "viaggio",
+    "english": "travel",
+    "hebrew": "טיול"
+  },
+  {
+    "italian": "sogno",
+    "english": "dream",
+    "hebrew": "חלום"
+  },
+  {
+    "italian": "vita",
+    "english": "life",
+    "hebrew": "חיים"
+  },
+  {
+    "italian": "buongiorno",
+    "english": "good morning",
+    "hebrew": "בוקר טוב"
+  },
+  {
+    "italian": "buonasera",
+    "english": "good evening",
+    "hebrew": "ערב טוב"
+  },
+  {
+    "italian": "notte",
+    "english": "night",
+    "hebrew": "לילה"
+  },
+  {
+    "italian": "giorno",
+    "english": "day",
+    "hebrew": "יום"
+  },
+  {
+    "italian": "acqua",
+    "english": "water",
+    "hebrew": "מים"
+  },
+  {
+    "italian": "fuoco",
+    "english": "fire",
+    "hebrew": "אש"
+  },
+  {
+    "italian": "terra",
+    "english": "earth",
+    "hebrew": "אדמה"
+  },
+  {
+    "italian": "cielo",
+    "english": "sky",
+    "hebrew": "שמיים"
+  },
+  {
+    "italian": "montagna",
+    "english": "mountain",
+    "hebrew": "הר"
+  },
+  {
+    "italian": "mare",
+    "english": "sea",
+    "hebrew": "ים"
+  },
+  {
+    "italian": "fiume",
+    "english": "river",
+    "hebrew": "נהר"
+  },
+  {
+    "italian": "foresta",
+    "english": "forest",
+    "hebrew": "יער"
+  },
+  {
+    "italian": "albero",
+    "english": "tree",
+    "hebrew": "עץ"
+  },
+  {
+    "italian": "fiore",
+    "english": "flower",
+    "hebrew": "פרח"
+  },
+  {
+    "italian": "vento",
+    "english": "wind",
+    "hebrew": "רוח"
+  },
+  {
+    "italian": "pioggia",
+    "english": "rain",
+    "hebrew": "גשם"
+  },
+  {
+    "italian": "neve",
+    "english": "snow",
+    "hebrew": "שלג"
+  },
+  {
+    "italian": "caldo",
+    "english": "hot",
+    "hebrew": "חם"
+  },
+  {
+    "italian": "freddo",
+    "english": "cold",
+    "hebrew": "קר"
+  },
+  {
+    "italian": "luce",
+    "english": "light",
+    "hebrew": "אור"
+  },
+  {
+    "italian": "ombra",
+    "english": "shadow",
+    "hebrew": "צל"
+  },
+  {
+    "italian": "colore",
+    "english": "color",
+    "hebrew": "צבע"
+  },
+  {
+    "italian": "rosso",
+    "english": "red",
+    "hebrew": "אדום"
+  },
+  {
+    "italian": "blu",
+    "english": "blue",
+    "hebrew": "כחול"
+  },
+  {
+    "italian": "verde",
+    "english": "green",
+    "hebrew": "ירוק"
+  },
+  {
+    "italian": "giallo",
+    "english": "yellow",
+    "hebrew": "צהוב"
+  },
+  {
+    "italian": "bianco",
+    "english": "white",
+    "hebrew": "לבן"
+  },
+  {
+    "italian": "nero",
+    "english": "black",
+    "hebrew": "שחור"
+  },
+  {
+    "italian": "parlare",
+    "english": "to speak",
+    "hebrew": "לדבר"
+  },
+  {
+    "italian": "ascoltare",
+    "english": "to listen",
+    "hebrew": "להקשיב"
+  },
+  {
+    "italian": "capire",
+    "english": "to understand",
+    "hebrew": "להבין"
+  },
+  {
+    "italian": "vedere",
+    "english": "to see",
+    "hebrew": "לראות"
+  },
+  {
+    "italian": "scrivere",
+    "english": "to write",
+    "hebrew": "לכתוב"
+  },
+  {
+    "italian": "leggere",
+    "english": "to read",
+    "hebrew": "לקרוא"
+  },
+  {
+    "italian": "camminare",
+    "english": "to walk",
+    "hebrew": "ללכת"
+  },
+  {
+    "italian": "correre",
+    "english": "to run",
+    "hebrew": "לרוץ"
+  },
+  {
+    "italian": "dormire",
+    "english": "to sleep",
+    "hebrew": "לישון"
+  },
+  {
+    "italian": "svegliare",
+    "english": "to wake up",
+    "hebrew": "להתעורר"
+  },
+  {
+    "italian": "lavorare",
+    "english": "to work",
+    "hebrew": "לעבוד"
+  },
+  {
+    "italian": "studiare",
+    "english": "to study",
+    "hebrew": "ללמוד"
+  },
+  {
+    "italian": "giocare",
+    "english": "to play",
+    "hebrew": "לשחק"
+  },
+  {
+    "italian": "cantare",
+    "english": "to sing",
+    "hebrew": "לשיר"
+  },
+  {
+    "italian": "ballare",
+    "english": "to dance",
+    "hebrew": "לרקוד"
+  },
+  {
+    "italian": "ridere",
+    "english": "to laugh",
+    "hebrew": "לצחוק"
+  },
+  {
+    "italian": "piangere",
+    "english": "to cry",
+    "hebrew": "לבכות"
+  },
+  {
+    "italian": "pensare",
+    "english": "to think",
+    "hebrew": "לחשוב"
+  },
+  {
+    "italian": "sapere",
+    "english": "to know",
+    "hebrew": "לדעת"
+  },
+  {
+    "italian": "volere",
+    "english": "to want",
+    "hebrew": "לרצות"
+  },
+  {
+    "italian": "potere",
+    "english": "to be able",
+    "hebrew": "להיות מסוגל"
+  },
+  {
+    "italian": "dovere",
+    "english": "to have to",
+    "hebrew": "חייב"
+  },
+  {
+    "italian": "andare",
+    "english": "to go",
+    "hebrew": "ללכת"
+  },
+  {
+    "italian": "venire",
+    "english": "to come",
+    "hebrew": "לבוא"
+  },
+  {
+    "italian": "partire",
+    "english": "to leave",
+    "hebrew": "לעזוב"
+  },
+  {
+    "italian": "tornare",
+    "english": "to return",
+    "hebrew": "לחזור"
+  },
+  {
+    "italian": "vivere",
+    "english": "to live",
+    "hebrew": "לחיות"
+  },
+  {
+    "italian": "morire",
+    "english": "to die",
+    "hebrew": "למות"
+  },
+  {
+    "italian": "nascere",
+    "english": "to be born",
+    "hebrew": "להיוולד"
+  },
+  {
+    "italian": "grande",
+    "english": "big",
+    "hebrew": "גדול"
+  },
+  {
+    "italian": "piccolo",
+    "english": "small",
+    "hebrew": "קטן"
+  },
+  {
+    "italian": "alto",
+    "english": "tall",
+    "hebrew": "גבוה"
+  },
+  {
+    "italian": "basso",
+    "english": "short",
+    "hebrew": "נמוך"
+  },
+  {
+    "italian": "lungo",
+    "english": "long",
+    "hebrew": "ארוך"
+  },
+  {
+    "italian": "corto",
+    "english": "short",
+    "hebrew": "קצר"
+  },
+  {
+    "italian": "nuovo",
+    "english": "new",
+    "hebrew": "חדש"
+  },
+  {
+    "italian": "vecchio",
+    "english": "old",
+    "hebrew": "ישן"
+  },
+  {
+    "italian": "buono",
+    "english": "good",
+    "hebrew": "טוב"
+  },
+  {
+    "italian": "cattivo",
+    "english": "bad",
+    "hebrew": "רע"
+  },
+  {
+    "italian": "facile",
+    "english": "easy",
+    "hebrew": "קל"
+  },
+  {
+    "italian": "difficile",
+    "english": "difficult",
+    "hebrew": "קשה"
+  },
+  {
+    "italian": "felice",
+    "english": "happy",
+    "hebrew": "שמח"
+  },
+  {
+    "italian": "triste",
+    "english": "sad",
+    "hebrew": "עצוב"
+  },
+  {
+    "italian": "stanco",
+    "english": "tired",
+    "hebrew": "עייף"
+  },
+  {
+    "italian": "forte",
+    "english": "strong",
+    "hebrew": "חזק"
+  },
+  {
+    "italian": "debole",
+    "english": "weak",
+    "hebrew": "חלש"
+  },
+  {
+    "italian": "veloce",
+    "english": "fast",
+    "hebrew": "מהיר"
+  },
+  {
+    "italian": "lento",
+    "english": "slow",
+    "hebrew": "איטי"
+  },
+  {
+    "italian": "scuola",
+    "english": "school",
+    "hebrew": "בית ספר"
+  },
+  {
+    "italian": "libro",
+    "english": "book",
+    "hebrew": "ספר"
+  },
+  {
+    "italian": "penna",
+    "english": "pen",
+    "hebrew": "עט"
+  },
+  {
+    "italian": "tavolo",
+    "english": "table",
+    "hebrew": "שולחן"
+  },
+  {
+    "italian": "salute",
+    "english": "health",
+    "hebrew": "בריאות"
+  },
+  {
+    "italian": "pace",
+    "english": "peace",
+    "hebrew": "שלום"
+  },
+  {
+    "italian": "guerra",
+    "english": "war",
+    "hebrew": "מלחמה"
+  },
+  {
+    "italian": "libertà",
+    "english": "freedom",
+    "hebrew": "חופש"
+  },
+  {
+    "italian": "speranza",
+    "english": "hope",
+    "hebrew": "תקווה"
+  },
+  {
+    "italian": "paura",
+    "english": "fear",
+    "hebrew": "פחד"
+  },
+  {
+    "italian": "gioia",
+    "english": "joy",
+    "hebrew": "שמחה"
+  },
+  {
+    "italian": "dolore",
+    "english": "pain",
+    "hebrew": "כאב"
+  },
+  {
+    "italian": "forza",
+    "english": "strength",
+    "hebrew": "כוח"
+  },
+  {
+    "italian": "energia",
+    "english": "energy",
+    "hebrew": "אנרגיה"
+  },
+  {
+    "italian": "mattina",
+    "english": "morning",
+    "hebrew": "בוקר"
+  },
+  {
+    "italian": "pomeriggio",
+    "english": "afternoon",
+    "hebrew": "אחר הצהריים"
+  },
+  {
+    "italian": "sera",
+    "english": "evening",
+    "hebrew": "ערב"
+  },
+  {
+    "italian": "anno",
+    "english": "year",
+    "hebrew": "שנה"
+  },
+  {
+    "italian": "mese",
+    "english": "month",
+    "hebrew": "חודש"
+  },
+  {
+    "italian": "settimana",
+    "english": "week",
+    "hebrew": "שבוע"
+  },
+  {
+    "italian": "ieri",
+    "english": "yesterday",
+    "hebrew": "אתמול"
+  },
+  {
+    "italian": "oggi",
+    "english": "today",
+    "hebrew": "היום"
+  },
+  {
+    "italian": "domani",
+    "english": "tomorrow",
+    "hebrew": "מחר"
+  },
+  {
+    "italian": "ora",
+    "english": "now",
+    "hebrew": "עכשיו"
+  },
+  {
+    "italian": "presto",
+    "english": "soon",
+    "hebrew": "בקרוב"
+  },
+  {
+    "italian": "tardi",
+    "english": "late",
+    "hebrew": "מאוחר"
+  },
+  {
+    "italian": "sempre",
+    "english": "always",
+    "hebrew": "תמיד"
+  },
+  {
+    "italian": "mai",
+    "english": "never",
+    "hebrew": "לעולם לא"
+  },
+  {
+    "italian": "spesso",
+    "english": "often",
+    "hebrew": "לעיתים קרובות"
+  },
+  {
+    "italian": "pane",
+    "english": "bread",
+    "hebrew": "לחם"
+  },
+  {
+    "italian": "latte",
+    "english": "milk",
+    "hebrew": "חלב"
+  },
+  {
+    "italian": "vino",
+    "english": "wine",
+    "hebrew": "יין"
+  },
+  {
+    "italian": "carne",
+    "english": "meat",
+    "hebrew": "בשר"
+  },
+  {
+    "italian": "pesce",
+    "english": "fish",
+    "hebrew": "דג"
+  },
+  {
+    "italian": "frutta",
+    "english": "fruit",
+    "hebrew": "פרי"
+  },
+  {
+    "italian": "verdura",
+    "english": "vegetable",
+    "hebrew": "ירק"
+  },
+  {
+    "italian": "zucchero",
+    "english": "sugar",
+    "hebrew": "סוכר"
+  },
+  {
+    "italian": "sale",
+    "english": "salt",
+    "hebrew": "מלח"
+  },
+  {
+    "italian": "olio",
+    "english": "oil",
+    "hebrew": "שמן"
+  },
+  {
+    "italian": "pizza",
+    "english": "pizza",
+    "hebrew": "פיצה"
+  },
+  {
+    "italian": "pasta",
+    "english": "pasta",
+    "hebrew": "פסטה"
+  },
+  {
+    "italian": "formaggio",
+    "english": "cheese",
+    "hebrew": "גבינה"
+  },
+  {
+    "italian": "uovo",
+    "english": "egg",
+    "hebrew": "ביצה"
+  },
+  {
+    "italian": "caffè",
+    "english": "coffee",
+    "hebrew": "קפה"
+  },
+  {
+    "italian": "tè",
+    "english": "tea",
+    "hebrew": "תה"
+  },
+  {
+    "italian": "colazione",
+    "english": "breakfast",
+    "hebrew": "ארוחת בוקר"
+  },
+  {
+    "italian": "pranzo",
+    "english": "lunch",
+    "hebrew": "ארוחת צהריים"
+  },
+  {
+    "italian": "cena",
+    "english": "dinner",
+    "hebrew": "ארוחת ערב"
+  },
+  {
+    "italian": "ristorante",
+    "english": "restaurant",
+    "hebrew": "מסעדה"
+  },
+  {
+    "italian": "mercato",
+    "english": "market",
+    "hebrew": "שוק"
+  },
+  {
+    "italian": "negozio",
+    "english": "shop",
+    "hebrew": "חנות"
+  },
+  {
+    "italian": "soldi",
+    "english": "money",
+    "hebrew": "כסף"
+  },
+  {
+    "italian": "prezzo",
+    "english": "price",
+    "hebrew": "מחיר"
+  },
+  {
+    "italian": "comprare",
+    "english": "to buy",
+    "hebrew": "לקנות"
+  },
+  {
+    "italian": "vendere",
+    "english": "to sell",
+    "hebrew": "למכור"
+  },
+  {
+    "italian": "lavoro",
+    "english": "work",
+    "hebrew": "עבודה"
+  },
+  {
+    "italian": "ufficio",
+    "english": "office",
+    "hebrew": "משרד"
+  },
+  {
+    "italian": "macchina",
+    "english": "car",
+    "hebrew": "מכונית"
+  },
+  {
+    "italian": "treno",
+    "english": "train",
+    "hebrew": "רכבת"
+  },
+  {
+    "italian": "autobus",
+    "english": "bus",
+    "hebrew": "אוטובוס"
+  },
+  {
+    "italian": "aereo",
+    "english": "airplane",
+    "hebrew": "מטוס"
+  },
+  {
+    "italian": "bici",
+    "english": "bicycle",
+    "hebrew": "אופניים"
+  },
+  {
+    "italian": "strada",
+    "english": "road",
+    "hebrew": "דרך"
+  },
+  {
+    "italian": "ponte",
+    "english": "bridge",
+    "hebrew": "גשר"
+  },
+  {
+    "italian": "stazione",
+    "english": "station",
+    "hebrew": "תחנה"
+  },
+  {
+    "italian": "aeroporto",
+    "english": "airport",
+    "hebrew": "שדה תעופה"
+  },
+  {
+    "italian": "viaggiare",
+    "english": "to travel",
+    "hebrew": "לטייל"
+  },
+  {
+    "italian": "mappa",
+    "english": "map",
+    "hebrew": "מפה"
+  },
+  {
+    "italian": "città",
+    "english": "city",
+    "hebrew": "עיר"
+  },
+  {
+    "italian": "paese",
+    "english": "country",
+    "hebrew": "ארץ"
+  },
+  {
+    "italian": "villaggio",
+    "english": "village",
+    "hebrew": "כפר"
+  },
+  {
+    "italian": "spiaggia",
+    "english": "beach",
+    "hebrew": "חוף"
+  },
+  {
+    "italian": "isola",
+    "english": "island",
+    "hebrew": "אי"
+  },
+  {
+    "italian": "lago",
+    "english": "lake",
+    "hebrew": "אגם"
+  },
+  {
+    "italian": "parco",
+    "english": "park",
+    "hebrew": "פארק"
+  },
+  {
+    "italian": "giardino",
+    "english": "garden",
+    "hebrew": "גינה"
+  },
+  {
+    "italian": "finestra",
+    "english": "window",
+    "hebrew": "חלון"
+  },
+  {
+    "italian": "porta",
+    "english": "door",
+    "hebrew": "דלת"
+  },
+  {
+    "italian": "stanza",
+    "english": "room",
+    "hebrew": "חדר"
+  },
+  {
+    "italian": "letto",
+    "english": "bed",
+    "hebrew": "מיטה"
+  },
+  {
+    "italian": "sedia",
+    "english": "chair",
+    "hebrew": "כיסא"
+  },
+  {
+    "italian": "specchio",
+    "english": "mirror",
+    "hebrew": "מראה"
+  },
+  {
+    "italian": "orologio",
+    "english": "clock",
+    "hebrew": "שעון"
+  },
+  {
+    "italian": "telefono",
+    "english": "phone",
+    "hebrew": "טלפון"
+  },
+  {
+    "italian": "computer",
+    "english": "computer",
+    "hebrew": "מחשב"
+  },
+  {
+    "italian": "televisione",
+    "english": "television",
+    "hebrew": "טלוויזיה"
+  },
+  {
+    "italian": "radio",
+    "english": "radio",
+    "hebrew": "רדיו"
+  },
+  {
+    "italian": "internet",
+    "english": "internet",
+    "hebrew": "אינטרנט"
+  },
+  {
+    "italian": "foto",
+    "english": "photo",
+    "hebrew": "תמונה"
+  },
+  {
+    "italian": "film",
+    "english": "movie",
+    "hebrew": "סרט"
+  },
+  {
+    "italian": "teatro",
+    "english": "theater",
+    "hebrew": "תיאטרון"
+  },
+  {
+    "italian": "sport",
+    "english": "sport",
+    "hebrew": "ספורט"
+  },
+  {
+    "italian": "calcio",
+    "english": "soccer",
+    "hebrew": "כדורגל"
+  },
+  {
+    "italian": "pallone",
+    "english": "ball",
+    "hebrew": "כדור"
+  },
+  {
+    "italian": "nuotare",
+    "english": "to swim",
+    "hebrew": "לשחות"
+  },
+  {
+    "italian": "sciare",
+    "english": "to ski",
+    "hebrew": "לגלוש"
+  },
+  {
+    "italian": "cucinare",
+    "english": "to cook",
+    "hebrew": "לבשל"
+  },
+  {
+    "italian": "pulire",
+    "english": "to clean",
+    "hebrew": "לנקות"
+  },
+  {
+    "italian": "aspettare",
+    "english": "to wait",
+    "hebrew": "לחכות"
+  },
+  {
+    "italian": "aiutare",
+    "english": "to help",
+    "hebrew": "לעזור"
+  },
+  {
+    "italian": "imparare",
+    "english": "to learn",
+    "hebrew": "ללמוד"
+  },
+  {
+    "italian": "insegnare",
+    "english": "to teach",
+    "hebrew": "ללמד"
+  },
+  {
+    "italian": "ricordare",
+    "english": "to remember",
+    "hebrew": "לזכור"
+  },
+  {
+    "italian": "domanda",
+    "english": "question",
+    "hebrew": "שאלה"
+  },
+  {
+    "italian": "risposta",
+    "english": "answer",
+    "hebrew": "תשובה"
+  },
+  {
+    "italian": "idea",
+    "english": "idea",
+    "hebrew": "רעיון"
+  },
+  {
+    "italian": "problema",
+    "english": "problem",
+    "hebrew": "בעיה"
+  },
+  {
+    "italian": "soluzione",
+    "english": "solution",
+    "hebrew": "פתרון"
+  },
+  {
+    "italian": "errore",
+    "english": "mistake",
+    "hebrew": "טעות"
+  },
+  {
+    "italian": "successo",
+    "english": "success",
+    "hebrew": "הצלחה"
+  },
+  {
+    "italian": "fallimento",
+    "english": "failure",
+    "hebrew": "כישלון"
+  },
+  {
+    "italian": "inizio",
+    "english": "beginning",
+    "hebrew": "התחלה"
+  },
+  {
+    "italian": "fine",
+    "english": "end",
+    "hebrew": "סוף"
+  },
+  {
+    "italian": "storia",
+    "english": "story",
+    "hebrew": "סיפור"
+  },
+  {
+    "italian": "parola",
+    "english": "word",
+    "hebrew": "מילה"
+  },
+  {
+    "italian": "lingua",
+    "english": "language",
+    "hebrew": "שפה"
+  },
+  {
+    "italian": "silenzio",
+    "english": "silence",
+    "hebrew": "שקט"
+  },
+  {
+    "italian": "rumore",
+    "english": "noise",
+    "hebrew": "רעש"
+  },
+  {
+    "italian": "voce",
+    "english": "voice",
+    "hebrew": "קול"
+  },
+  {
+    "italian": "suono",
+    "english": "sound",
+    "hebrew": "צליל"
+  },
+  {
+    "italian": "odore",
+    "english": "smell",
+    "hebrew": "ריח"
+  },
+  {
+    "italian": "sapore",
+    "english": "taste",
+    "hebrew": "טעם"
+  },
+  {
+    "italian": "tocco",
+    "english": "touch",
+    "hebrew": "מגע"
+  },
+  {
+    "italian": "vista",
+    "english": "sight",
+    "hebrew": "ראייה"
+  },
+  {
+    "italian": "mano",
+    "english": "hand",
+    "hebrew": "יד"
+  },
+  {
+    "italian": "piede",
+    "english": "foot",
+    "hebrew": "רגל"
+  },
+  {
+    "italian": "testa",
+    "english": "head",
+    "hebrew": "ראש"
+  },
+  {
+    "italian": "cuore",
+    "english": "heart",
+    "hebrew": "לב"
+  },
+  {
+    "italian": "occhio",
+    "english": "eye",
+    "hebrew": "עין"
+  },
+  {
+    "italian": "orecchio",
+    "english": "ear",
+    "hebrew": "אוזן"
+  },
+  {
+    "italian": "bocca",
+    "english": "mouth",
+    "hebrew": "פה"
+  },
+  {
+    "italian": "naso",
+    "english": "nose",
+    "hebrew": "אף"
+  },
+  {
+    "italian": "braccio",
+    "english": "arm",
+    "hebrew": "זרוע"
+  },
+  {
+    "italian": "gamba",
+    "english": "leg",
+    "hebrew": "רגל"
+  },
+  {
+    "italian": "corpo",
+    "english": "body",
+    "hebrew": "גוף"
+  },
+  {
+    "italian": "persona",
+    "english": "person",
+    "hebrew": "אדם"
+  },
+  {
+    "italian": "uomo",
+    "english": "man",
+    "hebrew": "גבר"
+  },
+  {
+    "italian": "donna",
+    "english": "woman",
+    "hebrew": "אישה"
+  },
+  {
+    "italian": "bambino",
+    "english": "child",
+    "hebrew": "ילד"
+  },
+  {
+    "italian": "ragazzo",
+    "english": "boy",
+    "hebrew": "נער"
+  },
+  {
+    "italian": "ragazza",
+    "english": "girl",
+    "hebrew": "נערה"
+  },
+  {
+    "italian": "madre",
+    "english": "mother",
+    "hebrew": "אם"
+  },
+  {
+    "italian": "padre",
+    "english": "father",
+    "hebrew": "אב"
+  },
+  {
+    "italian": "fratello",
+    "english": "brother",
+    "hebrew": "אח"
+  },
+  {
+    "italian": "sorella",
+    "english": "sister",
+    "hebrew": "אחות"
+  },
+  {
+    "italian": "nonno",
+    "english": "grandfather",
+    "hebrew": "סבא"
+  },
+  {
+    "italian": "nonna",
+    "english": "grandmother",
+    "hebrew": "סבתא"
+  },
+  {
+    "italian": "zio",
+    "english": "uncle",
+    "hebrew": "דוד"
+  },
+  {
+    "italian": "zia",
+    "english": "aunt",
+    "hebrew": "דודה"
+  },
+  {
+    "italian": "cugino",
+    "english": "cousin",
+    "hebrew": "בן דוד"
+  },
+  {
+    "italian": "animale",
+    "english": "animal",
+    "hebrew": "חיה"
+  },
+  {
+    "italian": "cane",
+    "english": "dog",
+    "hebrew": "כלב"
+  },
+  {
+    "italian": "gatto",
+    "english": "cat",
+    "hebrew": "חתול"
+  },
+  {
+    "italian": "uccello",
+    "english": "bird",
+    "hebrew": "ציפור"
+  },
+  {
+    "italian": "cavallo",
+    "english": "horse",
+    "hebrew": "סוס"
+  },
+  {
+    "italian": "pesce",
+    "english": "fish",
+    "hebrew": "דג"
+  },
+  {
+    "italian": "insetto",
+    "english": "insect",
+    "hebrew": "חרק"
+  },
+  {
+    "italian": "natura",
+    "english": "nature",
+    "hebrew": "טבע"
+  },
+  {
+    "italian": "pietra",
+    "english": "stone",
+    "hebrew": "אבן"
+  },
+  {
+    "italian": "sabbia",
+    "english": "sand",
+    "hebrew": "חול"
+  },
+  {
+    "italian": "erba",
+    "english": "grass",
+    "hebrew": "דשא"
+  },
+  {
+    "italian": "foglia",
+    "english": "leaf",
+    "hebrew": "עלה"
+  },
+  {
+    "italian": "ramo",
+    "english": "branch",
+    "hebrew": "ענף"
+  },
+  {
+    "italian": "fronte",
+    "english": "front",
+    "hebrew": "חזית"
+  },
+  {
+    "italian": "dietro",
+    "english": "behind",
+    "hebrew": "מאחור"
+  },
+  {
+    "italian": "sopra",
+    "english": "above",
+    "hebrew": "מעל"
+  },
+  {
+    "italian": "sotto",
+    "english": "below",
+    "hebrew": "מתחת"
+  },
+  {
+    "italian": "destra",
+    "english": "right",
+    "hebrew": "ימין"
+  },
+  {
+    "italian": "sinistra",
+    "english": "left",
+    "hebrew": "שמאל"
+  },
+  {
+    "italian": "dentro",
+    "english": "inside",
+    "hebrew": "בפנים"
+  },
+  {
+    "italian": "fuori",
+    "english": "outside",
+    "hebrew": "בחוץ"
+  },
+  {
+    "italian": "vicino",
+    "english": "near",
+    "hebrew": "קרוב"
+  },
+  {
+    "italian": "lontano",
+    "english": "far",
+    "hebrew": "רחוק"
+  },
+  {
+    "italian": "insieme",
+    "english": "together",
+    "hebrew": "ביחד"
+  },
+  {
+    "italian": "solo",
+    "english": "alone",
+    "hebrew": "לבד"
+  },
+  {
+    "italian": "tutto",
+    "english": "all",
+    "hebrew": "הכל"
+  },
+  {
+    "italian": "niente",
+    "english": "nothing",
+    "hebrew": "שום דבר"
+  },
+  {
+    "italian": "qualcosa",
+    "english": "something",
+    "hebrew": "משהו"
+  },
+  {
+    "italian": "qualcuno",
+    "english": "someone",
+    "hebrew": "מישהו"
+  },
+  {
+    "italian": "nessuno",
+    "english": "nobody",
+    "hebrew": "אף אחד"
+  },
+  {
+    "italian": "ogni",
+    "english": "every",
+    "hebrew": "כל"
+  },
+  {
+    "italian": "molto",
+    "english": "very",
+    "hebrew": "מאוד"
+  },
+  {
+    "italian": "poco",
+    "english": "little",
+    "hebrew": "מעט"
+  },
+  {
+    "italian": "abbastanza",
+    "english": "enough",
+    "hebrew": "מספיק"
+  },
+  {
+    "italian": "troppo",
+    "english": "too much",
+    "hebrew": "יותר מדי"
+  },
+  {
+    "italian": "primo",
+    "english": "first",
+    "hebrew": "ראשון"
+  },
+  {
+    "italian": "ultimo",
+    "english": "last",
+    "hebrew": "אחרון"
+  },
+  {
+    "italian": "prossimo",
+    "english": "next",
+    "hebrew": "הבא"
+  },
+  {
+    "italian": "passato",
+    "english": "past",
+    "hebrew": "עבר"
+  },
+  {
+    "italian": "futuro",
+    "english": "future",
+    "hebrew": "עתיד"
+  },
+  {
+    "italian": "presente",
+    "english": "present",
+    "hebrew": "הווה"
+  },
+  {
+    "italian": "calma",
+    "english": "calm",
+    "hebrew": "רוגע"
+  },
+  {
+    "italian": "confusione",
+    "english": "confusion",
+    "hebrew": "בלבול"
+  },
+  {
+    "italian": "pericolo",
+    "english": "danger",
+    "hebrew": "סכנה"
+  },
+  {
+    "italian": "sicurezza",
+    "english": "safety",
+    "hebrew": "בטחון"
+  },
+  {
+    "italian": "rischio",
+    "english": "risk",
+    "hebrew": "סיכון"
+  },
+  {
+    "italian": "segreto",
+    "english": "secret",
+    "hebrew": "סוד"
+  },
+  {
+    "italian": "verità",
+    "english": "truth",
+    "hebrew": "אמת"
+  },
+  {
+    "italian": "bugia",
+    "english": "lie",
+    "hebrew": "שקר"
+  },
+  {
+    "italian": "giusto",
+    "english": "right",
+    "hebrew": "צודק"
+  },
+  {
+    "italian": "sbagliato",
+    "english": "wrong",
+    "hebrew": "שגוי"
+  },
+  {
+    "italian": "amicizia",
+    "english": "friendship",
+    "hebrew": "חברות"
+  },
+  {
+    "italian": "rispetto",
+    "english": "respect",
+    "hebrew": "כבוד"
+  },
+  {
+    "italian": "onestà",
+    "english": "honesty",
+    "hebrew": "יושר"
+  },
+  {
+    "italian": "gentilezza",
+    "english": "kindness",
+    "hebrew": "חסד"
+  },
+  {
+    "italian": "pazienza",
+    "english": "patience",
+    "hebrew": "סבלנות"
+  },
+  {
+    "italian": "coraggio",
+    "english": "courage",
+    "hebrew": "אומץ"
+  },
+  {
+    "italian": "fiducia",
+    "english": "trust",
+    "hebrew": "אמון"
+  },
+  {
+    "italian": "gelosia",
+    "english": "jealousy",
+    "hebrew": "קנאה"
+  },
+  {
+    "italian": "colpa",
+    "english": "guilt",
+    "hebrew": "אשמה"
+  },
+  {
+    "italian": "orgoglio",
+    "english": "pride",
+    "hebrew": "גאווה"
+  },
+  {
+    "italian": "estate",
+    "english": "summer",
+    "hebrew": "קיץ"
+  },
+  {
+    "italian": "inverno",
+    "english": "winter",
+    "hebrew": "חורף"
+  },
+  {
+    "italian": "primavera",
+    "english": "spring",
+    "hebrew": "אביב"
+  },
+  {
+    "italian": "autunno",
+    "english": "autumn",
+    "hebrew": "סתיו"
+  },
+  {
+    "italian": "nuvola",
+    "english": "cloud",
+    "hebrew": "ענן"
+  },
+  {
+    "italian": "tuono",
+    "english": "thunder",
+    "hebrew": "רעם"
+  },
+  {
+    "italian": "fulmine",
+    "english": "lightning",
+    "hebrew": "ברק"
+  },
+  {
+    "italian": "arcobaleno",
+    "english": "rainbow",
+    "hebrew": "קשת"
+  },
+  {
+    "italian": "nebbia",
+    "english": "fog",
+    "hebrew": "ערפל"
+  },
+  {
+    "italian": "ghiaccio",
+    "english": "ice",
+    "hebrew": "קרח"
+  },
+  {
+    "italian": "mattino",
+    "english": "morning",
+    "hebrew": "בוקר"
+  },
+  {
+    "italian": "mezzogiorno",
+    "english": "noon",
+    "hebrew": "צהריים"
+  },
+  {
+    "italian": "mezzanotte",
+    "english": "midnight",
+    "hebrew": "חצות"
+  },
+  {
+    "italian": "secondo",
+    "english": "second",
+    "hebrew": "שנייה"
+  },
+  {
+    "italian": "minuto",
+    "english": "minute",
+    "hebrew": "דקה"
+  },
+  {
+    "italian": "ora",
+    "english": "hour",
+    "hebrew": "שעה"
+  },
+  {
+    "italian": "età",
+    "english": "age",
+    "hebrew": "גיל"
+  },
+  {
+    "italian": "giovane",
+    "english": "young",
+    "hebrew": "צעיר"
+  },
+  {
+    "italian": "adulto",
+    "english": "adult",
+    "hebrew": "מבוגר"
+  },
+  {
+    "italian": "anziano",
+    "english": "elderly",
+    "hebrew": "קשיש"
+  },
+  {
+    "italian": "zaino",
+    "english": "backpack",
+    "hebrew": "תרמיל"
+  },
+  {
+    "italian": "borsa",
+    "english": "bag",
+    "hebrew": "תיק"
+  },
+  {
+    "italian": "valigia",
+    "english": "suitcase",
+    "hebrew": "מזוודה"
+  },
+  {
+    "italian": "ombrello",
+    "english": "umbrella",
+    "hebrew": "מטריה"
+  },
+  {
+    "italian": "scarpa",
+    "english": "shoe",
+    "hebrew": "נעל"
+  },
+  {
+    "italian": "calzino",
+    "english": "sock",
+    "hebrew": "גרב"
+  },
+  {
+    "italian": "cappello",
+    "english": "hat",
+    "hebrew": "כובע"
+  },
+  {
+    "italian": "giacca",
+    "english": "jacket",
+    "hebrew": "מעיל"
+  },
+  {
+    "italian": "camicia",
+    "english": "shirt",
+    "hebrew": "חולצה"
+  },
+  {
+    "italian": "pantaloni",
+    "english": "pants",
+    "hebrew": "מכנסיים"
+  },
+  {
+    "italian": "vestito",
+    "english": "dress",
+    "hebrew": "שמלה"
+  },
+  {
+    "italian": "gonna",
+    "english": "skirt",
+    "hebrew": "חצאית"
+  },
+  {
+    "italian": "anello",
+    "english": "ring",
+    "hebrew": "טבעת"
+  },
+  {
+    "italian": "collana",
+    "english": "necklace",
+    "hebrew": "שרשרת"
+  },
+  {
+    "italian": "orologio",
+    "english": "watch",
+    "hebrew": "שעון"
+  },
+  {
+    "italian": "occhiali",
+    "english": "glasses",
+    "hebrew": "משקפיים"
+  },
+  {
+    "italian": "chiave",
+    "english": "key",
+    "hebrew": "מפתח"
+  },
+  {
+    "italian": "lucchetto",
+    "english": "lock",
+    "hebrew": "מנעול"
+  },
+  {
+    "italian": "lampada",
+    "english": "lamp",
+    "hebrew": "מנורה"
+  },
+  {
+    "italian": "candela",
+    "english": "candle",
+    "hebrew": "נר"
+  },
+  {
+    "italian": "accendere",
+    "english": "to turn on",
+    "hebrew": "להדליק"
+  },
+  {
+    "italian": "spegnere",
+    "english": "to turn off",
+    "hebrew": "לכבות"
+  },
+  {
+    "italian": "aprire",
+    "english": "to open",
+    "hebrew": "לפתוח"
+  },
+  {
+    "italian": "chiudere",
+    "english": "to close",
+    "hebrew": "לסגור"
+  },
+  {
+    "italian": "entrare",
+    "english": "to enter",
+    "hebrew": "להיכנס"
+  },
+  {
+    "italian": "uscire",
+    "english": "to exit",
+    "hebrew": "לצאת"
+  },
+  {
+    "italian": "salire",
+    "english": "to go up",
+    "hebrew": "לעלות"
+  },
+  {
+    "italian": "scendere",
+    "english": "to go down",
+    "hebrew": "לרדת"
+  },
+  {
+    "italian": "cercare",
+    "english": "to look for",
+    "hebrew": "לחפש"
+  },
+  {
+    "italian": "trovare",
+    "english": "to find",
+    "hebrew": "למצוא"
+  },
+  {
+    "italian": "perdere",
+    "english": "to lose",
+    "hebrew": "לאבד"
+  },
+  {
+    "italian": "aspettarsi",
+    "english": "to expect",
+    "hebrew": "לצפות"
+  },
+  {
+    "italian": "sorprendere",
+    "english": "to surprise",
+    "hebrew": "להפתיע"
+  },
+  {
+    "italian": "promettere",
+    "english": "to promise",
+    "hebrew": "להבטיח"
+  },
+  {
+    "italian": "mantenere",
+    "english": "to keep",
+    "hebrew": "לקיים"
+  },
+  {
+    "italian": "rompere",
+    "english": "to break",
+    "hebrew": "לשבור"
+  },
+  {
+    "italian": "riparare",
+    "english": "to fix",
+    "hebrew": "לתקן"
+  },
+  {
+    "italian": "costruire",
+    "english": "to build",
+    "hebrew": "לבנות"
+  },
+  {
+    "italian": "distruggere",
+    "english": "to destroy",
+    "hebrew": "להרוס"
+  },
+  {
+    "italian": "tagliare",
+    "english": "to cut",
+    "hebrew": "לחתוך"
+  },
+  {
+    "italian": "cucire",
+    "english": "to sew",
+    "hebrew": "לתפור"
+  },
+  {
+    "italian": "disegnare",
+    "english": "to draw",
+    "hebrew": "לצייר"
+  },
+  {
+    "italian": "dipinger",
+    "english": "to paint",
+    "hebrew": "לצבוע"
+  },
+  {
+    "italian": "creare",
+    "english": "to create",
+    "hebrew": "ליצור"
+  },
+  {
+    "italian": "immaginare",
+    "english": "to imagine",
+    "hebrew": "לדמיין"
+  },
+  {
+    "italian": "credere",
+    "english": "to believe",
+    "hebrew": "להאמין"
+  },
+  {
+    "italian": "dubitare",
+    "english": "to doubt",
+    "hebrew": "לפקפק"
+  },
+  {
+    "italian": "decidere",
+    "english": "to decide",
+    "hebrew": "להחליט"
+  },
+  {
+    "italian": "cambiare",
+    "english": "to change",
+    "hebrew": "לשנות"
+  },
+  {
+    "italian": "rimanere",
+    "english": "to stay",
+    "hebrew": "להישאר"
+  },
+  {
+    "italian": "muovere",
+    "english": "to move",
+    "hebrew": "לזוז"
+  },
+  {
+    "italian": "fermare",
+    "english": "to stop",
+    "hebrew": "לעצור"
+  },
+  {
+    "italian": "continuare",
+    "english": "to continue",
+    "hebrew": "להמשיך"
+  },
+  {
+    "italian": "finire",
+    "english": "to finish",
+    "hebrew": "לסיים"
+  },
+  {
+    "italian": "cominciare",
+    "english": "to start",
+    "hebrew": "להתחיל"
+  },
+  {
+    "italian": "portare",
+    "english": "to bring",
+    "hebrew": "להביא"
+  },
+  {
+    "italian": "prendere",
+    "english": "to take",
+    "hebrew": "לקחת"
+  },
+  {
+    "italian": "dare",
+    "english": "to give",
+    "hebrew": "לתת"
+  },
+  {
+    "italian": "ricevere",
+    "english": "to receive",
+    "hebrew": "לקבל"
+  },
+  {
+    "italian": "chiedere",
+    "english": "to ask",
+    "hebrew": "לבקש"
+  },
+  {
+    "italian": "rispondere",
+    "english": "to answer",
+    "hebrew": "לענות"
+  },
+  {
+    "italian": "spiegare",
+    "english": "to explain",
+    "hebrew": "להסביר"
+  },
+  {
+    "italian": "scherzare",
+    "english": "to joke",
+    "hebrew": "להתבדח"
+  },
+  {
+    "italian": "litigare",
+    "english": "to argue",
+    "hebrew": "להתווכח"
+  },
+  {
+    "italian": "amare",
+    "english": "to love",
+    "hebrew": "לאהוב"
+  },
+  {
+    "italian": "odiare",
+    "english": "to hate",
+    "hebrew": "לשנוא"
+  },
+  {
+    "italian": "preferire",
+    "english": "to prefer",
+    "hebrew": "להעדיף"
+  },
+  {
+    "italian": "scegliere",
+    "english": "to choose",
+    "hebrew": "לבחור"
+  },
+  {
+    "italian": "conoscere",
+    "english": "to know (a person)",
+    "hebrew": "להכיר"
+  },
+  {
+    "italian": "incontrare",
+    "english": "to meet",
+    "hebrew": "לפגוש"
+  },
+  {
+    "italian": "salutare",
+    "english": "to greet",
+    "hebrew": "לברך"
+  },
+  {
+    "italian": "presentare",
+    "english": "to introduce",
+    "hebrew": "להציג"
+  },
+  {
+    "italian": "invitare",
+    "english": "to invite",
+    "hebrew": "להזמין"
+  },
+  {
+    "italian": "accettare",
+    "english": "to accept",
+    "hebrew": "לקבל"
+  },
+  {
+    "italian": "rifiutare",
+    "english": "to refuse",
+    "hebrew": "לסרב"
+  },
+  {
+    "italian": "ringraziare",
+    "english": "to thank",
+    "hebrew": "להודות"
+  },
+  {
+    "italian": "scusarsi",
+    "english": "to apologize",
+    "hebrew": "להתנצל"
+  },
+  {
+    "italian": "perdonare",
+    "english": "to forgive",
+    "hebrew": "לסלוח"
+  },
+  {
+    "italian": "felice",
+    "english": "happy",
+    "hebrew": "שמח"
+  },
+  {
+    "italian": "arrabbiato",
+    "english": "angry",
+    "hebrew": "כועס"
+  },
+  {
+    "italian": "nervoso",
+    "english": "nervous",
+    "hebrew": "עצבני"
+  },
+  {
+    "italian": "preoccupato",
+    "english": "worried",
+    "hebrew": "מוטרד"
+  },
+  {
+    "italian": "sorpreso",
+    "english": "surprised",
+    "hebrew": "מופתע"
+  },
+  {
+    "italian": "annoiare",
+    "english": "to bore",
+    "hebrew": "לשעמם"
+  },
+  {
+    "italian": "divertirsi",
+    "english": "to have fun",
+    "hebrew": "להנות"
+  },
+  {
+    "italian": "sorridere",
+    "english": "to smile",
+    "hebrew": "לחייך"
+  },
+  {
+    "italian": "abbracciare",
+    "english": "to hug",
+    "hebrew": "לחבק"
+  },
+  {
+    "italian": "baciare",
+    "english": "to kiss",
+    "hebrew": "לנשק"
+  },
+  {
+    "italian": "matrimonio",
+    "english": "marriage",
+    "hebrew": "נישואים"
+  },
+  {
+    "italian": "amore",
+    "english": "love",
+    "hebrew": "אהבה"
+  },
+  {
+    "italian": "separazione",
+    "english": "separation",
+    "hebrew": "פרידה"
+  },
+  {
+    "italian": "divorzio",
+    "english": "divorce",
+    "hebrew": "גירושים"
+  },
+  {
+    "italian": "nascita",
+    "english": "birth",
+    "hebrew": "לידה"
+  },
+  {
+    "italian": "morte",
+    "english": "death",
+    "hebrew": "מוות"
+  },
+  {
+    "italian": "malattia",
+    "english": "illness",
+    "hebrew": "מחלה"
+  },
+  {
+    "italian": "medicina",
+    "english": "medicine",
+    "hebrew": "תרופה"
+  },
+  {
+    "italian": "dottore",
+    "english": "doctor",
+    "hebrew": "רופא"
+  },
+  {
+    "italian": "ospedale",
+    "english": "hospital",
+    "hebrew": "בית חולים"
+  },
+  {
+    "italian": "farmacia",
+    "english": "pharmacy",
+    "hebrew": "בית מרקחת"
+  },
+  {
+    "italian": "dolore",
+    "english": "pain",
+    "hebrew": "כאב"
+  },
+  {
+    "italian": "febbre",
+    "english": "fever",
+    "hebrew": "חום"
+  },
+  {
+    "italian": "tosse",
+    "english": "cough",
+    "hebrew": "שיעול"
+  },
+  {
+    "italian": "sangue",
+    "english": "blood",
+    "hebrew": "דם"
+  },
+  {
+    "italian": "sonno",
+    "english": "sleep",
+    "hebrew": "שינה"
+  },
+  {
+    "italian": "sognare",
+    "english": "to dream",
+    "hebrew": "לחלום"
+  },
+  {
+    "italian": "risveglio",
+    "english": "awakening",
+    "hebrew": "התעוררות"
+  },
+  {
+    "italian": "energia",
+    "english": "energy",
+    "hebrew": "אנרגיה"
+  },
+  {
+    "italian": "riposo",
+    "english": "rest",
+    "hebrew": "מנוחה"
+  },
+  {
+    "italian": "esercizio",
+    "english": "exercise",
+    "hebrew": "תרגיל"
+  },
+  {
+    "italian": "corsa",
+    "english": "race",
+    "hebrew": "מרוץ"
+  },
+  {
+    "italian": "palestra",
+    "english": "gym",
+    "hebrew": "חדר כושר"
+  },
+  {
+    "italian": "salire",
+    "english": "to climb",
+    "hebrew": "לטפס"
+  },
+  {
+    "italian": "nuoto",
+    "english": "swimming",
+    "hebrew": "שחייה"
+  },
+  {
+    "italian": "piscina",
+    "english": "pool",
+    "hebrew": "בריכה"
+  },
+  {
+    "italian": "spiaggia",
+    "english": "beach",
+    "hebrew": "חוף"
+  },
+  {
+    "italian": "vacanza",
+    "english": "vacation",
+    "hebrew": "חופשה"
+  },
+  {
+    "italian": "hotel",
+    "english": "hotel",
+    "hebrew": "מלון"
+  },
+  {
+    "italian": "prenotare",
+    "english": "to book",
+    "hebrew": "להזמין"
+  },
+  {
+    "italian": "biglietto",
+    "english": "ticket",
+    "hebrew": "כרטיס"
+  },
+  {
+    "italian": "passaporto",
+    "english": "passport",
+    "hebrew": "דרכון"
+  },
+  {
+    "italian": "dogana",
+    "english": "customs",
+    "hebrew": "מכס"
+  },
+  {
+    "italian": "turista",
+    "english": "tourist",
+    "hebrew": "תייר"
+  },
+  {
+    "italian": "guida",
+    "english": "guide",
+    "hebrew": "מדריך"
+  },
+  {
+    "italian": "museo",
+    "english": "museum",
+    "hebrew": "מוזיאון"
+  },
+  {
+    "italian": "arte",
+    "english": "art",
+    "hebrew": "אמנות"
+  },
+  {
+    "italian": "pittura",
+    "english": "painting",
+    "hebrew": "ציור"
+  },
+  {
+    "italian": "scultura",
+    "english": "sculpture",
+    "hebrew": "פסל"
+  },
+  {
+    "italian": "architettura",
+    "english": "architecture",
+    "hebrew": "אדריכלות"
+  },
+  {
+    "italian": "edificio",
+    "english": "building",
+    "hebrew": "בניין"
+  },
+  {
+    "italian": "castello",
+    "english": "castle",
+    "hebrew": "טירה"
+  },
+  {
+    "italian": "chiesa",
+    "english": "church",
+    "hebrew": "כנסייה"
+  },
+  {
+    "italian": "piazza",
+    "english": "square",
+    "hebrew": "כיכר"
+  },
+  {
+    "italian": "fontana",
+    "english": "fountain",
+    "hebrew": "מזרקה"
+  },
+  {
+    "italian": "statua",
+    "english": "statue",
+    "hebrew": "פסל"
+  },
+  {
+    "italian": "monumento",
+    "english": "monument",
+    "hebrew": "אנדרטה"
+  },
+  {
+    "italian": "stadio",
+    "english": "stadium",
+    "hebrew": "אצטדיון"
+  },
+  {
+    "italian": "partita",
+    "english": "match",
+    "hebrew": "משחק"
+  },
+  {
+    "italian": "giocatore",
+    "english": "player",
+    "hebrew": "שחקן"
+  },
+  {
+    "italian": "arbitro",
+    "english": "referee",
+    "hebrew": "שופט"
+  },
+  {
+    "italian": "vittoria",
+    "english": "victory",
+    "hebrew": "ניצחון"
+  },
+  {
+    "italian": "sconfitta",
+    "english": "defeat",
+    "hebrew": "הפסד"
+  },
+  {
+    "italian": "premio",
+    "english": "prize",
+    "hebrew": "פרס"
+  },
+  {
+    "italian": "competizione",
+    "english": "competition",
+    "hebrew": "תחרות"
+  },
+  {
+    "italian": "allenamento",
+    "english": "training",
+    "hebrew": "אימון"
+  },
+  {
+    "italian": "squadra",
+    "english": "team",
+    "hebrew": "קבוצה"
+  },
+  {
+    "italian": "regola",
+    "english": "rule",
+    "hebrew": "חוק"
+  },
+  {
+    "italian": "gioco",
+    "english": "game",
+    "hebrew": "משחק"
+  },
+  {
+    "italian": "bambola",
+    "english": "doll",
+    "hebrew": "בובה"
+  },
+  {
+    "italian": "giocattolo",
+    "english": "toy",
+    "hebrew": "צעצוע"
+  },
+  {
+    "italian": "divertimento",
+    "english": "fun",
+    "hebrew": "כיף"
+  },
+  {
+    "italian": "parco giochi",
+    "english": "playground",
+    "hebrew": "גן שעשועים"
+  },
+  {
+    "italian": "scivolo",
+    "english": "slide",
+    "hebrew": "מגלשה"
+  },
+  {
+    "italian": "altalena",
+    "english": "swing",
+    "hebrew": "נדנדה"
+  },
+  {
+    "italian": "circo",
+    "english": "circus",
+    "hebrew": "קרקס"
+  },
+  {
+    "italian": "clown",
+    "english": "clown",
+    "hebrew": "ליצן"
+  },
+  {
+    "italian": "magia",
+    "english": "magic",
+    "hebrew": "קסם"
+  },
+  {
+    "italian": "spettacolo",
+    "english": "show",
+    "hebrew": "מופע"
+  },
+  {
+    "italian": "biglietto",
+    "english": "ticket",
+    "hebrew": "כרטיס"
+  },
+  {
+    "italian": "pubblico",
+    "english": "audience",
+    "hebrew": "קהל"
+  },
+  {
+    "italian": "applauso",
+    "english": "applause",
+    "hebrew": "מחיאות כפיים"
+  },
+  {
+    "italian": "silenzio",
+    "english": "silence",
+    "hebrew": "שקט"
+  },
+  {
+    "italian": "rumore",
+    "english": "noise",
+    "hebrew": "רעש"
+  },
+  {
+    "italian": "festa",
+    "english": "party",
+    "hebrew": "מסיבה"
+  },
+  {
+    "italian": "compleanno",
+    "english": "birthday",
+    "hebrew": "יום הולדת"
+  },
+  {
+    "italian": "regalo",
+    "english": "gift",
+    "hebrew": "מתנה"
+  },
+  {
+    "italian": "torta",
+    "english": "cake",
+    "hebrew": "עוגה"
+  },
+  {
+    "italian": "candeline",
+    "english": "candles",
+    "hebrew": "נרות"
+  },
+  {
+    "italian": "allegria",
+    "english": "cheerfulness",
+    "hebrew": "עליזות"
+  },
+  {
+    "italian": "simpatia",
+    "english": "sympathy",
+    "hebrew": "אמפתיה"
+  },
+  {
+    "italian": "antipatia",
+    "english": "antipathy",
+    "hebrew": "סלידה"
+  },
+  {
+    "italian": "curiosità",
+    "english": "curiosity",
+    "hebrew": "סקרנות"
+  },
+  {
+    "italian": "soddisfazione",
+    "english": "satisfaction",
+    "hebrew": "סיפוק"
+  },
+  {
+    "italian": "delusione",
+    "english": "disappointment",
+    "hebrew": "אכזבה"
+  },
+  {
+    "italian": "imbarazzo",
+    "english": "embarrassment",
+    "hebrew": "מבוכה"
+  },
+  {
+    "italian": "timidezza",
+    "english": "shyness",
+    "hebrew": "ביתנות"
+  },
+  {
+    "italian": "sicuro",
+    "english": "sure",
+    "hebrew": "בטוח"
+  },
+  {
+    "italian": "insicuro",
+    "english": "unsure",
+    "hebrew": "לא בטוח"
+  },
+  {
+    "italian": "mattina",
+    "english": "morning",
+    "hebrew": "בוקר"
+  },
+  {
+    "italian": "tramonto",
+    "english": "sunset",
+    "hebrew": "שקיעה"
+  },
+  {
+    "italian": "alba",
+    "english": "sunrise",
+    "hebrew": "זריחה"
+  },
+  {
+    "italian": "stelle",
+    "english": "stars",
+    "hebrew": "כוכבים"
+  },
+  {
+    "italian": "pianeta",
+    "english": "planet",
+    "hebrew": "כוכב לכת"
+  },
+  {
+    "italian": "universo",
+    "english": "universe",
+    "hebrew": "יקום"
+  },
+  {
+    "italian": "spazio",
+    "english": "space",
+    "hebrew": "חלל"
+  },
+  {
+    "italian": "tempo",
+    "english": "weather",
+    "hebrew": "מזג אוויר"
+  },
+  {
+    "italian": "umidità",
+    "english": "humidity",
+    "hebrew": "לחות"
+  },
+  {
+    "italian": "ombra",
+    "english": "shade",
+    "hebrew": "צל"
+  },
+  {
+    "italian": "polvere",
+    "english": "dust",
+    "hebrew": "אבק"
+  },
+  {
+    "italian": "fumo",
+    "english": "smoke",
+    "hebrew": "עשן"
+  },
+  {
+    "italian": "vapore",
+    "english": "steam",
+    "hebrew": "אדים"
+  },
+  {
+    "italian": "metallo",
+    "english": "metal",
+    "hebrew": "מתכת"
+  },
+  {
+    "italian": "legno",
+    "english": "wood",
+    "hebrew": "עץ"
+  },
+  {
+    "italian": "vetro",
+    "english": "glass",
+    "hebrew": "זכוכית"
+  },
+  {
+    "italian": "plastica",
+    "english": "plastic",
+    "hebrew": "פלסטיק"
+  },
+  {
+    "italian": "carta",
+    "english": "paper",
+    "hebrew": "נייר"
+  },
+  {
+    "italian": "stoffa",
+    "english": "fabric",
+    "hebrew": "בד"
+  },
+  {
+    "italian": "cotone",
+    "english": "cotton",
+    "hebrew": "כותנה"
+  },
+  {
+    "italian": "lana",
+    "english": "wool",
+    "hebrew": "צמר"
+  },
+  {
+    "italian": "seta",
+    "english": "silk",
+    "hebrew": "משי"
+  },
+  {
+    "italian": "corda",
+    "english": "rope",
+    "hebrew": "חבל"
+  },
+  {
+    "italian": "filo",
+    "english": "thread",
+    "hebrew": "חוט"
+  },
+  {
+    "italian": "ago",
+    "english": "needle",
+    "hebrew": "מחט"
+  },
+  {
+    "italian": "forbici",
+    "english": "scissors",
+    "hebrew": "מספריים"
+  },
+  {
+    "italian": "coltello",
+    "english": "knife",
+    "hebrew": "סכין"
+  },
+  {
+    "italian": "cucchiaio",
+    "english": "spoon",
+    "hebrew": "כפית"
+  },
+  {
+    "italian": "forchetta",
+    "english": "fork",
+    "hebrew": "מזלג"
+  },
+  {
+    "italian": "piatto",
+    "english": "plate",
+    "hebrew": "צלחת"
+  },
+  {
+    "italian": "tazza",
+    "english": "cup",
+    "hebrew": "ספל"
+  },
+  {
+    "italian": "bicchiere",
+    "english": "glass",
+    "hebrew": "כוס"
+  },
+  {
+    "italian": "bottiglia",
+    "english": "bottle",
+    "hebrew": "בקבוק"
+  },
+  {
+    "italian": "barattolo",
+    "english": "jar",
+    "hebrew": "צנצנת"
+  },
+  {
+    "italian": "scatola",
+    "english": "box",
+    "hebrew": "קופסה"
+  },
+  {
+    "italian": "sacco",
+    "english": "sack",
+    "hebrew": "שק"
+  },
+  {
+    "italian": "pacchetto",
+    "english": "package",
+    "hebrew": "חבילה"
+  },
+  {
+    "italian": "spedire",
+    "english": "to send",
+    "hebrew": "לשלוח"
+  },
+  {
+    "italian": "consegnare",
+    "english": "to deliver",
+    "hebrew": "למסור"
+  },
+  {
+    "italian": "aspettativa",
+    "english": "expectation",
+    "hebrew": "ציפייה"
+  },
+  {
+    "italian": "pacco",
+    "english": "parcel",
+    "hebrew": "חבילה"
+  },
+  {
+    "italian": "posta",
+    "english": "mail",
+    "hebrew": "דואר"
+  },
+  {
+    "italian": "lettera",
+    "english": "letter",
+    "hebrew": "מכתב"
+  },
+  {
+    "italian": "busta",
+    "english": "envelope",
+    "hebrew": "מעטפה"
+  },
+  {
+    "italian": "francobollo",
+    "english": "stamp",
+    "hebrew": "בול"
+  },
+  {
+    "italian": "scrivania",
+    "english": "desk",
+    "hebrew": "שולחן כתיבה"
+  },
+  {
+    "italian": "scaffale",
+    "english": "shelf",
+    "hebrew": "מדף"
+  },
+  {
+    "italian": "armadio",
+    "english": "wardrobe",
+    "hebrew": "ארון"
+  },
+  {
+    "italian": "cassetto",
+    "english": "drawer",
+    "hebrew": "מגירה"
+  },
+  {
+    "italian": "divano",
+    "english": "sofa",
+    "hebrew": "ספה"
+  },
+  {
+    "italian": "poltrona",
+    "english": "armchair",
+    "hebrew": "כורסה"
+  },
+  {
+    "italian": "cuscino",
+    "english": "pillow",
+    "hebrew": "כרית"
+  },
+  {
+    "italian": "coperta",
+    "english": "blanket",
+    "hebrew": "שמיכה"
+  },
+  {
+    "italian": "lenzuolo",
+    "english": "sheet",
+    "hebrew": "סדין"
+  },
+  {
+    "italian": "asciugamano",
+    "english": "towel",
+    "hebrew": "מגבת"
+  },
+  {
+    "italian": "sapone",
+    "english": "soap",
+    "hebrew": "סבון"
+  },
+  {
+    "italian": "spazzolino",
+    "english": "toothbrush",
+    "hebrew": "מברשת שיניים"
+  },
+  {
+    "italian": "dentifricio",
+    "english": "toothpaste",
+    "hebrew": "משחת שיניים"
+  },
+  {
+    "italian": "shampoo",
+    "english": "shampoo",
+    "hebrew": "שמפו"
+  },
+  {
+    "italian": "doccia",
+    "english": "shower",
+    "hebrew": "מקלחת"
+  },
+  {
+    "italian": "vasca",
+    "english": "bathtub",
+    "hebrew": "אמבטיה"
+  },
+  {
+    "italian": "lavandino",
+    "english": "sink",
+    "hebrew": "כיור"
+  },
+  {
+    "italian": "rubinetto",
+    "english": "tap",
+    "hebrew": "ברז"
+  },
+  {
+    "italian": "specchio",
+    "english": "mirror",
+    "hebrew": "מראה"
+  },
+  {
+    "italian": "pettine",
+    "english": "comb",
+    "hebrew": "מסרק"
+  },
+  {
+    "italian": "spazzola",
+    "english": "brush",
+    "hebrew": "מברשת"
+  },
+  {
+    "italian": "capelli",
+    "english": "hair",
+    "hebrew": "שיער"
+  },
+  {
+    "italian": "barba",
+    "english": "beard",
+    "hebrew": "זקן"
+  },
+  {
+    "italian": "rasoio",
+    "english": "razor",
+    "hebrew": "תער"
+  },
+  {
+    "italian": "trucco",
+    "english": "makeup",
+    "hebrew": "איפור"
+  },
+  {
+    "italian": "profumo",
+    "english": "perfume",
+    "hebrew": "בושם"
+  },
+  {
+    "italian": "crema",
+    "english": "cream",
+    "hebrew": "קרם"
+  },
+  {
+    "italian": "lavare",
+    "english": "to wash",
+    "hebrew": "לשטוף"
+  },
+  {
+    "italian": "asciugare",
+    "english": "to dry",
+    "hebrew": "לייבש"
+  },
+  {
+    "italian": "stirare",
+    "english": "to iron",
+    "hebrew": "לגהץ"
+  },
+  {
+    "italian": "spazzare",
+    "english": "to sweep",
+    "hebrew": "לטאטא"
+  },
+  {
+    "italian": "polvere",
+    "english": "dust",
+    "hebrew": "אבק"
+  },
+  {
+    "italian": "sporcizia",
+    "english": "dirt",
+    "hebrew": "לכלוך"
+  },
+  {
+    "italian": "pulito",
+    "english": "clean",
+    "hebrew": "נקי"
+  },
+  {
+    "italian": "sporco",
+    "english": "dirty",
+    "hebrew": "מלוכלך"
+  },
+  {
+    "italian": "ordine",
+    "english": "order",
+    "hebrew": "סדר"
+  },
+  {
+    "italian": "disordine",
+    "english": "disorder",
+    "hebrew": "בלגן"
+  },
+  {
+    "italian": "cucina",
+    "english": "kitchen",
+    "hebrew": "מטבח"
+  },
+  {
+    "italian": "frigorifero",
+    "english": "refrigerator",
+    "hebrew": "מקרר"
+  },
+  {
+    "italian": "forno",
+    "english": "oven",
+    "hebrew": "תנור"
+  },
+  {
+    "italian": "pentola",
+    "english": "pot",
+    "hebrew": "סיר"
+  },
+  {
+    "italian": "padella",
+    "english": "pan",
+    "hebrew": "מחבת"
+  },
+  {
+    "italian": "bollire",
+    "english": "to boil",
+    "hebrew": "להרתיח"
+  },
+  {
+    "italian": "friggere",
+    "english": "to fry",
+    "hebrew": "לטגן"
+  },
+  {
+    "italian": "arrostire",
+    "english": "to roast",
+    "hebrew": "לצלות"
+  },
+  {
+    "italian": "mescolare",
+    "english": "to mix",
+    "hebrew": "לערבב"
+  },
+  {
+    "italian": "cuocere",
+    "english": "to cook",
+    "hebrew": "לבשל"
+  },
+  {
+    "italian": "assaggiare",
+    "english": "to taste",
+    "hebrew": "לטעום"
+  },
+  {
+    "italian": "condire",
+    "english": "to season",
+    "hebrew": "לתבל"
+  },
+  {
+    "italian": "pepe",
+    "english": "pepper",
+    "hebrew": "פלפל"
+  },
+  {
+    "italian": "spezie",
+    "english": "spices",
+    "hebrew": "תבלינים"
+  },
+  {
+    "italian": "aglio",
+    "english": "garlic",
+    "hebrew": "שום"
+  },
+  {
+    "italian": "cipolla",
+    "english": "onion",
+    "hebrew": "בצל"
+  },
+  {
+    "italian": "pomodoro",
+    "english": "tomato",
+    "hebrew": "עגבנייה"
+  },
+  {
+    "italian": "carota",
+    "english": "carrot",
+    "hebrew": "גזר"
+  },
+  {
+    "italian": "patata",
+    "english": "potato",
+    "hebrew": "תפוח אדמה"
+  },
+  {
+    "italian": "insalata",
+    "english": "salad",
+    "hebrew": "סלט"
+  },
+  {
+    "italian": "mela",
+    "english": "apple",
+    "hebrew": "תפוח"
+  },
+  {
+    "italian": "pera",
+    "english": "pear",
+    "hebrew": "אגס"
+  },
+  {
+    "italian": "banana",
+    "english": "banana",
+    "hebrew": "בננה"
+  },
+  {
+    "italian": "arancia",
+    "english": "orange",
+    "hebrew": "תפוז"
+  },
+  {
+    "italian": "limone",
+    "english": "lemon",
+    "hebrew": "לימון"
+  },
+  {
+    "italian": "uva",
+    "english": "grape",
+    "hebrew": "ענב"
+  },
+  {
+    "italian": "fragola",
+    "english": "strawberry",
+    "hebrew": "תות"
+  },
+  {
+    "italian": "ciliegia",
+    "english": "cherry",
+    "hebrew": "דובדבן"
+  },
+  {
+    "italian": "pesca",
+    "english": "peach",
+    "hebrew": "אפרסק"
+  },
+  {
+    "italian": "albicocca",
+    "english": "apricot",
+    "hebrew": "משמש"
+  },
+  {
+    "italian": "melone",
+    "english": "melon",
+    "hebrew": "מלון"
+  },
+  {
+    "italian": "anguria",
+    "english": "watermelon",
+    "hebrew": "אבטיח"
+  },
+  {
+    "italian": "fruttivendolo",
+    "english": "greengrocer",
+    "hebrew": "ירקן"
+  },
+  {
+    "italian": "macellaio",
+    "english": "butcher",
+    "hebrew": "קצב"
+  },
+  {
+    "italian": "panettiere",
+    "english": "baker",
+    "hebrew": "אופה"
+  },
+  {
+    "italian": "pescatore",
+    "english": "fisherman",
+    "hebrew": "דייג"
+  },
+  {
+    "italian": "cuoco",
+    "english": "chef",
+    "hebrew": "טבח"
+  },
+  {
+    "italian": "cameriere",
+    "english": "waiter",
+    "hebrew": "מלצר"
+  },
+  {
+    "italian": "tovaglia",
+    "english": "tablecloth",
+    "hebrew": "מפה"
+  },
+  {
+    "italian": "tovagliolo",
+    "english": "napkin",
+    "hebrew": "מפית"
+  },
+  {
+    "italian": "menu",
+    "english": "menu",
+    "hebrew": "תפריט"
+  },
+  {
+    "italian": "conto",
+    "english": "bill",
+    "hebrew": "חשבון"
+  },
+  {
+    "italian": "mancia",
+    "english": "tip",
+    "hebrew": "טיפ"
+  },
+  {
+    "italian": "prenotazione",
+    "english": "reservation",
+    "hebrew": "הזמנה"
+  },
+  {
+    "italian": "tavolo",
+    "english": "table",
+    "hebrew": "שולחן"
+  },
+  {
+    "italian": "sala",
+    "english": "room",
+    "hebrew": "חדר"
+  },
+  {
+    "italian": "terrazza",
+    "english": "terrace",
+    "hebrew": "מרפסת"
+  },
+  {
+    "italian": "giardinetto",
+    "english": "small garden",
+    "hebrew": "גינה קטנה"
+  },
+  {
+    "italian": "vicino",
+    "english": "neighbor",
+    "hebrew": "שכן"
+  },
+  {
+    "italian": "quartiere",
+    "english": "neighborhood",
+    "hebrew": "שכונה"
+  },
+  {
+    "italian": "stradina",
+    "english": "lane",
+    "hebrew": "סמטה"
+  },
+  {
+    "italian": "incrocio",
+    "english": "crossroad",
+    "hebrew": "צומת"
+  },
+  {
+    "italian": "semaforo",
+    "english": "traffic light",
+    "hebrew": "רמזור"
+  },
+  {
+    "italian": "parcheggio",
+    "english": "parking",
+    "hebrew": "חניה"
+  },
+  {
+    "italian": "benzina",
+    "english": "gasoline",
+    "hebrew": "דלק"
+  },
+  {
+    "italian": "meccanico",
+    "english": "mechanic",
+    "hebrew": "מכונאי"
+  },
+  {
+    "italian": "ruota",
+    "english": "wheel",
+    "hebrew": "גלגל"
+  },
+  {
+    "italian": "motore",
+    "english": "engine",
+    "hebrew": "מנוע"
+  },
+  {
+    "italian": "volante",
+    "english": "steering wheel",
+    "hebrew": "הגה"
+  },
+  {
+    "italian": "clacson",
+    "english": "horn",
+    "hebrew": "צופר"
+  },
+  {
+    "italian": "finestrino",
+    "english": "window (car)",
+    "hebrew": "חלון (מכונית)"
+  },
+  {
+    "italian": "specchietto",
+    "english": "mirror (car)",
+    "hebrew": "מראה (מכונית)"
+  },
+  {
+    "italian": "guidare",
+    "english": "to drive",
+    "hebrew": "לנהוג"
+  },
+  {
+    "italian": "accelerare",
+    "english": "to accelerate",
+    "hebrew": "להאיץ"
+  },
+  {
+    "italian": "frenare",
+    "english": "to brake",
+    "hebrew": "לבלום"
+  },
+  {
+    "italian": "sorpassare",
+    "english": "to overtake",
+    "hebrew": "לעקוף"
+  },
+  {
+    "italian": "incidente",
+    "english": "accident",
+    "hebrew": "תאונה"
+  },
+  {
+    "italian": "polizia",
+    "english": "police",
+    "hebrew": "משטרה"
+  },
+  {
+    "italian": "ambulanza",
+    "english": "ambulance",
+    "hebrew": "אמבולנס"
+  },
+  {
+    "italian": "pompieri",
+    "english": "firefighters",
+    "hebrew": "כבאים"
+  },
+  {
+    "italian": "emergenza",
+    "english": "emergency",
+    "hebrew": "חירום"
+  },
+  {
+    "italian": "sirena",
+    "english": "siren",
+    "hebrew": "צופר"
+  },
+  {
+    "italian": "legge",
+    "english": "law",
+    "hebrew": "חוק"
+  },
+  {
+    "italian": "avvocato",
+    "english": "lawyer",
+    "hebrew": "עורך דין"
+  },
+  {
+    "italian": "giudice",
+    "english": "judge",
+    "hebrew": "שופט"
+  },
+  {
+    "italian": "tribunale",
+    "english": "court",
+    "hebrew": "בית משפט"
+  },
+  {
+    "italian": "prigione",
+    "english": "prison",
+    "hebrew": "כלא"
+  },
+  {
+    "italian": "crimine",
+    "english": "crime",
+    "hebrew": "פשע"
+  },
+  {
+    "italian": "ladro",
+    "english": "thief",
+    "hebrew": "גנב"
+  },
+  {
+    "italian": "furto",
+    "english": "theft",
+    "hebrew": "גניבה"
+  },
+  {
+    "italian": "sicurezza",
+    "english": "security",
+    "hebrew": "בטחון"
+  },
+  {
+    "italian": "allarme",
+    "english": "alarm",
+    "hebrew": "אזעקה"
+  },
+  {
+    "italian": "telecamera",
+    "english": "camera",
+    "hebrew": "מצלמה"
+  },
+  {
+    "italian": "sorveglianza",
+    "english": "surveillance",
+    "hebrew": "מעקב"
+  },
+  {
+    "italian": "documento",
+    "english": "document",
+    "hebrew": "מסמך"
+  },
+  {
+    "italian": "firma",
+    "english": "signature",
+    "hebrew": "חתימה"
+  },
+  {
+    "italian": "contratto",
+    "english": "contract",
+    "hebrew": "חוזה"
+  },
+  {
+    "italian": "accordo",
+    "english": "agreement",
+    "hebrew": "הסכם"
+  },
+  {
+    "italian": "disaccordo",
+    "english": "disagreement",
+    "hebrew": "חילוקי דעות"
+  },
+  {
+    "italian": "negoziazione",
+    "english": "negotiation",
+    "hebrew": "משא ומתן"
+  },
+  {
+    "italian": "affare",
+    "english": "deal",
+    "hebrew": "עסקה"
+  },
+  {
+    "italian": "azienda",
+    "english": "company",
+    "hebrew": "חברה"
+  },
+  {
+    "italian": "impiegato",
+    "english": "employee",
+    "hebrew": "עובד"
+  },
+  {
+    "italian": "capo",
+    "english": "boss",
+    "hebrew": "בוס"
+  },
+  {
+    "italian": "collega",
+    "english": "colleague",
+    "hebrew": "עמית"
+  },
+  {
+    "italian": "stipendio",
+    "english": "salary",
+    "hebrew": "משכורת"
+  },
+  {
+    "italian": "riunione",
+    "english": "meeting",
+    "hebrew": "פגישה"
+  },
+  {
+    "italian": "progetto",
+    "english": "project",
+    "hebrew": "פרויקט"
+  },
+  {
+    "italian": "scadenza",
+    "english": "deadline",
+    "hebrew": "תאריך יעד"
+  },
+  {
+    "italian": "successo",
+    "english": "success",
+    "hebrew": "הצלחה"
+  },
+  {
+    "italian": "fallimento",
+    "english": "failure",
+    "hebrew": "כישלון"
+  },
+  {
+    "italian": "promozione",
+    "english": "promotion",
+    "hebrew": "קידום"
+  },
+  {
+    "italian": "licenziamento",
+    "english": "dismissal",
+    "hebrew": "פיטורין"
+  },
+  {
+    "italian": "pensione",
+    "english": "retirement",
+    "hebrew": "פרישה"
+  },
+  {
+    "italian": "studente",
+    "english": "student",
+    "hebrew": "תלמיד"
+  },
+  {
+    "italian": "insegnante",
+    "english": "teacher",
+    "hebrew": "מורה"
+  },
+  {
+    "italian": "lezione",
+    "english": "lesson",
+    "hebrew": "שיעור"
+  },
+  {
+    "italian": "esame",
+    "english": "exam",
+    "hebrew": "מבחן"
+  },
+  {
+    "italian": "compito",
+    "english": "homework",
+    "hebrew": "שיעורי בית"
+  },
+  {
+    "italian": "quaderno",
+    "english": "notebook",
+    "hebrew": "מחברת"
+  },
+  {
+    "italian": "matita",
+    "english": "pencil",
+    "hebrew": "עיפרון"
+  },
+  {
+    "italian": "gomma",
+    "english": "eraser",
+    "hebrew": "מחק"
+  },
+  {
+    "italian": "righello",
+    "english": "ruler",
+    "hebrew": "סרגל"
+  },
+  {
+    "italian": "zaino",
+    "english": "backpack",
+    "hebrew": "תרמיל"
+  },
+  {
+    "italian": "lavagna",
+    "english": "blackboard",
+    "hebrew": "לוח"
+  },
+  {
+    "italian": "gesso",
+    "english": "chalk",
+    "hebrew": "גיר"
+  },
+  {
+    "italian": "cattedra",
+    "english": "desk (teacher's)",
+    "hebrew": "שולחן המורה"
+  },
+  {
+    "italian": "classe",
+    "english": "class",
+    "hebrew": "כיתה"
+  },
+  {
+    "italian": "università",
+    "english": "university",
+    "hebrew": "אוניברסיטה"
+  },
+  {
+    "italian": "laurea",
+    "english": "degree",
+    "hebrew": "תואר"
+  },
+  {
+    "italian": "ricerca",
+    "english": "research",
+    "hebrew": "מחקר"
+  },
+  {
+    "italian": "scienza",
+    "english": "science",
+    "hebrew": "מדע"
+  },
+  {
+    "italian": "matematica",
+    "english": "mathematics",
+    "hebrew": "מתמטיקה"
+  },
+  {
+    "italian": "storia",
+    "english": "history",
+    "hebrew": "היסטוריה"
+  },
+  {
+    "italian": "geografia",
+    "english": "geography",
+    "hebrew": "גאוגרפיה"
+  },
+  {
+    "italian": "letteratura",
+    "english": "literature",
+    "hebrew": "ספרות"
+  },
+  {
+    "italian": "poesia",
+    "english": "poetry",
+    "hebrew": "שירה"
+  },
+  {
+    "italian": "romanzo",
+    "english": "novel",
+    "hebrew": "רומן"
+  },
+  {
+    "italian": "autore",
+    "english": "author",
+    "hebrew": "מחבר"
+  },
+  {
+    "italian": "lettore",
+    "english": "reader",
+    "hebrew": "קורא"
+  },
+  {
+    "italian": "biblioteca",
+    "english": "library",
+    "hebrew": "ספרייה"
+  },
+  {
+    "italian": "prestiti",
+    "english": "loans (books)",
+    "hebrew": "השאלות (ספרים)"
+  },
+  {
+    "italian": "silenzio",
+    "english": "quiet",
+    "hebrew": "שקט"
+  },
+  {
+    "italian": "conoscenza",
+    "english": "knowledge",
+    "hebrew": "ידע"
+  },
+  {
+    "italian": "intelligenza",
+    "english": "intelligence",
+    "hebrew": "אינטליגנציה"
+  },
+  {
+    "italian": "memoria",
+    "english": "memory",
+    "hebrew": "זיכרון"
+  },
+  {
+    "italian": "dimenticare",
+    "english": "to forget",
+    "hebrew": "לשכוח"
+  },
+  {
+    "italian": "ripetere",
+    "english": "to repeat",
+    "hebrew": "לחזור"
+  },
+  {
+    "italian": "spiegazione",
+    "english": "explanation",
+    "hebrew": "הסבר"
+  },
+  {
+    "italian": "esempio",
+    "english": "example",
+    "hebrew": "דוגמה"
+  },
+  {
+    "italian": "domandare",
+    "english": "to ask (question)",
+    "hebrew": "לשאול"
+  },
+  {
+    "italian": "risponditore",
+    "english": "responder",
+    "hebrew": "עונה"
+  },
+  {
+    "italian": "corretto",
+    "english": "correct",
+    "hebrew": "נכון"
+  },
+  {
+    "italian": "sbagliato",
+    "english": "wrong",
+    "hebrew": "שגוי"
+  },
+  {
+    "italian": "voto",
+    "english": "grade",
+    "hebrew": "ציון"
+  },
+  {
+    "italian": "promosso",
+    "english": "passed",
+    "hebrew": "עבר"
+  },
+  {
+    "italian": "bocciato",
+    "english": "failed",
+    "hebrew": "נכשל"
+  },
+  {
+    "italian": "diploma",
+    "english": "diploma",
+    "hebrew": "דיפלומה"
+  },
+  {
+    "italian": "certificato",
+    "english": "certificate",
+    "hebrew": "תעודה"
+  },
+  {
+    "italian": "corso",
+    "english": "course",
+    "hebrew": "קורס"
+  },
+  {
+    "italian": "allenatore",
+    "english": "coach",
+    "hebrew": "מאמן"
+  },
+  {
+    "italian": "abilità",
+    "english": "skill",
+    "hebrew": "מיומנות"
+  },
+  {
+    "italian": "talento",
+    "english": "talent",
+    "hebrew": "כישרון"
+  },
+  {
+    "italian": "sforzo",
+    "english": "effort",
+    "hebrew": "מאמץ"
+  },
+  {
+    "italian": "pratica",
+    "english": "practice",
+    "hebrew": "תרגול"
+  },
+  {
+    "italian": "progresso",
+    "english": "progress",
+    "hebrew": "התקדמות"
+  },
+  {
+    "italian": "migliorare",
+    "english": "to improve",
+    "hebrew": "להשתפר"
+  },
+  {
+    "italian": "peggiorare",
+    "english": "to worsen",
+    "hebrew": "להחמיר"
+  },
+  {
+    "italian": "competenza",
+    "english": "competence",
+    "hebrew": "מסוגלות"
+  },
+  {
+    "italian": "esperienza",
+    "english": "experience",
+    "hebrew": "ניסיון"
+  },
+  {
+    "italian": "principiante",
+    "english": "beginner",
+    "hebrew": "מתחיל"
+  },
+  {
+    "italian": "esperto",
+    "english": "expert",
+    "hebrew": "מומחה"
+  },
+  {
+    "italian": "lezione privata",
+    "english": "private lesson",
+    "hebrew": "שיעור פרטי"
+  },
+  {
+    "italian": "gruppo",
+    "english": "group",
+    "hebrew": "קבוצה"
+  },
+  {
+    "italian": "discussione",
+    "english": "discussion",
+    "hebrew": "דיון"
+  },
+  {
+    "italian": "dibattito",
+    "english": "debate",
+    "hebrew": "ויכוח"
+  },
+  {
+    "italian": "opinione",
+    "english": "opinion",
+    "hebrew": "דעה"
+  },
+  {
+    "italian": "accordo",
+    "english": "agreement",
+    "hebrew": "הסכמה"
+  },
+  {
+    "italian": "disputa",
+    "english": "dispute",
+    "hebrew": "סכסוך"
+  },
+  {
+    "italian": "confronto",
+    "english": "comparison",
+    "hebrew": "השוואה"
+  },
+  {
+    "italian": "simile",
+    "english": "similar",
+    "hebrew": "דומה"
+  },
+  {
+    "italian": "diverso",
+    "english": "different",
+    "hebrew": "שונה"
+  },
+  {
+    "italian": "uguale",
+    "english": "equal",
+    "hebrew": "שווה"
+  },
+  {
+    "italian": "unico",
+    "english": "unique",
+    "hebrew": "ייחודי"
+  },
+  {
+    "italian": "originale",
+    "english": "original",
+    "hebrew": "מקורי"
+  },
+  {
+    "italian": "copia",
+    "english": "copy",
+    "hebrew": "עותק"
+  },
+  {
+    "italian": "falso",
+    "english": "fake",
+    "hebrew": "מזויף"
+  },
+  {
+    "italian": "vero",
+    "english": "true",
+    "hebrew": "אמיתי"
+  },
+  {
+    "italian": "reale",
+    "english": "real",
+    "hebrew": "מציאותי"
+  },
+  {
+    "italian": "immaginario",
+    "english": "imaginary",
+    "hebrew": "דמיוני"
+  },
+  {
+    "italian": "fantasia",
+    "english": "fantasy",
+    "hebrew": "פנטזיה"
+  },
+  {
+    "italian": "realtà",
+    "english": "reality",
+    "hebrew": "מציאות"
+  },
+  {
+    "italian": "sogno",
+    "english": "dream",
+    "hebrew": "חלום"
+  },
+  {
+    "italian": "incubo",
+    "english": "nightmare",
+    "hebrew": "סיוט"
+  },
+  {
+    "italian": "pensiero",
+    "english": "thought",
+    "hebrew": "מחשבה"
+  },
+  {
+    "italian": "ragione",
+    "english": "reason",
+    "hebrew": "סיבה"
+  },
+  {
+    "italian": "logica",
+    "english": "logic",
+    "hebrew": "לוגיקה"
+  },
+  {
+    "italian": "confusione",
+    "english": "confusion",
+    "hebrew": "בלבול"
+  },
+  {
+    "italian": "dubbio",
+    "english": "doubt",
+    "hebrew": "ספק"
+  },
+  {
+    "italian": "certezza",
+    "english": "certainty",
+    "hebrew": "וודאות"
+  },
+  {
+    "italian": "ipotesi",
+    "english": "hypothesis",
+    "hebrew": "השערה"
+  },
+  {
+    "italian": "teoria",
+    "english": "theory",
+    "hebrew": "תיאוריה"
+  },
+  {
+    "italian": "prova",
+    "english": "proof",
+    "hebrew": "הוכחה"
+  },
+  {
+    "italian": "esperimento",
+    "english": "experiment",
+    "hebrew": "ניסוי"
+  },
+  {
+    "italian": "risultato",
+    "english": "result",
+    "hebrew": "תוצאה"
+  },
+  {
+    "italian": "analisi",
+    "english": "analysis",
+    "hebrew": "ניתוח"
+  },
+  {
+    "italian": "osservazione",
+    "english": "observation",
+    "hebrew": "תצפית"
+  },
+  {
+    "italian": "scoperta",
+    "english": "discovery",
+    "hebrew": "גילוי"
+  },
+  {
+    "italian": "invenzione",
+    "english": "invention",
+    "hebrew": "המצאה"
+  },
+  {
+    "italian": "creatività",
+    "english": "creativity",
+    "hebrew": "יצירתיות"
+  },
+  {
+    "italian": "ispirazione",
+    "english": "inspiration",
+    "hebrew": "השראה"
+  },
+  {
+    "italian": "motivazione",
+    "english": "motivation",
+    "hebrew": "מוטיבציה"
+  },
+  {
+    "italian": "energia",
+    "english": "energy",
+    "hebrew": "אנרגיה"
+  },
+  {
+    "italian": "movimento",
+    "english": "movement",
+    "hebrew": "תנועה"
+  },
+  {
+    "italian": "velocità",
+    "english": "speed",
+    "hebrew": "מהירות"
+  },
+  {
+    "italian": "distanza",
+    "english": "distance",
+    "hebrew": "מרחק"
+  },
+  {
+    "italian": "direzione",
+    "english": "direction",
+    "hebrew": "כיוון"
+  },
+  {
+    "italian": "nord",
+    "english": "north",
+    "hebrew": "צפון"
+  },
+  {
+    "italian": "sud",
+    "english": "south",
+    "hebrew": "דרום"
+  },
+  {
+    "italian": "est",
+    "english": "east",
+    "hebrew": "מזרח"
+  },
+  {
+    "italian": "ovest",
+    "english": "west",
+    "hebrew": "מערב"
+  },
+  {
+    "italian": "posizione",
+    "english": "position",
+    "hebrew": "מיקום"
+  },
+  {
+    "italian": "altezza",
+    "english": "height",
+    "hebrew": "גובה"
+  },
+  {
+    "italian": "lunghezza",
+    "english": "length",
+    "hebrew": "אורך"
+  },
+  {
+    "italian": "larghezza",
+    "english": "width",
+    "hebrew": "רוחב"
+  },
+  {
+    "italian": "profondità",
+    "english": "depth",
+    "hebrew": "עומק"
+  },
+  {
+    "italian": "superficie",
+    "english": "surface",
+    "hebrew": "משטח"
+  },
+  {
+    "italian": "volume",
+    "english": "volume",
+    "hebrew": "נפח"
+  },
+  {
+    "italian": "peso",
+    "english": "weight",
+    "hebrew": "משקל"
+  },
+  {
+    "italian": "misura",
+    "english": "measure",
+    "hebrew": "מידה"
+  },
+  {
+    "italian": "metro",
+    "english": "meter",
+    "hebrew": "מטר"
+  },
+  {
+    "italian": "centimetro",
+    "english": "centimeter",
+    "hebrew": "סנטימטר"
+  },
+  {
+    "italian": "chilometro",
+    "english": "kilometer",
+    "hebrew": "קילומטר"
+  },
+  {
+    "italian": "litro",
+    "english": "liter",
+    "hebrew": "ליטר"
+  },
+  {
+    "italian": "grammo",
+    "english": "gram",
+    "hebrew": "גרם"
+  },
+  {
+    "italian": "chilogrammo",
+    "english": "kilogram",
+    "hebrew": "קילוגרם"
+  },
+  {
+    "italian": "temperatura",
+    "english": "temperature",
+    "hebrew": "טמפרטורה"
+  },
+  {
+    "italian": "grado",
+    "english": "degree",
+    "hebrew": "מעלה"
+  },
+  {
+    "italian": "calore",
+    "english": "heat",
+    "hebrew": "חום"
+  },
+  {
+    "italian": "freddezza",
+    "english": "coldness",
+    "hebrew": "קור"
+  },
+  {
+    "italian": "ghiaccio",
+    "english": "ice",
+    "hebrew": "קרח"
+  },
+  {
+    "italian": "vapore",
+    "english": "vapor",
+    "hebrew": "אדים"
+  },
+  {
+    "italian": "liquido",
+    "english": "liquid",
+    "hebrew": "נוזל"
+  },
+  {
+    "italian": "solido",
+    "english": "solid",
+    "hebrew": "מוצק"
+  },
+  {
+    "italian": "materia",
+    "english": "matter",
+    "hebrew": "חומר"
+  },
+  {
+    "italian": "atomo",
+    "english": "atom",
+    "hebrew": "אטום"
+  },
+  {
+    "italian": "molecola",
+    "english": "molecule",
+    "hebrew": "מולקולה"
+  },
+  {
+    "italian": "chimica",
+    "english": "chemistry",
+    "hebrew": "כימיה"
+  },
+  {
+    "italian": "fisica",
+    "english": "physics",
+    "hebrew": "פיזיקה"
+  },
+  {
+    "italian": "biologia",
+    "english": "biology",
+    "hebrew": "ביולוגיה"
+  },
+  {
+    "italian": "natura",
+    "english": "nature",
+    "hebrew": "טבע"
+  },
+  {
+    "italian": "ambiente",
+    "english": "environment",
+    "hebrew": "סביבה"
+  },
+  {
+    "italian": "ecologia",
+    "english": "ecology",
+    "hebrew": "אקולוגיה"
+  },
+  {
+    "italian": "inquinamento",
+    "english": "pollution",
+    "hebrew": "זיהום"
+  },
+  {
+    "italian": "riciclaggio",
+    "english": "recycling",
+    "hebrew": "מיחזור"
+  },
+  {
+    "italian": "rifiuti",
+    "english": "waste",
+    "hebrew": "פסולת"
+  },
+  {
+    "italian": "pulizia",
+    "english": "cleaning",
+    "hebrew": "ניקיון"
+  },
+  {
+    "italian": "protezione",
+    "english": "protection",
+    "hebrew": "הגנה"
+  },
+  {
+    "italian": "clima",
+    "english": "climate",
+    "hebrew": "אקלים"
+  },
+  {
+    "italian": "stagione",
+    "english": "season",
+    "hebrew": "עונה"
+  },
+  {
+    "italian": "fenomeno",
+    "english": "phenomenon",
+    "hebrew": "תופעה"
+  },
+  {
+    "italian": "terremoto",
+    "english": "earthquake",
+    "hebrew": "רעידת אדמה"
+  },
+  {
+    "italian": "vulcano",
+    "english": "volcano",
+    "hebrew": "הר געש"
+  },
+  {
+    "italian": "alluvione",
+    "english": "flood",
+    "hebrew": "שיטפון"
+  },
+  {
+    "italian": "tempesta",
+    "english": "storm",
+    "hebrew": "סערה"
+  },
+  {
+    "italian": "uragano",
+    "english": "hurricane",
+    "hebrew": "הוריקן"
+  },
+  {
+    "italian": "tornado",
+    "english": "tornado",
+    "hebrew": "טורנדו"
+  },
+  {
+    "italian": "siccità",
+    "english": "drought",
+    "hebrew": "בצורת"
+  },
+  {
+    "italian": "deserto",
+    "english": "desert",
+    "hebrew": "מדבר"
+  },
+  {
+    "italian": "oasi",
+    "english": "oasis",
+    "hebrew": "נווה מדבר"
+  },
+  {
+    "italian": "prato",
+    "english": "meadow",
+    "hebrew": "מרעה"
+  },
+  {
+    "italian": "collina",
+    "english": "hill",
+    "hebrew": "גבעה"
+  },
+  {
+    "italian": "valle",
+    "english": "valley",
+    "hebrew": "עמק"
+  },
+  {
+    "italian": "pianura",
+    "english": "plain",
+    "hebrew": "מישור"
+  },
+  {
+    "italian": "altopiano",
+    "english": "plateau",
+    "hebrew": "רמה"
+  },
+  {
+    "italian": "ghiacciaio",
+    "english": "glacier",
+    "hebrew": "קרחון"
+  },
+  {
+    "italian": "caverna",
+    "english": "cave",
+    "hebrew": "מערה"
+  },
+  {
+    "italian": "miniera",
+    "english": "mine",
+    "hebrew": "מכרה"
+  },
+  {
+    "italian": "oro",
+    "english": "gold",
+    "hebrew": "זהב"
+  },
+  {
+    "italian": "argento",
+    "english": "silver",
+    "hebrew": "כסף"
+  },
+  {
+    "italian": "rame",
+    "english": "copper",
+    "hebrew": "נחושת"
+  },
+  {
+    "italian": "ferro",
+    "english": "iron",
+    "hebrew": "ברזל"
+  },
+  {
+    "italian": "acciaio",
+    "english": "steel",
+    "hebrew": "פלדה"
+  },
+  {
+    "italian": "carbone",
+    "english": "coal",
+    "hebrew": "פחם"
+  },
+  {
+    "italian": "petrolio",
+    "english": "oil",
+    "hebrew": "נפט"
+  },
+  {
+    "italian": "gas",
+    "english": "gas",
+    "hebrew": "גז"
+  },
+  {
+    "italian": "elettricità",
+    "english": "electricity",
+    "hebrew": "חשמל"
+  },
+  {
+    "italian": "corrente",
+    "english": "current",
+    "hebrew": "זרם"
+  },
+  {
+    "italian": "batteria",
+    "english": "battery",
+    "hebrew": "סוללה"
+  },
+  {
+    "italian": "carica",
+    "english": "charge",
+    "hebrew": "טעינה"
+  },
+  {
+    "italian": "luce",
+    "english": "light",
+    "hebrew": "אור"
+  },
+  {
+    "italian": "ombra",
+    "english": "shadow",
+    "hebrew": "צל"
+  },
+  {
+    "italian": "riflesso",
+    "english": "reflection",
+    "hebrew": "השתקפות"
+  },
+  {
+    "italian": "specchio",
+    "english": "mirror",
+    "hebrew": "מראה"
+  },
+  {
+    "italian": "lente",
+    "english": "lens",
+    "hebrew": "עדשה"
+  },
+  {
+    "italian": "microscopio",
+    "english": "microscope",
+    "hebrew": "מיקרוסקופ"
+  },
+  {
+    "italian": "telescopio",
+    "english": "telescope",
+    "hebrew": "טלסקופ"
+  },
+  {
+    "italian": "macchina",
+    "english": "machine",
+    "hebrew": "מכונה"
+  },
+  {
+    "italian": "tecnologia",
+    "english": "technology",
+    "hebrew": "טכנולוגיה"
+  },
+  {
+    "italian": "robot",
+    "english": "robot",
+    "hebrew": "רובוט"
+  },
+  {
+    "italian": "programma",
+    "english": "program",
+    "hebrew": "תוכנית"
+  },
+  {
+    "italian": "software",
+    "english": "software",
+    "hebrew": "תוכנה"
+  },
+  {
+    "italian": "hardware",
+    "english": "hardware",
+    "hebrew": "חומרה"
+  },
+  {
+    "italian": "schermo",
+    "english": "screen",
+    "hebrew": "מסך"
+  },
+  {
+    "italian": "tastiera",
+    "english": "keyboard",
+    "hebrew": "מקלדת"
+  },
+  {
+    "italian": "mouse",
+    "english": "mouse",
+    "hebrew": "עכבר"
+  },
+  {
+    "italian": "stampante",
+    "english": "printer",
+    "hebrew": "מדפסת"
+  },
+  {
+    "italian": "connessione",
+    "english": "connection",
+    "hebrew": "חיבור"
+  },
+  {
+    "italian": "rete",
+    "english": "network",
+    "hebrew": "רשת"
+  },
+  {
+    "italian": "server",
+    "english": "server",
+    "hebrew": "שרת"
+  },
+  {
+    "italian": "password",
+    "english": "password",
+    "hebrew": "סיסמה"
+  },
+  {
+    "italian": "utente",
+    "english": "user",
+    "hebrew": "משתמש"
+  },
+  {
+    "italian": "account",
+    "english": "account",
+    "hebrew": "חשבון"
+  },
+  {
+    "italian": "accesso",
+    "english": "access",
+    "hebrew": "גישה"
+  },
+  {
+    "italian": "sicurezza",
+    "english": "safety",
+    "hebrew": "בטיחות"
+  },
+  {
+    "italian": "file",
+    "english": "file",
+    "hebrew": "קובץ"
+  },
+  {
+    "italian": "cartella",
+    "english": "folder",
+    "hebrew": "תיקייה"
+  },
+  {
+    "italian": "download",
+    "english": "download",
+    "hebrew": "הורדה"
+  },
+  {
+    "italian": "upload",
+    "english": "upload",
+    "hebrew": "העלאה"
+  },
+  {
+    "italian": "cloud",
+    "english": "cloud",
+    "hebrew": "ענן"
+  },
+  {
+    "italian": "memoria",
+    "english": "storage",
+    "hebrew": "אחסון"
+  },
+  {
+    "italian": "backup",
+    "english": "backup",
+    "hebrew": "גיבוי"
+  },
+  {
+    "italian": "errore",
+    "english": "error",
+    "hebrew": "שגיאה"
+  },
+  {
+    "italian": "virus",
+    "english": "virus",
+    "hebrew": "וירוס"
+  },
+  {
+    "italian": "antivirus",
+    "english": "antivirus",
+    "hebrew": "אנטי וירוס"
+  },
+  {
+    "italian": "aggiornamento",
+    "english": "update",
+    "hebrew": "עדכון"
+  },
+  {
+    "italian": "installare",
+    "english": "to install",
+    "hebrew": "להתקין"
+  },
+  {
+    "italian": "disinstallare",
+    "english": "to uninstall",
+    "hebrew": "להסיר"
+  },
+  {
+    "italian": "riavviare",
+    "english": "to restart",
+    "hebrew": "להפעיל מחדש"
+  },
+  {
+    "italian": "spegnimento",
+    "english": "shutdown",
+    "hebrew": "כיבוי"
+  },
+  {
+    "italian": "sistema",
+    "english": "system",
+    "hebrew": "מערכת"
+  },
+  {
+    "italian": "applicazione",
+    "english": "application",
+    "hebrew": "יישום"
+  },
+  {
+    "italian": "icona",
+    "english": "icon",
+    "hebrew": "סמל"
+  },
+  {
+    "italian": "cliccare",
+    "english": "to click",
+    "hebrew": "ללחוץ"
+  },
+  {
+    "italian": "tasto",
+    "english": "button",
+    "hebrew": "כפתור"
+  },
+  {
+    "italian": "finestra",
+    "english": "window (screen)",
+    "hebrew": "חלון (מסך)"
+  },
+  {
+    "italian": "barra",
+    "english": "bar",
+    "hebrew": "סרגל"
+  },
+  {
+    "italian": "menu",
+    "english": "menu",
+    "hebrew": "תפריט"
+  },
+  {
+    "italian": "opzione",
+    "english": "option",
+    "hebrew": "אפשרות"
+  },
+  {
+    "italian": "impostazioni",
+    "english": "settings",
+    "hebrew": "הגדרות"
+  },
+  {
+    "italian": "salvare",
+    "english": "to save",
+    "hebrew": "לשמור"
+  },
+  {
+    "italian": "cancellare",
+    "english": "to delete",
+    "hebrew": "למחוק"
+  },
+  {
+    "italian": "modificare",
+    "english": "to edit",
+    "hebrew": "לערוך"
+  },
+  {
+    "italian": "testo",
+    "english": "text",
+    "hebrew": "טקסט"
+  },
+  {
+    "italian": "carattere",
+    "english": "font",
+    "hebrew": "גופן"
+  },
+  {
+    "italian": "dimensione",
+    "english": "size",
+    "hebrew": "גודל"
+  },
+  {
+    "italian": "grassetto",
+    "english": "bold",
+    "hebrew": "מודגש"
+  },
+  {
+    "italian": "corsivo",
+    "english": "italic",
+    "hebrew": "נטוי"
+  },
+  {
+    "italian": "sottolineato",
+    "english": "underlined",
+    "hebrew": "עם קו תחתון"
+  },
+  {
+    "italian": "allineamento",
+    "english": "alignment",
+    "hebrew": "יישור"
+  },
+  {
+    "italian": "paragrafo",
+    "english": "paragraph",
+    "hebrew": "פסקה"
+  },
+  {
+    "italian": "pagina",
+    "english": "page",
+    "hebrew": "דף"
+  },
+  {
+    "italian": "stampa",
+    "english": "print",
+    "hebrew": "הדפסה"
+  },
+  {
+    "italian": "copia",
+    "english": "copy",
+    "hebrew": "העתקה"
+  },
+  {
+    "italian": "incolla",
+    "english": "paste",
+    "hebrew": "הדבקה"
+  },
+  {
+    "italian": "taglia",
+    "english": "cut",
+    "hebrew": "גזירה"
+  },
+  {
+    "italian": "annulla",
+    "english": "undo",
+    "hebrew": "ביטול"
+  },
+  {
+    "italian": "ripristina",
+    "english": "redo",
+    "hebrew": "ביצוע מחדש"
+  },
+  {
+    "italian": "zoom",
+    "english": "zoom",
+    "hebrew": "זום"
+  },
+  {
+    "italian": "immagine",
+    "english": "image",
+    "hebrew": "תמונה"
+  },
+  {
+    "italian": "video",
+    "english": "video",
+    "hebrew": "וידאו"
+  },
+  {
+    "italian": "audio",
+    "english": "audio",
+    "hebrew": "שמע"
+  },
+  {
+    "italian": "registrazione",
+    "english": "recording",
+    "hebrew": "הקלטה"
+  },
+  {
+    "italian": "microfono",
+    "english": "microphone",
+    "hebrew": "מיקרופון"
+  },
+  {
+    "italian": "altoparlante",
+    "english": "speaker",
+    "hebrew": "רמקול"
+  },
+  {
+    "italian": "volume",
+    "english": "volume",
+    "hebrew": "עוצמת קול"
+  },
+  {
+    "italian": "muto",
+    "english": "mute",
+    "hebrew": "השתקה"
+  },
+  {
+    "italian": "riproduzione",
+    "english": "playback",
+    "hebrew": "ניגון"
+  },
+  {
+    "italian": "pausa",
+    "english": "pause",
+    "hebrew": "השהיה"
+  },
+  {
+    "italian": "avanti",
+    "english": "forward",
+    "hebrew": "קדימה"
+  },
+  {
+    "italian": "indietro",
+    "english": "backward",
+    "hebrew": "אחורה"
+  },
+  {
+    "italian": "traccia",
+    "english": "track",
+    "hebrew": "רצועה"
+  },
+  {
+    "italian": "playlist",
+    "english": "playlist",
+    "hebrew": "רשימת השמעה"
+  },
+  {
+    "italian": "formato",
+    "english": "format",
+    "hebrew": "פורמט"
+  },
+  {
+    "italian": "qualità",
+    "english": "quality",
+    "hebrew": "איכות"
+  },
+  {
+    "italian": "risoluzione",
+    "english": "resolution",
+    "hebrew": "רזולוציה"
+  },
+  {
+    "italian": "pixel",
+    "english": "pixel",
+    "hebrew": "פיקסל"
+  },
+  {
+    "italian": "schermo intero",
+    "english": "full screen",
+    "hebrew": "מסך מלא"
+  },
+  {
+    "italian": "fotografia",
+    "english": "photography",
+    "hebrew": "צילום"
+  },
+  {
+    "italian": "obiettivo",
+    "english": "lens",
+    "hebrew": "עדשה"
+  },
+  {
+    "italian": "flash",
+    "english": "flash",
+    "hebrew": "פלאש"
+  },
+  {
+    "italian": "scatto",
+    "english": "shot",
+    "hebrew": "צילום"
+  },
+  {
+    "italian": "album",
+    "english": "album",
+    "hebrew": "אלבום"
+  },
+  {
+    "italian": "galleria",
+    "english": "gallery",
+    "hebrew": "גלריה"
+  },
+  {
+    "italian": "modifica",
+    "english": "edit",
+    "hebrew": "עריכה"
+  },
+  {
+    "italian": "filtro",
+    "english": "filter",
+    "hebrew": "פילטר"
+  },
+  {
+    "italian": "luminosità",
+    "english": "brightness",
+    "hebrew": "בהירות"
+  },
+  {
+    "italian": "contrasto",
+    "english": "contrast",
+    "hebrew": "ניגודיות"
+  },
+  {
+    "italian": "saturazione",
+    "english": "saturation",
+    "hebrew": "רוויה"
+  },
+  {
+    "italian": "ritaglio",
+    "english": "crop",
+    "hebrew": "חיתוך"
+  },
+  {
+    "italian": "rotazione",
+    "english": "rotation",
+    "hebrew": "סיבוב"
+  },
+  {
+    "italian": "salvataggio",
+    "english": "saving",
+    "hebrew": "שמירה"
+  },
+  {
+    "italian": "condivisione",
+    "english": "sharing",
+    "hebrew": "שיתוף"
+  },
+  {
+    "italian": "social",
+    "english": "social",
+    "hebrew": "חברתי"
+  },
+  {
+    "italian": "profilo",
+    "english": "profile",
+    "hebrew": "פרופיל"
+  },
+  {
+    "italian": "amico",
+    "english": "friend (online)",
+    "hebrew": "חבר (מקוון)"
+  },
+  {
+    "italian": "seguire",
+    "english": "to follow",
+    "hebrew": "לעקוב"
+  },
+  {
+    "italian": "seguace",
+    "english": "follower",
+    "hebrew": "עוקב"
+  },
+  {
+    "italian": "messaggio",
+    "english": "message",
+    "hebrew": "הודעה"
+  },
+  {
+    "italian": "chat",
+    "english": "chat",
+    "hebrew": "צ'אט"
+  },
+  {
+    "italian": "email",
+    "english": "email",
+    "hebrew": "דוא\"ל"
+  },
+  {
+    "italian": "allegato",
+    "english": "attachment",
+    "hebrew": "קובץ מצורף"
+  },
+  {
+    "italian": "inbox",
+    "english": "inbox",
+    "hebrew": "תיבת דואר נכנס"
+  },
+  {
+    "italian": "spam",
+    "english": "spam",
+    "hebrew": "ספאם"
+  },
+  {
+    "italian": "inviare",
+    "english": "to send",
+    "hebrew": "לשלוח"
+  },
+  {
+    "italian": "ricezione",
+    "english": "reception",
+    "hebrew": "קבלה"
+  },
+  {
+    "italian": "notifica",
+    "english": "notification",
+    "hebrew": "התראה"
+  },
+  {
+    "italian": "commento",
+    "english": "comment",
+    "hebrew": "תגובה"
+  },
+  {
+    "italian": "mi piace",
+    "english": "like",
+    "hebrew": "לייק"
+  },
+  {
+    "italian": "condividere",
+    "english": "to share",
+    "hebrew": "לשתף"
+  },
+  {
+    "italian": "post",
+    "english": "post",
+    "hebrew": "פוסט"
+  },
+  {
+    "italian": "pubblicare",
+    "english": "to publish",
+    "hebrew": "לפרסם"
+  },
+  {
+    "italian": "privato",
+    "english": "private",
+    "hebrew": "פרטי"
+  },
+  {
+    "italian": "pubblico",
+    "english": "public",
+    "hebrew": "ציבורי"
+  },
+  {
+    "italian": "gruppo",
+    "english": "group (online)",
+    "hebrew": "קבוצה (מקוונת)"
+  },
+  {
+    "italian": "evento",
+    "english": "event",
+    "hebrew": "אירוע"
+  },
+  {
+    "italian": "invito",
+    "english": "invitation",
+    "hebrew": "הזמנה"
+  },
+  {
+    "italian": "calendario",
+    "english": "calendar",
+    "hebrew": "לוח שנה"
+  },
+  {
+    "italian": "data",
+    "english": "date",
+    "hebrew": "תאריך"
+  },
+  {
+    "italian": "orario",
+    "english": "time",
+    "hebrew": "שעה"
+  },
+  {
+    "italian": "promemoria",
+    "english": "reminder",
+    "hebrew": "תזכורת"
+  },
+  {
+    "italian": "pianificare",
+    "english": "to plan",
+    "hebrew": "לתכנן"
+  },
+  {
+    "italian": "appuntamento",
+    "english": "appointment",
+    "hebrew": "פגישה"
+  },
+  {
+    "italian": "ritardo",
+    "english": "delay",
+    "hebrew": "עיכוב"
+  },
+  {
+    "italian": "puntuale",
+    "english": "on time",
+    "hebrew": "בזמן"
+  },
+  {
+    "italian": "anniversario",
+    "english": "anniversary",
+    "hebrew": "יום נישואין"
+  },
+  {
+    "italian": "celebrazione",
+    "english": "celebration",
+    "hebrew": "חגיגה"
+  },
+  {
+    "italian": "tradizione",
+    "english": "tradition",
+    "hebrew": "מסורת"
+  },
+  {
+    "italian": "cultura",
+    "english": "culture",
+    "hebrew": "תרבות"
+  },
+  {
+    "italian": "costume",
+    "english": "costume",
+    "hebrew": "תחפושת"
+  },
+  {
+    "italian": "maschera",
+    "english": "mask",
+    "hebrew": "מסכה"
+  },
+  {
+    "italian": "carnevale",
+    "english": "carnival",
+    "hebrew": "קרנבל"
+  },
+  {
+    "italian": "parata",
+    "english": "parade",
+    "hebrew": "תהלוכה"
+  },
+  {
+    "italian": "fuochi",
+    "english": "fireworks",
+    "hebrew": "זיקוקים"
+  },
+  {
+    "italian": "bandiera",
+    "english": "flag",
+    "hebrew": "דגל"
+  },
+  {
+    "italian": "inno",
+    "english": "anthem",
+    "hebrew": "המנון"
+  },
+  {
+    "italian": "patria",
+    "english": "homeland",
+    "hebrew": "מולדת"
+  },
+  {
+    "italian": "nazione",
+    "english": "nation",
+    "hebrew": "אומה"
+  },
+  {
+    "italian": "governo",
+    "english": "government",
+    "hebrew": "ממשלה"
+  },
+  {
+    "italian": "presidente",
+    "english": "president",
+    "hebrew": "נשיא"
+  },
+  {
+    "italian": "parlamento",
+    "english": "parliament",
+    "hebrew": "פרלמנט"
+  },
+  {
+    "italian": "elezione",
+    "english": "election",
+    "hebrew": "בחירות"
+  },
+  {
+    "italian": "voto",
+    "english": "vote",
+    "hebrew": "הצבעה"
+  },
+  {
+    "italian": "candidato",
+    "english": "candidate",
+    "hebrew": "מועמד"
+  },
+  {
+    "italian": "politica",
+    "english": "politics",
+    "hebrew": "פוליטיקה"
+  },
+  {
+    "italian": "partito",
+    "english": "party (political)",
+    "hebrew": "מפלגה"
+  },
+  {
+    "italian": "campagna",
+    "english": "campaign",
+    "hebrew": "מערכת בחירות"
+  },
+  {
+    "italian": "manifesto",
+    "english": "poster",
+    "hebrew": "כרזה"
+  },
+  {
+    "italian": "discorso",
+    "english": "speech",
+    "hebrew": "נאום"
+  },
+  {
+    "italian": "promessa",
+    "english": "promise",
+    "hebrew": "הבטחה"
+  },
+  {
+    "italian": "riforma",
+    "english": "reform",
+    "hebrew": "רפורמה"
+  },
+  {
+    "italian": "legislatura",
+    "english": "legislature",
+    "hebrew": "קדנציה"
+  },
+  {
+    "italian": "decreto",
+    "english": "decree",
+    "hebrew": "צו"
+  },
+  {
+    "italian": "tassa",
+    "english": "tax",
+    "hebrew": "מס"
+  },
+  {
+    "italian": "bilancio",
+    "english": "budget",
+    "hebrew": "תקציב"
+  },
+  {
+    "italian": "economia",
+    "english": "economy",
+    "hebrew": "כלכלה"
+  },
+  {
+    "italian": "finanza",
+    "english": "finance",
+    "hebrew": "פיננסים"
+  },
+  {
+    "italian": "mercato",
+    "english": "market",
+    "hebrew": "שוק"
+  },
+  {
+    "italian": "commercio",
+    "english": "trade",
+    "hebrew": "מסחר"
+  },
+  {
+    "italian": "vendita",
+    "english": "sale",
+    "hebrew": "מכירה"
+  },
+  {
+    "italian": "acquisto",
+    "english": "purchase",
+    "hebrew": "קנייה"
+  },
+  {
+    "italian": "cliente",
+    "english": "customer",
+    "hebrew": "לקוח"
+  },
+  {
+    "italian": "fornitore",
+    "english": "supplier",
+    "hebrew": "ספק"
+  },
+  {
+    "italian": "prodotto",
+    "english": "product",
+    "hebrew": "מוצר"
+  },
+  {
+    "italian": "servizio",
+    "english": "service",
+    "hebrew": "שירות"
+  },
+  {
+    "italian": "qualità",
+    "english": "quality",
+    "hebrew": "איכות"
+  },
+  {
+    "italian": "quantità",
+    "english": "quantity",
+    "hebrew": "כמות"
+  },
+  {
+    "italian": "offerta",
+    "english": "offer",
+    "hebrew": "הצעה"
+  },
+  {
+    "italian": "domanda",
+    "english": "demand",
+    "hebrew": "ביקוש"
+  },
+  {
+    "italian": "prezzo",
+    "english": "price",
+    "hebrew": "מחיר"
+  },
+  {
+    "italian": "sconto",
+    "english": "discount",
+    "hebrew": "הנחה"
+  },
+  {
+    "italian": "fattura",
+    "english": "invoice",
+    "hebrew": "חשבונית"
+  },
+  {
+    "italian": "pagamento",
+    "english": "payment",
+    "hebrew": "תשלום"
+  },
+  {
+    "italian": "contanti",
+    "english": "cash",
+    "hebrew": "מזומן"
+  },
+  {
+    "italian": "carta",
+    "english": "card",
+    "hebrew": "כרטיס"
+  },
+  {
+    "italian": "banca",
+    "english": "bank",
+    "hebrew": "בנק"
+  },
+  {
+    "italian": "conto",
+    "english": "account (bank)",
+    "hebrew": "חשבון (בנק)"
+  },
+  {
+    "italian": "deposito",
+    "english": "deposit",
+    "hebrew": "פיקדון"
+  },
+  {
+    "italian": "prelievo",
+    "english": "withdrawal",
+    "hebrew": "משיכה"
+  },
+  {
+    "italian": "interessi",
+    "english": "interest",
+    "hebrew": "ריבית"
+  },
+  {
+    "italian": "prestito",
+    "english": "loan",
+    "hebrew": "הלוואה"
+  },
+  {
+    "italian": "mutuo",
+    "english": "mortgage",
+    "hebrew": "משכנתא"
+  },
+  {
+    "italian": "investimento",
+    "english": "investment",
+    "hebrew": "השקעה"
+  },
+  {
+    "italian": "profitto",
+    "english": "profit",
+    "hebrew": "רווח"
+  },
+  {
+    "italian": "perdita",
+    "english": "loss",
+    "hebrew": "הפסד"
+  },
+  {
+    "italian": "risparmio",
+    "english": "savings",
+    "hebrew": "חסכונות"
+  },
+  {
+    "italian": "spesa",
+    "english": "expense",
+    "hebrew": "הוצאה"
+  },
+  {
+    "italian": "ricavo",
+    "english": "revenue",
+    "hebrew": "הכנסה"
+  },
+  {
+    "italian": "azienda",
+    "english": "business",
+    "hebrew": "עסק"
+  },
+  {
+    "italian": "fabbrica",
+    "english": "factory",
+    "hebrew": "מפעל"
+  },
+  {
+    "italian": "produzione",
+    "english": "production",
+    "hebrew": "ייצור"
+  },
+  {
+    "italian": "macchinario",
+    "english": "machinery",
+    "hebrew": "מכונות"
+  },
+  {
+    "italian": "materia prima",
+    "english": "raw material",
+    "hebrew": "חומר גלם"
+  },
+  {
+    "italian": "lavoratore",
+    "english": "worker",
+    "hebrew": "פועל"
+  },
+  {
+    "italian": "contratto",
+    "english": "contract",
+    "hebrew": "חוזה"
+  },
+  {
+    "italian": "turno",
+    "english": "shift",
+    "hebrew": "משמרת"
+  },
+  {
+    "italian": "straordinario",
+    "english": "overtime",
+    "hebrew": "שעות נוספות"
+  },
+  {
+    "italian": "ferie",
+    "english": "vacation (work)",
+    "hebrew": "חופשה (עבודה)"
+  },
+  {
+    "italian": "sciopero",
+    "english": "strike",
+    "hebrew": "שביתה"
+  },
+  {
+    "italian": "sindacato",
+    "english": "union",
+    "hebrew": "איגוד"
+  },
+  {
+    "italian": "disoccupazione",
+    "english": "unemployment",
+    "hebrew": "אבטלה"
+  },
+  {
+    "italian": "occupazione",
+    "english": "employment",
+    "hebrew": "תעסוקה"
+  },
+  {
+    "italian": "carriera",
+    "english": "career",
+    "hebrew": "קריירה"
+  },
+  {
+    "italian": "curriculum",
+    "english": "resume",
+    "hebrew": "קורות חיים"
+  },
+  {
+    "italian": "colloquio",
+    "english": "interview",
+    "hebrew": "ראיון"
+  },
+  {
+    "italian": "assunzione",
+    "english": "hiring",
+    "hebrew": "גיוס"
+  },
+  {
+    "italian": "licenziamento",
+    "english": "firing",
+    "hebrew": "פיטורין"
+  },
+  {
+    "italian": "ufficio",
+    "english": "office",
+    "hebrew": "משרד"
+  },
+  {
+    "italian": "scrivania",
+    "english": "desk",
+    "hebrew": "שולחן כתיבה"
+  },
+  {
+    "italian": "computer",
+    "english": "computer",
+    "hebrew": "מחשב"
+  },
+  {
+    "italian": "stampante",
+    "english": "printer",
+    "hebrew": "מדפסת"
+  },
+  {
+    "italian": "fax",
+    "english": "fax",
+    "hebrew": "פקס"
+  },
+  {
+    "italian": "telefono",
+    "english": "telephone",
+    "hebrew": "טלפון"
+  },
+  {
+    "italian": "riunione",
+    "english": "meeting",
+    "hebrew": "פגישה"
+  },
+  {
+    "italian": "agenda",
+    "english": "agenda",
+    "hebrew": "יומן"
+  },
+  {
+    "italian": "presentazione",
+    "english": "presentation",
+    "hebrew": "מצגת"
+  },
+  {
+    "italian": "proiezione",
+    "english": "projection",
+    "hebrew": "הקרנה"
+  },
+  {
+    "italian": "schermo",
+    "english": "screen",
+    "hebrew": "מסך"
+  },
+  {
+    "italian": "grafico",
+    "english": "chart",
+    "hebrew": "תרשים"
+  },
+  {
+    "italian": "dati",
+    "english": "data",
+    "hebrew": "נתונים"
+  },
+  {
+    "italian": "statistica",
+    "english": "statistics",
+    "hebrew": "סטטיסטיקה"
+  },
+  {
+    "italian": "analisi",
+    "english": "analysis",
+    "hebrew": "ניתוח"
+  },
+  {
+    "italian": "rapporto",
+    "english": "report",
+    "hebrew": "דו\"ח"
+  },
+  {
+    "italian": "strategia",
+    "english": "strategy",
+    "hebrew": "אסטרטגיה"
+  },
+  {
+    "italian": "obiettivo",
+    "english": "goal",
+    "hebrew": "מטרה"
+  },
+  {
+    "italian": "piano",
+    "english": "plan",
+    "hebrew": "תוכנית"
+  },
+  {
+    "italian": "scadenza",
+    "english": "deadline",
+    "hebrew": "תאריך יעד"
+  },
+  {
+    "italian": "risultato",
+    "english": "result",
+    "hebrew": "תוצאה"
+  },
+  {
+    "italian": "successo",
+    "english": "success",
+    "hebrew": "הצלחה"
+  },
+  {
+    "italian": "fallimento",
+    "english": "failure",
+    "hebrew": "כישלון"
+  },
+  {
+    "italian": "concorrenza",
+    "english": "competition",
+    "hebrew": "תחרות"
+  },
+  {
+    "italian": "collaborazione",
+    "english": "collaboration",
+    "hebrew": "שיתוף פעולה"
+  },
+  {
+    "italian": "partner",
+    "english": "partner",
+    "hebrew": "שותף"
+  },
+  {
+    "italian": "cliente",
+    "english": "client",
+    "hebrew": "לקוח"
+  },
+  {
+    "italian": "pubblicità",
+    "english": "advertising",
+    "hebrew": "פרסום"
+  },
+  {
+    "italian": "campagna",
+    "english": "campaign",
+    "hebrew": "קמפיין"
+  },
+  {
+    "italian": "marchio",
+    "english": "brand",
+    "hebrew": "מותג"
+  },
+  {
+    "italian": "logo",
+    "english": "logo",
+    "hebrew": "לוגו"
+  },
+  {
+    "italian": "slogan",
+    "english": "slogan",
+    "hebrew": "סלוגן"
+  },
+  {
+    "italian": "media",
+    "english": "media",
+    "hebrew": "תקשורת"
+  },
+  {
+    "italian": "televisione",
+    "english": "television",
+    "hebrew": "טלוויזיה"
+  },
+  {
+    "italian": "radio",
+    "english": "radio",
+    "hebrew": "רדיו"
+  },
+  {
+    "italian": "giornale",
+    "english": "newspaper",
+    "hebrew": "עיתון"
+  },
+  {
+    "italian": "rivista",
+    "english": "magazine",
+    "hebrew": "מגזין"
+  },
+  {
+    "italian": "annuncio",
+    "english": "advertisement",
+    "hebrew": "מודעה"
+  },
+  {
+    "italian": "notizia",
+    "english": "news",
+    "hebrew": "חדשות"
+  },
+  {
+    "italian": "articolo",
+    "english": "article",
+    "hebrew": "מאמר"
+  },
+  {
+    "italian": "titolo",
+    "english": "headline",
+    "hebrew": "כותרת"
+  },
+  {
+    "italian": "redattore",
+    "english": "editor",
+    "hebrew": "עורך"
+  },
+  {
+    "italian": "giornalista",
+    "english": "journalist",
+    "hebrew": "עיתונאי"
+  },
+  {
+    "italian": "intervista",
+    "english": "interview",
+    "hebrew": "ראיון"
+  },
+  {
+    "italian": "fonte",
+    "english": "source",
+    "hebrew": "מקור"
+  },
+  {
+    "italian": "informazione",
+    "english": "information",
+    "hebrew": "מידע"
+  },
+  {
+    "italian": "verità",
+    "english": "truth",
+    "hebrew": "אמת"
+  },
+  {
+    "italian": "rumore",
+    "english": "rumor",
+    "hebrew": "שמועה"
+  },
+  {
+    "italian": "scoop",
+    "english": "scoop",
+    "hebrew": "סקופ"
+  },
+  {
+    "italian": "edizione",
+    "english": "edition",
+    "hebrew": "מהדורה"
+  },
+  {
+    "italian": "pubblicazione",
+    "english": "publication",
+    "hebrew": "פרסום"
+  },
+  {
+    "italian": "lettura",
+    "english": "reading",
+    "hebrew": "קריאה"
+  },
+  {
+    "italian": "abbonamento",
+    "english": "subscription",
+    "hebrew": "מנוי"
+  },
+  {
+    "italian": "distribuzione",
+    "english": "distribution",
+    "hebrew": "הפצה"
+  },
+  {
+    "italian": "tiratura",
+    "english": "circulation",
+    "hebrew": "תפוצה"
+  },
+  {
+    "italian": "stampa",
+    "english": "press",
+    "hebrew": "עיתונות"
+  },
+  {
+    "italian": "fotografia",
+    "english": "photograph",
+    "hebrew": "תצלום"
+  },
+  {
+    "italian": "immagine",
+    "english": "picture",
+    "hebrew": "תמונה"
+  },
+  {
+    "italian": "video",
+    "english": "video",
+    "hebrew": "וידאו"
+  },
+  {
+    "italian": "registrazione",
+    "english": "recording",
+    "hebrew": "הקלטה"
+  },
+  {
+    "italian": "trasmissione",
+    "english": "broadcast",
+    "hebrew": "שידור"
+  },
+  {
+    "italian": "canale",
+    "english": "channel",
+    "hebrew": "ערוץ"
+  },
+  {
+    "italian": "programma",
+    "english": "program",
+    "hebrew": "תוכנית"
+  },
+  {
+    "italian": "serie",
+    "english": "series",
+    "hebrew": "סדרה"
+  },
+  {
+    "italian": "episodio",
+    "english": "episode",
+    "hebrew": "פרק"
+  },
+  {
+    "italian": "film",
+    "english": "film",
+    "hebrew": "סרט"
+  },
+  {
+    "italian": "regista",
+    "english": "director",
+    "hebrew": "במאי"
+  },
+  {
+    "italian": "attore",
+    "english": "actor",
+    "hebrew": "שחקן"
+  },
+  {
+    "italian": "attrice",
+    "english": "actress",
+    "hebrew": "שחקנית"
+  },
+  {
+    "italian": "scena",
+    "english": "scene",
+    "hebrew": "סצנה"
+  },
+  {
+    "italian": "riprese",
+    "english": "filming",
+    "hebrew": "צילומים"
+  },
+  {
+    "italian": "montaggio",
+    "english": "editing",
+    "hebrew": "עריכה"
+  },
+  {
+    "italian": "colonna sonora",
+    "english": "soundtrack",
+    "hebrew": "פסקול"
+  },
+  {
+    "italian": "effetti",
+    "english": "effects",
+    "hebrew": "אפקטים"
+  },
+  {
+    "italian": "premio",
+    "english": "award",
+    "hebrew": "פרס"
+  },
+  {
+    "italian": "festival",
+    "english": "festival",
+    "hebrew": "פסטיבל"
+  },
+  {
+    "italian": "cinema",
+    "english": "cinema",
+    "hebrew": "קולנוע"
+  },
+  {
+    "italian": "biglietteria",
+    "english": "ticket office",
+    "hebrew": "קופה"
+  },
+  {
+    "italian": "posto",
+    "english": "seat",
+    "hebrew": "מושב"
+  },
+  {
+    "italian": "schermo",
+    "english": "screen",
+    "hebrew": "מסך"
+  },
+  {
+    "italian": "proiettore",
+    "english": "projector",
+    "hebrew": "מקרן"
+  },
+  {
+    "italian": "popcorn",
+    "english": "popcorn",
+    "hebrew": "פופקורן"
+  },
+  {
+    "italian": "spettatore",
+    "english": "spectator",
+    "hebrew": "צופה"
+  },
+  {
+    "italian": "applausi",
+    "english": "applause",
+    "hebrew": "מחיאות כפיים"
+  },
+  {
+    "italian": "critica",
+    "english": "criticism",
+    "hebrew": "ביקורת"
+  },
+  {
+    "italian": "recensione",
+    "english": "review",
+    "hebrew": "סקירה"
+  },
+  {
+    "italian": "successo",
+    "english": "hit",
+    "hebrew": "להיט"
+  },
+  {
+    "italian": "flop",
+    "english": "flop",
+    "hebrew": "כישלון"
+  },
+  {
+    "italian": "genere",
+    "english": "genre",
+    "hebrew": "ז'אנר"
+  },
+  {
+    "italian": "commedia",
+    "english": "comedy",
+    "hebrew": "קומדיה"
+  },
+  {
+    "italian": "dramma",
+    "english": "drama",
+    "hebrew": "דרמה"
+  },
+  {
+    "italian": "azione",
+    "english": "action",
+    "hebrew": "אקשן"
+  },
+  {
+    "italian": "avventura",
+    "english": "adventure",
+    "hebrew": "הרפתקה"
+  },
+  {
+    "italian": "fantascienza",
+    "english": "science fiction",
+    "hebrew": "מדע בדיוני"
+  },
+  {
+    "italian": "horror",
+    "english": "horror",
+    "hebrew": "אימה"
+  },
+  {
+    "italian": "romantico",
+    "english": "romantic",
+    "hebrew": "רומנטי"
+  },
+  {
+    "italian": "storico",
+    "english": "historical",
+    "hebrew": "היסטורי"
+  },
+  {
+    "italian": "documentario",
+    "english": "documentary",
+    "hebrew": "תיעודי"
+  },
+  {
+    "italian": "animazione",
+    "english": "animation",
+    "hebrew": "אנימציה"
+  },
+  {
+    "italian": "cartone",
+    "english": "cartoon",
+    "hebrew": "קריקטורה"
+  },
+  {
+    "italian": "personaggio",
+    "english": "character",
+    "hebrew": "דמות"
+  },
+  {
+    "italian": "trama",
+    "english": "plot",
+    "hebrew": "עלילה"
+  },
+  {
+    "italian": "finale",
+    "english": "ending",
+    "hebrew": "סיום"
+  },
+  {
+    "italian": "inizio",
+    "english": "start",
+    "hebrew": "התחלה"
+  },
+  {
+    "italian": "durata",
+    "english": "duration",
+    "hebrew": "משך"
+  },
+  {
+    "italian": "minuto",
+    "english": "minute",
+    "hebrew": "דקה"
+  },
+  {
+    "italian": "ora",
+    "english": "hour",
+    "hebrew": "שעה"
+  },
+  {
+    "italian": "temporada",
+    "english": "season (series)",
+    "hebrew": "עונה (סדרה)"
+  },
+  {
+    "italian": "spettacolo",
+    "english": "show",
+    "hebrew": "מופע"
+  },
+  {
+    "italian": "teatro",
+    "english": "theater",
+    "hebrew": "תיאטרון"
+  },
+  {
+    "italian": "palcoscenico",
+    "english": "stage",
+    "hebrew": "במה"
+  },
+  {
+    "italian": "sipario",
+    "english": "curtain",
+    "hebrew": "וילון"
+  },
+  {
+    "italian": "costume",
+    "english": "costume",
+    "hebrew": "תחפושת"
+  },
+  {
+    "italian": "trucco",
+    "english": "makeup",
+    "hebrew": "איפור"
+  },
+  {
+    "italian": "prove",
+    "english": "rehearsal",
+    "hebrew": "חזרה"
+  },
+  {
+    "italian": "pubblico",
+    "english": "audience",
+    "hebrew": "קהל"
+  },
+  {
+    "italian": "biglietto",
+    "english": "ticket",
+    "hebrew": "כרטיס"
+  },
+  {
+    "italian": "fila",
+    "english": "row",
+    "hebrew": "שורה"
+  },
+  {
+    "italian": "platea",
+    "english": "orchestra (seats)",
+    "hebrew": "אורכסטרה (מושבים)"
+  },
+  {
+    "italian": "balcone",
+    "english": "balcony",
+    "hebrew": "מרפסת (בקהל)"
+  },
+  {
+    "italian": "galleria",
+    "english": "gallery (seats)",
+    "hebrew": "גלריה (מושבים)"
+  },
+  {
+    "italian": "applauso",
+    "english": "applause",
+    "hebrew": "מחיאות כפיים"
+  },
+  {
+    "italian": "bis",
+    "english": "encore",
+    "hebrew": "הדרן"
+  },
+  {
+    "italian": "esibizione",
+    "english": "performance",
+    "hebrew": "ביצוע"
+  },
+  {
+    "italian": "artista",
+    "english": "artist",
+    "hebrew": "אמן"
+  },
+  {
+    "italian": "cantante",
+    "english": "singer",
+    "hebrew": "זמר"
+  },
+  {
+    "italian": "musicista",
+    "english": "musician",
+    "hebrew": "מוזיקאי"
+  },
+  {
+    "italian": "chitarrista",
+    "english": "guitarist",
+    "hebrew": "גיטריסט"
+  },
+  {
+    "italian": "batterista",
+    "english": "drummer",
+    "hebrew": "מתופף"
+  },
+  {
+    "italian": "pianista",
+    "english": "pianist",
+    "hebrew": "פסנתרן"
+  },
+  {
+    "italian": "orchestra",
+    "english": "orchestra",
+    "hebrew": "תזמורת"
+  },
+  {
+    "italian": "direttore",
+    "english": "conductor",
+    "hebrew": "מנצח"
+  },
+  {
+    "italian": "concerto",
+    "english": "concert",
+    "hebrew": "קונצרט"
+  },
+  {
+    "italian": "melodia",
+    "english": "melody",
+    "hebrew": "מנגינה"
+  },
+  {
+    "italian": "ritmo",
+    "english": "rhythm",
+    "hebrew": "קצב"
+  },
+  {
+    "italian": "strumento",
+    "english": "instrument",
+    "hebrew": "כלי נגינה"
+  },
+  {
+    "italian": "chitarra",
+    "english": "guitar",
+    "hebrew": "גיטרה"
+  },
+  {
+    "italian": "pianoforte",
+    "english": "piano",
+    "hebrew": "פסנתר"
+  },
+  {
+    "italian": "batteria",
+    "english": "drums",
+    "hebrew": "תופים"
+  },
+  {
+    "italian": "violino",
+    "english": "violin",
+    "hebrew": "כינור"
+  },
+  {
+    "italian": "flauto",
+    "english": "flute",
+    "hebrew": "חליל"
+  },
+  {
+    "italian": "sassofono",
+    "english": "saxophone",
+    "hebrew": "סקסופון"
+  },
+  {
+    "italian": "tromba",
+    "english": "trumpet",
+    "hebrew": "חצוצרה"
+  },
+  {
+    "italian": "arpa",
+    "english": "harp",
+    "hebrew": "נבל"
+  },
+  {
+    "italian": "tamburo",
+    "english": "drum",
+    "hebrew": "תוף"
+  },
+  {
+    "italian": "armonica",
+    "english": "harmonica",
+    "hebrew": "מפוחית"
+  },
+  {
+    "italian": "composizione",
+    "english": "composition",
+    "hebrew": "לחן"
+  },
+  {
+    "italian": "spartito",
+    "english": "sheet music",
+    "hebrew": "תווים"
+  },
+  {
+    "italian": "nota",
+    "english": "note",
+    "hebrew": "תו"
+  },
+  {
+    "italian": "accordo",
+    "english": "chord",
+    "hebrew": "אקורד"
+  },
+  {
+    "italian": "tonalità",
+    "english": "key",
+    "hebrew": "סולם"
+  },
+  {
+    "italian": "volume",
+    "english": "volume (sound)",
+    "hebrew": "עוצמת קול"
+  },
+  {
+    "italian": "silenzio",
+    "english": "silence",
+    "hebrew": "שקט"
+  },
+  {
+    "italian": "registrazione",
+    "english": "recording",
+    "hebrew": "הקלטה"
+  },
+  {
+    "italian": "studio",
+    "english": "studio",
+    "hebrew": "אולפן"
+  },
+  {
+    "italian": "produttore",
+    "english": "producer",
+    "hebrew": "מפיק"
+  },
+  {
+    "italian": "album",
+    "english": "album",
+    "hebrew": "אלבום"
+  },
+  {
+    "italian": "singolo",
+    "english": "single",
+    "hebrew": "סינגל"
+  },
+  {
+    "italian": "etichetta",
+    "english": "label",
+    "hebrew": "תווית"
+  },
+  {
+    "italian": "tour",
+    "english": "tour",
+    "hebrew": "סיבוב הופעות"
+  },
+  {
+    "italian": "fan",
+    "english": "fan",
+    "hebrew": "מעריץ"
+  },
+  {
+    "italian": "autografo",
+    "english": "autograph",
+    "hebrew": "חתימה"
+  },
+  {
+    "italian": "fama",
+    "english": "fame",
+    "hebrew": "תהילה"
+  },
+  {
+    "italian": "celebrità",
+    "english": "celebrity",
+    "hebrew": "סלבריטי"
+  },
+  {
+    "italian": "talento",
+    "english": "talent",
+    "hebrew": "כישרון"
+  },
+  {
+    "italian": "audizione",
+    "english": "audition",
+    "hebrew": "אודישן"
+  },
+  {
+    "italian": "casting",
+    "english": "casting",
+    "hebrew": "ליהוק"
+  },
+  {
+    "italian": "contratto",
+    "english": "contract",
+    "hebrew": "חוזה"
+  },
+  {
+    "italian": "manager",
+    "english": "manager",
+    "hebrew": "מנהל"
+  },
+  {
+    "italian": "agente",
+    "english": "agent",
+    "hebrew": "סוכן"
+  },
+  {
+    "italian": "carriera",
+    "english": "career",
+    "hebrew": "קריירה"
+  },
+  {
+    "italian": "successo",
+    "english": "success",
+    "hebrew": "הצלחה"
+  },
+  {
+    "italian": "declino",
+    "english": "decline",
+    "hebrew": "ירידה"
+  },
+  {
+    "italian": "ritiro",
+    "english": "retirement",
+    "hebrew": "פרישה"
+  },
+  {
+    "italian": "passione",
+    "english": "passion",
+    "hebrew": "תשוקה"
+  },
+  {
+    "italian": "hobby",
+    "english": "hobby",
+    "hebrew": "תחביב"
+  },
+  {
+    "italian": "collezione",
+    "english": "collection",
+    "hebrew": "אוסף"
+  },
+  {
+    "italian": "francobollo",
+    "english": "stamp",
+    "hebrew": "בול"
+  },
+  {
+    "italian": "moneta",
+    "english": "coin",
+    "hebrew": "מטבע"
+  },
+  {
+    "italian": "antichità",
+    "english": "antique",
+    "hebrew": "עתיק"
+  },
+  {
+    "italian": "modello",
+    "english": "model",
+    "hebrew": "דגם"
+  },
+  {
+    "italian": "giardinaggio",
+    "english": "gardening",
+    "hebrew": "גינון"
+  },
+  {
+    "italian": "pianta",
+    "english": "plant",
+    "hebrew": "צמח"
+  },
+  {
+    "italian": "seme",
+    "english": "seed",
+    "hebrew": "זרע"
+  },
+  {
+    "italian": "terreno",
+    "english": "soil",
+    "hebrew": "אדמה"
+  },
+  {
+    "italian": "irrigazione",
+    "english": "irrigation",
+    "hebrew": "השקיה"
+  },
+  {
+    "italian": "rastrello",
+    "english": "rake",
+    "hebrew": "מגרפה"
+  },
+  {
+    "italian": "pala",
+    "english": "shovel",
+    "hebrew": "את חפירה"
+  },
+  {
+    "italian": "vaso",
+    "english": "pot",
+    "hebrew": "עציץ"
+  },
+  {
+    "italian": "fiore",
+    "english": "flower",
+    "hebrew": "פרח"
+  },
+  {
+    "italian": "rosa",
+    "english": "rose",
+    "hebrew": "ורד"
+  },
+  {
+    "italian": "tulipano",
+    "english": "tulip",
+    "hebrew": "צבעוני"
+  },
+  {
+    "italian": "margherita",
+    "english": "daisy",
+    "hebrew": "חרצית"
+  },
+  {
+    "italian": "orchidea",
+    "english": "orchid",
+    "hebrew": "סחלב"
+  },
+  {
+    "italian": "prato",
+    "english": "lawn",
+    "hebrew": "מדשאה"
+  },
+  {
+    "italian": "erba",
+    "english": "grass",
+    "hebrew": "דשא"
+  },
+  {
+    "italian": "tagliaerba",
+    "english": "lawnmower",
+    "hebrew": "מכסחת דשא"
+  },
+  {
+    "italian": "cespuglio",
+    "english": "bush",
+    "hebrew": "שיח"
+  },
+  {
+    "italian": "siepe",
+    "english": "hedge",
+    "hebrew": "גדר חיה"
+  },
+  {
+    "italian": "potatura",
+    "english": "pruning",
+    "hebrew": "גיזום"
+  },
+  {
+    "italian": "innaffiare",
+    "english": "to water",
+    "hebrew": "להשקות"
+  },
+  {
+    "italian": "concime",
+    "english": "fertilizer",
+    "hebrew": "דשן"
+  },
+  {
+    "italian": "raccolto",
+    "english": "harvest",
+    "hebrew": "קציר"
+  },
+  {
+    "italian": "agricoltura",
+    "english": "agriculture",
+    "hebrew": "חקלאות"
+  },
+  {
+    "italian": "contadino",
+    "english": "farmer",
+    "hebrew": "חוואי"
+  },
+  {
+    "italian": "campo",
+    "english": "field",
+    "hebrew": "שדה"
+  },
+  {
+    "italian": "grano",
+    "english": "wheat",
+    "hebrew": "חיטה"
+  },
+  {
+    "italian": "mais",
+    "english": "corn",
+    "hebrew": "תירס"
+  },
+  {
+    "italian": "riso",
+    "english": "rice",
+    "hebrew": "אורז"
+  },
+  {
+    "italian": "vite",
+    "english": "vine",
+    "hebrew": "גפן"
+  },
+  {
+    "italian": "uva",
+    "english": "grapes",
+    "hebrew": "ענבים"
+  },
+  {
+    "italian": "vino",
+    "english": "wine",
+    "hebrew": "יין"
+  },
+  {
+    "italian": "cantina",
+    "english": "winery",
+    "hebrew": "יקב"
+  },
+  {
+    "italian": "barile",
+    "english": "barrel",
+    "hebrew": "חבית"
+  },
+  {
+    "italian": "bottiglia",
+    "english": "bottle",
+    "hebrew": "בקבוק"
+  },
+  {
+    "italian": "etichetta",
+    "english": "label",
+    "hebrew": "תווית"
+  },
+  {
+    "italian": "degustazione",
+    "english": "tasting",
+    "hebrew": "טעימה"
+  },
+  {
+    "italian": "birra",
+    "english": "beer",
+    "hebrew": "בירה"
+  },
+  {
+    "italian": "birreria",
+    "english": "brewery",
+    "hebrew": "מבשלת בירה"
+  },
+  {
+    "italian": "lievito",
+    "english": "yeast",
+    "hebrew": "שמרים"
+  },
+  {
+    "italian": "fermentazione",
+    "english": "fermentation",
+    "hebrew": "תסיסה"
+  },
+  {
+    "italian": "alcool",
+    "english": "alcohol",
+    "hebrew": "אלכוהול"
+  },
+  {
+    "italian": "cocktail",
+    "english": "cocktail",
+    "hebrew": "קוקטייל"
+  },
+  {
+    "italian": "bar",
+    "english": "bar",
+    "hebrew": "בר"
+  },
+  {
+    "italian": "barista",
+    "english": "bartender",
+    "hebrew": "ברמן"
+  },
+  {
+    "italian": "bicchiere",
+    "english": "glass",
+    "hebrew": "כוס"
+  },
+  {
+    "italian": "ghiaccio",
+    "english": "ice",
+    "hebrew": "קרח"
+  },
+  {
+    "italian": "shaker",
+    "english": "shaker",
+    "hebrew": "שייקר"
+  },
+  {
+    "italian": "bevanda",
+    "english": "drink",
+    "hebrew": "משקה"
+  },
+  {
+    "italian": "succo",
+    "english": "juice",
+    "hebrew": "מיץ"
+  },
+  {
+    "italian": "acqua",
+    "english": "water",
+    "hebrew": "מים"
+  },
+  {
+    "italian": "gassata",
+    "english": "sparkling",
+    "hebrew": "מוגז"
+  },
+  {
+    "italian": "naturale",
+    "english": "still",
+    "hebrew": "טבעי"
+  },
+  {
+    "italian": "tazza",
+    "english": "mug",
+    "hebrew": "ספל"
+  },
+  {
+    "italian": "piattino",
+    "english": "saucer",
+    "hebrew": "צלוחית"
+  },
+  {
+    "italian": "zucchero",
+    "english": "sugar",
+    "hebrew": "סוכר"
+  },
+  {
+    "italian": "miele",
+    "english": "honey",
+    "hebrew": "דבש"
+  },
+  {
+    "italian": "marmellata",
+    "english": "jam",
+    "hebrew": "ריבה"
+  },
+  {
+    "italian": "burro",
+    "english": "butter",
+    "hebrew": "חמאה"
+  },
+  {
+    "italian": "pane",
+    "english": "bread",
+    "hebrew": "לחם"
+  },
+  {
+    "italian": "croissant",
+    "english": "croissant",
+    "hebrew": "קרואסון"
+  },
+  {
+    "italian": "biscotto",
+    "english": "cookie",
+    "hebrew": "עוגייה"
+  },
+  {
+    "italian": "torta",
+    "english": "cake",
+    "hebrew": "עוגה"
+  },
+  {
+    "italian": "dolce",
+    "english": "dessert",
+    "hebrew": "קינוח"
+  },
+  {
+    "italian": "gelato",
+    "english": "ice cream",
+    "hebrew": "גלידה"
+  },
+  {
+    "italian": "cioccolato",
+    "english": "chocolate",
+    "hebrew": "שוקולד"
+  },
+  {
+    "italian": "caramella",
+    "english": "candy",
+    "hebrew": "סוכרייה"
+  },
+  {
+    "italian": "pasticceria",
+    "english": "pastry shop",
+    "hebrew": "קונדיטוריה"
+  },
+  {
+    "italian": "forno",
+    "english": "oven",
+    "hebrew": "תנור"
+  },
+  {
+    "italian": "ricetta",
+    "english": "recipe",
+    "hebrew": "מתכון"
+  },
+  {
+    "italian": "ingrediente",
+    "english": "ingredient",
+    "hebrew": "מרכיב"
+  },
+  {
+    "italian": "dose",
+    "english": "dose",
+    "hebrew": "מנה"
+  },
+  {
+    "italian": "mescolare",
+    "english": "to stir",
+    "hebrew": "לערבב"
+  },
+  {
+    "italian": "impasto",
+    "english": "dough",
+    "hebrew": "בצק"
+  },
+  {
+    "italian": "farina",
+    "english": "flour",
+    "hebrew": "קמח"
+  },
+  {
+    "italian": "lievito",
+    "english": "baking powder",
+    "hebrew": "אבקת אפייה"
+  },
+  {
+    "italian": "cuocere",
+    "english": "to bake",
+    "hebrew": "לאפות"
+  },
+  {
+    "italian": "sapore",
+    "english": "flavor",
+    "hebrew": "טעם"
+  },
+  {
+    "italian": "salato",
+    "english": "salty",
+    "hebrew": "מלוח"
+  },
+  {
+    "italian": "dolce",
+    "english": "sweet",
+    "hebrew": "מתוק"
+  },
+  {
+    "italian": "amaro",
+    "english": "bitter",
+    "hebrew": "מר"
+  },
+  {
+    "italian": "acido",
+    "english": "sour",
+    "hebrew": "חמוץ"
+  },
+  {
+    "italian": "speziato",
+    "english": "spicy",
+    "hebrew": "חריף"
+  },
+  {
+    "italian": "fresco",
+    "english": "fresh",
+    "hebrew": "טרי"
+  },
+  {
+    "italian": "congelato",
+    "english": "frozen",
+    "hebrew": "קפוא"
+  },
+  {
+    "italian": "scaduto",
+    "english": "expired",
+    "hebrew": "פג תוקף"
+  },
+  {
+    "italian": "conserva",
+    "english": "preserve",
+    "hebrew": "שימור"
+  },
+  {
+    "italian": "lattina",
+    "english": "can",
+    "hebrew": "פחית"
+  },
+  {
+    "italian": "pacchetto",
+    "english": "package",
+    "hebrew": "חבילה"
+  },
+  {
+    "italian": "supermercato",
+    "english": "supermarket",
+    "hebrew": "סופרמרקט"
+  },
+  {
+    "italian": "carrello",
+    "english": "cart",
+    "hebrew": "עגלת קניות"
+  },
+  {
+    "italian": "cassa",
+    "english": "checkout",
+    "hebrew": "קופה"
+  },
+  {
+    "italian": "cassiere",
+    "english": "cashier",
+    "hebrew": "קופאי"
+  },
+  {
+    "italian": "scontrino",
+    "english": "receipt",
+    "hebrew": "קבלה"
+  },
+  {
+    "italian": "borsa",
+    "english": "bag",
+    "hebrew": "שקית"
+  },
+  {
+    "italian": "lista",
+    "english": "list",
+    "hebrew": "רשימה"
+  },
+  {
+    "italian": "spesa",
+    "english": "shopping",
+    "hebrew": "קניות"
+  },
+  {
+    "italian": "negozio",
+    "english": "store",
+    "hebrew": "חנות"
+  },
+  {
+    "italian": "vetrina",
+    "english": "shop window",
+    "hebrew": "חלון ראווה"
+  },
+  {
+    "italian": "commesso",
+    "english": "clerk",
+    "hebrew": "מוכר"
+  },
+  {
+    "italian": "prova",
+    "english": "try (e.g., clothes)",
+    "hebrew": "מדידה (למשל, בגדים)"
+  },
+  {
+    "italian": "camerino",
+    "english": "fitting room",
+    "hebrew": "חדר מדידה"
+  },
+  {
+    "italian": "taglia",
+    "english": "size",
+    "hebrew": "מידה"
+  },
+  {
+    "italian": "piccolo",
+    "english": "small (size)",
+    "hebrew": "קטן (מידה)"
+  },
+  {
+    "italian": "medio",
+    "english": "medium",
+    "hebrew": "בינוני"
+  },
+  {
+    "italian": "grande",
+    "english": "large",
+    "hebrew": "גדול"
+  },
+  {
+    "italian": "colore",
+    "english": "color",
+    "hebrew": "צבע"
+  },
+  {
+    "italian": "modello",
+    "english": "style",
+    "hebrew": "סגנון"
+  },
+  {
+    "italian": "moda",
+    "english": "fashion",
+    "hebrew": "אופנה"
+  },
+  {
+    "italian": "stilista",
+    "english": "designer",
+    "hebrew": "מעצב"
+  },
+  {
+    "italian": "sfilata",
+    "english": "fashion show",
+    "hebrew": "תצוגת אופנה"
+  },
+  {
+    "italian": "passerella",
+    "english": "runway",
+    "hebrew": "מסלול"
+  },
+  {
+    "italian": "manichino",
+    "english": "mannequin",
+    "hebrew": "בובת תצוגה"
+  },
+  {
+    "italian": "stoffa",
+    "english": "cloth",
+    "hebrew": "בד"
+  },
+  {
+    "italian": "cotone",
+    "english": "cotton",
+    "hebrew": "כותנה"
+  },
+  {
+    "italian": "lana",
+    "english": "wool",
+    "hebrew": "צמר"
+  },
+  {
+    "italian": "seta",
+    "english": "silk",
+    "hebrew": "משי"
+  },
+  {
+    "italian": "pelle",
+    "english": "leather",
+    "hebrew": "עור"
+  },
+  {
+    "italian": "cintura",
+    "english": "belt",
+    "hebrew": "חגורה"
+  },
+  {
+    "italian": "cravatta",
+    "english": "tie",
+    "hebrew": "עניבה"
+  },
+  {
+    "italian": "sciarpa",
+    "english": "scarf",
+    "hebrew": "צעיף"
+  },
+  {
+    "italian": "guanti",
+    "english": "gloves",
+    "hebrew": "כפפות"
+  },
+  {
+    "italian": "borsetta",
+    "english": "purse",
+    "hebrew": "ארנק"
+  },
+  {
+    "italian": "zaino",
+    "english": "backpack",
+    "hebrew": "תרמיל"
+  },
+  {
+    "italian": "valigia",
+    "english": "suitcase",
+    "hebrew": "מזוודה"
+  },
+  {
+    "italian": "accessorio",
+    "english": "accessory",
+    "hebrew": "אביזר"
+  },
+  {
+    "italian": "gioiello",
+    "english": "jewel",
+    "hebrew": "תכשיט"
+  },
+  {
+    "italian": "anello",
+    "english": "ring",
+    "hebrew": "טבעת"
+  },
+  {
+    "italian": "braccialetto",
+    "english": "bracelet",
+    "hebrew": "צמיד"
+  },
+  {
+    "italian": "collana",
+    "english": "necklace",
+    "hebrew": "שרשרת"
+  },
+  {
+    "italian": "orecchino",
+    "english": "earring",
+    "hebrew": "עגיל"
+  },
+  {
+    "italian": "orologio",
+    "english": "watch",
+    "hebrew": "שעון"
+  },
+  {
+    "italian": "occhiali",
+    "english": "glasses",
+    "hebrew": "משקפיים"
+  },
+  {
+    "italian": "lenti",
+    "english": "lenses",
+    "hebrew": "עדשות"
+  },
+  {
+    "italian": "sole",
+    "english": "sun (glasses)",
+    "hebrew": "שמש (משקפיים)"
+  },
+  {
+    "italian": "montatura",
+    "english": "frame",
+    "hebrew": "מסגרת"
+  },
+  {
+    "italian": "ottico",
+    "english": "optician",
+    "hebrew": "אופטיקאי"
+  },
+  {
+    "italian": "vista",
+    "english": "vision",
+    "hebrew": "ראייה"
+  },
+  {
+    "italian": "cecità",
+    "english": "blindness",
+    "hebrew": "עיוורון"
+  },
+  {
+    "italian": "udito",
+    "english": "hearing",
+    "hebrew": "שמיעה"
+  },
+  {
+    "italian": "sordità",
+    "english": "deafness",
+    "hebrew": "חירשות"
+  },
+  {
+    "italian": "apparecchio",
+    "english": "hearing aid",
+    "hebrew": "מכשיר שמיעה"
+  },
+  {
+    "italian": "dentista",
+    "english": "dentist",
+    "hebrew": "רופא שיניים"
+  },
+  {
+    "italian": "dente",
+    "english": "tooth",
+    "hebrew": "שן"
+  },
+  {
+    "italian": "carie",
+    "english": "cavity",
+    "hebrew": "עששת"
+  },
+  {
+    "italian": "otturazione",
+    "english": "filling",
+    "hebrew": "סתימה"
+  },
+  {
+    "italian": "apparecchio",
+    "english": "braces",
+    "hebrew": "גשר (שיניים)"
+  },
+  {
+    "italian": "gengiva",
+    "english": "gum",
+    "hebrew": "חניכיים"
+  },
+  {
+    "italian": "spazzolino",
+    "english": "toothbrush",
+    "hebrew": "מברשת שיניים"
+  },
+  {
+    "italian": "filo",
+    "english": "floss",
+    "hebrew": "חוט דנטלי"
+  },
+  {
+    "italian": "igiene",
+    "english": "hygiene",
+    "hebrew": "היגיינה"
+  },
+  {
+    "italian": "salute",
+    "english": "health",
+    "hebrew": "בריאות"
+  },
+  {
+    "italian": "medico",
+    "english": "doctor",
+    "hebrew": "רופא"
+  },
+  {
+    "italian": "visita",
+    "english": "visit",
+    "hebrew": "ביקור"
+  },
+  {
+    "italian": "diagnosi",
+    "english": "diagnosis",
+    "hebrew": "אבחון"
+  },
+  {
+    "italian": "terapia",
+    "english": "therapy",
+    "hebrew": "טיפול"
+  },
+  {
+    "italian": "farmaco",
+    "english": "drug",
+    "hebrew": "תרופה"
+  },
+  {
+    "italian": "ricetta",
+    "english": "prescription",
+    "hebrew": "מרשם"
+  },
+  {
+    "italian": "pillola",
+    "english": "pill",
+    "hebrew": "כדור"
+  },
+  {
+    "italian": "sciroppo",
+    "english": "syrup",
+    "hebrew": "סירופ"
+  },
+  {
+    "italian": "iniezione",
+    "english": "injection",
+    "hebrew": "זריקה"
+  },
+  {
+    "italian": "siringa",
+    "english": "syringe",
+    "hebrew": "מזרק"
+  },
+  {
+    "italian": "bendaggio",
+    "english": "bandage",
+    "hebrew": "תחבושת"
+  },
+  {
+    "italian": "cerotto",
+    "english": "plaster",
+    "hebrew": "פלסטר"
+  },
+  {
+    "italian": "febbre",
+    "english": "fever",
+    "hebrew": "חום"
+  },
+  {
+    "italian": "termometro",
+    "english": "thermometer",
+    "hebrew": "מדחום"
+  },
+  {
+    "italian": "tosse",
+    "english": "cough",
+    "hebrew": "שיעול"
+  },
+  {
+    "italian": "raffreddore",
+    "english": "cold",
+    "hebrew": "הצטננות"
+  },
+  {
+    "italian": "influenza",
+    "english": "flu",
+    "hebrew": "שפעת"
+  },
+  {
+    "italian": "allergia",
+    "english": "allergy",
+    "hebrew": "אלרגיה"
+  },
+  {
+    "italian": "starnuto",
+    "english": "sneeze",
+    "hebrew": "עיטוש"
+  },
+  {
+    "italian": "nausea",
+    "english": "nausea",
+    "hebrew": "בחילה"
+  },
+  {
+    "italian": "vomito",
+    "english": "vomit",
+    "hebrew": "הקאה"
+  },
+  {
+    "italian": "diarrea",
+    "english": "diarrhea",
+    "hebrew": "שלשול"
+  },
+  {
+    "italian": "stomaco",
+    "english": "stomach",
+    "hebrew": "קיבה"
+  },
+  {
+    "italian": "fegato",
+    "english": "liver",
+    "hebrew": "כבד"
+  },
+  {
+    "italian": "reni",
+    "english": "kidneys",
+    "hebrew": "כליות"
+  },
+  {
+    "italian": "polmoni",
+    "english": "lungs",
+    "hebrew": "ריאות"
+  },
+  {
+    "italian": "respiro",
+    "english": "breath",
+    "hebrew": "נשימה"
+  },
+  {
+    "italian": "ossigeno",
+    "english": "oxygen",
+    "hebrew": "חמצן"
+  }
+]
