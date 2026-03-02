@@ -10,7 +10,7 @@ let wordSourceFn = null;
 
 async function loadWords() {
     try {
-        const response = await fetch("http://localhost:4000/words");
+        const response = await fetch("https://italianenglishwords.onrender.com/words");
         if (!response.ok) {
             throw new Error(`Server error: ${response.status}`);
         }
