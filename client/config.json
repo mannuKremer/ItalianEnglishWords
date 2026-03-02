@@ -1,6 +1,6 @@
 {
-  "updateInterval": 6000,
-  "wordsFile": "italian_english_hebrew_words.json",
+  "updateInterval": 10000,
+  "wordsFile": "english_hebrew_words.json",
   "tempDir": "/tmp",
   "audioFormat": ".mp3",
   "wordsCollection": "words"

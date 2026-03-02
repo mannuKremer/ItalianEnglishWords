@@ -1,4 +1,4 @@
-let currentWord = { italian: "?", english: "?", hebrew: "?" };
+let currentWord = { english: "?", hebrew: "?" };
 let onWordChangeCallback = null;
 
 function setCurrentWord(word) {

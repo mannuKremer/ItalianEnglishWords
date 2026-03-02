@@ -19,14 +19,14 @@ function saveFavorites() {
 }
 
 function addToFavorites(word) {
-    if (!favorites.some(fav => fav.italian === word.italian)) {
+    if (!favorites.some(fav => fav.english === word.english)) {
     favorites.push(word);
     saveFavorites();
 }
 }
 
 function removeFromFavorites(word) {
-    favorites = favorites.filter(fav => fav.italian !== word.italian);
+    favorites = favorites.filter(fav => fav.english !== word.english);
     saveFavorites();
 }
 
